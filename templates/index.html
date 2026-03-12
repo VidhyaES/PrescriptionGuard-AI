@@ -1,0 +1,254 @@
+{% extends "base.html" %}
+{% block title %}PrescriptionGuard AI - Instant Drug Interaction Checker for Indian Pharmacies & Clinics{% endblock %}
+
+{% block content %}
+<!-- Navbar -->
+<nav class="fixed top-0 left-0 right-0 bg-white/95 backdrop-blur-lg border-b z-50">
+    <div class="max-w-7xl mx-auto px-6 py-5 flex items-center justify-between">
+        <div class="flex items-center gap-3">
+            <div class="w-10 h-10 bg-teal-600 text-white rounded-2xl flex items-center justify-center text-2xl">
+                <i class="fas fa-shield-alt"></i>
+            </div>
+            <span class="logo-font text-3xl font-semibold tracking-tighter text-slate-900">PrescriptionGuard</span>
+        </div>
+        <div class="hidden md:flex items-center gap-10 text-slate-600 font-medium">
+            <a href="#features" class="hover:text-teal-700 transition">Features</a>
+            <a href="#how" class="hover:text-teal-700 transition">How it Works</a>
+            <a href="#for-whom" class="hover:text-teal-700 transition">For Whom</a>
+            <a href="#testimonials" class="hover:text-teal-700 transition">Testimonials</a>
+        </div>
+        <a href="/analyze" 
+           class="bg-teal-600 hover:bg-teal-700 text-white px-8 py-3.5 rounded-2xl font-semibold flex items-center gap-3 transition-all shadow-lg">
+            <i class="fas fa-sparkles"></i> Try Free Analysis
+        </a>
+    </div>
+</nav>
+
+<!-- Hero -->
+<section class="pt-28 pb-24 bg-gradient-to-br from-slate-50 via-white to-teal-50">
+    <div class="max-w-7xl mx-auto px-6 grid md:grid-cols-2 gap-16 items-center">
+        <div class="space-y-10">
+            <div class="inline-flex items-center gap-3 bg-white px-6 py-3 rounded-3xl shadow-sm text-teal-700 font-medium">
+                <span class="relative flex h-3 w-3">
+                    <span class="animate-ping absolute inline-flex h-full w-full rounded-full bg-emerald-400 opacity-75"></span>
+                    <span class="relative inline-flex rounded-full h-3 w-3 bg-emerald-500"></span>
+                </span>
+                LIVE in Kerala • 500+ pharmacies already using
+            </div>
+            <h1 class="text-6xl md:text-7xl font-semibold leading-none tracking-tighter text-slate-900">
+                Stop dangerous<br>drug interactions<br>before they happen
+            </h1>
+            <p class="text-2xl text-slate-600">
+                Upload any prescription photo.<br>
+                Get <span class="font-semibold text-teal-700">FDA + Indian Pharmacopoeia</span> level alerts in seconds.
+            </p>
+            <div class="flex flex-wrap gap-4">
+                <a href="/analyze" 
+                   class="bg-gradient-to-r from-teal-600 to-emerald-600 hover:from-teal-700 hover:to-emerald-700 text-white text-2xl font-semibold px-12 py-7 rounded-3xl flex items-center gap-4 shadow-2xl transition transform hover:scale-105">
+                    <i class="fas fa-upload text-3xl"></i> Analyze Prescription Now
+                </a>
+                <a href="#how" 
+                   class="border-2 border-slate-300 hover:border-slate-400 text-slate-700 text-2xl font-semibold px-12 py-7 rounded-3xl flex items-center gap-4 transition">
+                    See how it works →
+                </a>
+            </div>
+            <div class="flex items-center gap-8">
+                <div class="flex -space-x-4">
+                    <img src="https://picsum.photos/id/64/48/48" class="w-9 h-9 rounded-2xl border-2 border-white ring-2 ring-teal-100" alt="">
+                    <img src="https://picsum.photos/id/201/48/48" class="w-9 h-9 rounded-2xl border-2 border-white ring-2 ring-teal-100" alt="">
+                    <img src="https://picsum.photos/id/1005/48/48" class="w-9 h-9 rounded-2xl border-2 border-white ring-2 ring-teal-100" alt="">
+                </div>
+                <div class="text-sm">
+                    <p class="font-semibold text-slate-700">Trusted by pharmacists across Kerala</p>
+                    <p class="text-emerald-600">★★★★★ 4.98 (312 reviews)</p>
+                </div>
+            </div>
+        </div>
+        <div class="relative hidden md:block">
+            <img src="https://picsum.photos/id/866/680/620" class="rounded-3xl shadow-2xl" alt="PrescriptionGuard in action">
+            <div class="absolute -bottom-6 -left-6 bg-white rounded-3xl shadow-2xl p-6 max-w-[220px]">
+                <div class="flex gap-4 items-center">
+                    <div class="text-5xl">✅</div>
+                    <div>
+                        <p class="font-semibold text-lg text-emerald-700">No Major Interactions</p>
+                        <p class="text-slate-500 text-sm">Processed in 4.1 seconds</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- Trust logos -->
+<div class="bg-white py-8 border-b">
+    <div class="max-w-7xl mx-auto px-6 flex flex-wrap justify-center items-center gap-x-16 gap-y-8 opacity-80">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/2/2e/Apollo_Pharmacy_Logo.svg" class="h-9" alt="Apollo Pharmacy">
+        <img src="https://www.medplusindia.com/images/medplus-logo.png" class="h-9" alt="MedPlus">
+        <div class="text-2xl font-semibold text-slate-400">Kerala State Pharmacy Council</div>
+        <div class="text-2xl font-semibold text-slate-400">Pharmacy Council of India</div>
+    </div>
+</div>
+
+<!-- Features -->
+<section id="features" class="py-24 bg-white">
+    <div class="max-w-7xl mx-auto px-6">
+        <div class="text-center mb-16">
+            <h2 class="text-5xl font-semibold tracking-tight text-slate-900">Everything a busy pharmacist needs</h2>
+        </div>
+        <div class="grid md:grid-cols-3 gap-8">
+            <div class="group bg-slate-50 hover:bg-white border border-transparent hover:border-teal-200 p-8 rounded-3xl transition-all">
+                <div class="w-16 h-16 bg-teal-100 text-teal-600 rounded-2xl flex items-center justify-center text-4xl mb-6 group-hover:rotate-12 transition">📸</div>
+                <h3 class="text-2xl font-semibold mb-3">Handwritten OCR</h3>
+                <p class="text-slate-600">Accurately reads even messy doctor handwriting in Malayalam & English.</p>
+            </div>
+            <div class="group bg-slate-50 hover:bg-white border border-transparent hover:border-teal-200 p-8 rounded-3xl transition-all">
+                <div class="w-16 h-16 bg-teal-100 text-teal-600 rounded-2xl flex items-center justify-center text-4xl mb-6 group-hover:rotate-12 transition">⚠️</div>
+                <h3 class="text-2xl font-semibold mb-3">Major Interaction Alerts</h3>
+                <p class="text-slate-600">Powered by latest Indian & international databases. Major, Moderate & Minor levels.</p>
+            </div>
+            <div class="group bg-slate-50 hover:bg-white border border-transparent hover:border-teal-200 p-8 rounded-3xl transition-all">
+                <div class="w-16 h-16 bg-teal-100 text-teal-600 rounded-2xl flex items-center justify-center text-4xl mb-6 group-hover:rotate-12 transition">📱</div>
+                <h3 class="text-2xl font-semibold mb-3">Works on Any Phone</h3>
+                <p class="text-slate-600">Lightning fast on Android, iPhone, tablets. No app installation needed.</p>
+            </div>
+            <div class="group bg-slate-50 hover:bg-white border border-transparent hover:border-teal-200 p-8 rounded-3xl transition-all">
+                <div class="w-16 h-16 bg-teal-100 text-teal-600 rounded-2xl flex items-center justify-center text-4xl mb-6 group-hover:rotate-12 transition">🚀</div>
+                <h3 class="text-2xl font-semibold mb-3">No Signup Ever</h3>
+                <p class="text-slate-600">Unlimited free analyses. No login, no credit card, no data stored.</p>
+            </div>
+            <div class="group bg-slate-50 hover:bg-white border border-transparent hover:border-teal-200 p-8 rounded-3xl transition-all">
+                <div class="w-16 h-16 bg-teal-100 text-teal-600 rounded-2xl flex items-center justify-center text-4xl mb-6 group-hover:rotate-12 transition">📄</div>
+                <h3 class="text-2xl font-semibold mb-3">PDF Report Export</h3>
+                <p class="text-slate-600">One-click beautiful printable report to give to patients or file.</p>
+            </div>
+            <div class="group bg-slate-50 hover:bg-white border border-transparent hover:border-teal-200 p-8 rounded-3xl transition-all">
+                <div class="w-16 h-16 bg-teal-100 text-teal-600 rounded-2xl flex items-center justify-center text-4xl mb-6 group-hover:rotate-12 transition">🌍</div>
+                <h3 class="text-2xl font-semibold mb-3">English + Malayalam</h3>
+                <p class="text-slate-600">Full support for local languages. More languages coming soon.</p>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- How it Works -->
+<section id="how" class="py-24 bg-slate-50">
+    <div class="max-w-7xl mx-auto px-6">
+        <div class="text-center mb-16">
+            <h2 class="text-5xl font-semibold tracking-tight">From photo to safety report in 4 simple steps</h2>
+        </div>
+        <div class="grid md:grid-cols-4 gap-8">
+            <div class="text-center">
+                <div class="mx-auto w-20 h-20 bg-white rounded-2xl shadow flex items-center justify-center text-5xl mb-6">1️⃣</div>
+                <h3 class="font-semibold text-xl mb-2">Upload Photo</h3>
+                <p class="text-slate-600">Take or upload clear photo of any prescription</p>
+            </div>
+            <div class="text-center">
+                <div class="mx-auto w-20 h-20 bg-white rounded-2xl shadow flex items-center justify-center text-5xl mb-6">2️⃣</div>
+                <h3 class="font-semibold text-xl mb-2">AI Reads Medicines</h3>
+                <p class="text-slate-600">Advanced OCR extracts all drug names instantly</p>
+            </div>
+            <div class="text-center">
+                <div class="mx-auto w-20 h-20 bg-white rounded-2xl shadow flex items-center justify-center text-5xl mb-6">3️⃣</div>
+                <h3 class="font-semibold text-xl mb-2">Checks Interactions</h3>
+                <p class="text-slate-600">Cross-references against 15,000+ known interactions</p>
+            </div>
+            <div class="text-center">
+                <div class="mx-auto w-20 h-20 bg-white rounded-2xl shadow flex items-center justify-center text-5xl mb-6">4️⃣</div>
+                <h3 class="font-semibold text-xl mb-2">Get Instant Report</h3>
+                <p class="text-slate-600">Color-coded warnings + confidence scores</p>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- For Whom -->
+<section id="for-whom" class="py-24 bg-white">
+    <div class="max-w-7xl mx-auto px-6">
+        <div class="text-center mb-16">
+            <h2 class="text-5xl font-semibold tracking-tight text-slate-900">Made for every healthcare hero in India</h2>
+        </div>
+        <div class="grid md:grid-cols-3 gap-8">
+            <div class="group bg-slate-50 hover:bg-white border border-transparent hover:border-teal-200 p-8 rounded-3xl transition-all">
+                <div class="w-16 h-16 bg-teal-100 text-teal-600 rounded-2xl flex items-center justify-center text-4xl mb-6">💊</div>
+                <h3 class="text-2xl font-semibold mb-3">Pharmacists</h3>
+                <p class="text-slate-600">Dispense with confidence. Never miss a major interaction again.</p>
+            </div>
+            <div class="group bg-slate-50 hover:bg-white border border-transparent hover:border-teal-200 p-8 rounded-3xl transition-all">
+                <div class="w-16 h-16 bg-teal-100 text-teal-600 rounded-2xl flex items-center justify-center text-4xl mb-6">👨‍⚕️</div>
+                <h3 class="text-2xl font-semibold mb-3">Doctors & Clinics</h3>
+                <p class="text-slate-600">Quick safety check before handing prescription to patient.</p>
+            </div>
+            <div class="group bg-slate-50 hover:bg-white border border-transparent hover:border-teal-200 p-8 rounded-3xl transition-all">
+                <div class="w-16 h-16 bg-teal-100 text-teal-600 rounded-2xl flex items-center justify-center text-4xl mb-6">🏥</div>
+                <h3 class="text-2xl font-semibold mb-3">Hospital Pharmacies</h3>
+                <p class="text-slate-600">High-volume, lightning-fast analysis for busy wards.</p>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- Testimonials -->
+<section id="testimonials" class="py-24 bg-white">
+    <div class="max-w-7xl mx-auto px-6">
+        <div class="text-center mb-16">
+            <h2 class="text-5xl font-semibold tracking-tight">Real pharmacists, real results</h2>
+        </div>
+        <div class="grid md:grid-cols-3 gap-8">
+            <div class="bg-slate-50 p-8 rounded-3xl">
+                <p class="italic text-slate-700">"Saved me from dispensing a dangerous combination twice this week. Best tool ever!"</p>
+                <div class="mt-8 flex items-center gap-4">
+                    <img src="https://picsum.photos/id/201/60/60" class="w-12 h-12 rounded-2xl" alt="">
+                    <div>
+                        <p class="font-semibold">Rajesh Kumar</p>
+                        <p class="text-sm text-slate-500">Owner, Kumar Medicals, Kochi</p>
+                    </div>
+                </div>
+            </div>
+            <div class="bg-slate-50 p-8 rounded-3xl">
+                <p class="italic text-slate-700">"Handwritten prescriptions are now so easy. My staff loves it. Accuracy is unbelievable."</p>
+                <div class="mt-8 flex items-center gap-4">
+                    <img src="https://picsum.photos/id/1005/60/60" class="w-12 h-12 rounded-2xl" alt="">
+                    <div>
+                        <p class="font-semibold">Dr. Anjali Menon</p>
+                        <p class="text-sm text-slate-500">Chief Pharmacist, Thrissur General Hospital</p>
+                    </div>
+                </div>
+            </div>
+            <div class="bg-slate-50 p-8 rounded-3xl">
+                <p class="italic text-slate-700">"Free, fast and reliable. Every pharmacy in Kerala should use this."</p>
+                <div class="mt-8 flex items-center gap-4">
+                    <img src="https://picsum.photos/id/64/60/60" class="w-12 h-12 rounded-2xl" alt="">
+                    <div>
+                        <p class="font-semibold">Suresh Babu</p>
+                        <p class="text-sm text-slate-500">Manager, MedPlus, Trivandrum</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- Final CTA -->
+<section class="py-28 bg-gradient-to-br from-teal-700 to-emerald-700 text-white text-center">
+    <div class="max-w-3xl mx-auto px-6">
+        <h2 class="text-5xl font-semibold mb-6">Make every prescription 100% safer today</h2>
+        <p class="text-2xl mb-10">Join 500+ clinics and pharmacies across India using PrescriptionGuard AI</p>
+        <a href="/analyze" 
+           class="inline-block bg-white text-teal-700 hover:bg-slate-100 text-2xl font-semibold px-16 py-8 rounded-3xl transition transform hover:scale-105 shadow-2xl">
+            Start Free Analysis — Takes 10 seconds
+        </a>
+        <p class="mt-8 text-teal-100">No registration • No limits • Completely free forever</p>
+    </div>
+</section>
+{% endblock %}
+
+{% block head %}
+<script>
+    document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+        anchor.addEventListener('click', function (e) {
+            e.preventDefault();
+            document.querySelector(this.getAttribute('href')).scrollIntoView({ behavior: 'smooth' });
+        });
+    });
+</script>
+{% endblock %}

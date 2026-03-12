@@ -1,0 +1,3402 @@
+[
+    [
+        "Chlorpheniramine and Meropenem once daily after food.\nClinic: Happy Clinic\nDate: 09-02-2026",
+        {
+            "entities": [
+                [
+                    0,
+                    16,
+                    "MEDICINE"
+                ],
+                [
+                    21,
+                    30,
+                    "MEDICINE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Pantocid and Amlong once daily after food.\nClinic: Happy Clinic\nDate: 10-02-2026",
+        {
+            "entities": [
+                [
+                    0,
+                    8,
+                    "MEDICINE"
+                ],
+                [
+                    13,
+                    19,
+                    "MEDICINE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Tramadol and Meropenem once daily after food.\nClinic: Happy Clinic\nDate: 10-02-2026",
+        {
+            "entities": [
+                [
+                    0,
+                    8,
+                    "MEDICINE"
+                ],
+                [
+                    13,
+                    22,
+                    "MEDICINE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Nitrofurantoin and Montelukast once daily after food.\nClinic: Happy Clinic\nDate: 09-02-2026",
+        {
+            "entities": [
+                [
+                    0,
+                    14,
+                    "MEDICINE"
+                ],
+                [
+                    19,
+                    30,
+                    "MEDICINE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Patient: Jane Smith, Age: 61\nPrescribed: Ranitidine daily, Spironolactone as needed.\nNotes: Avoid alcohol.\nDoctor: Dr. Sample",
+        {
+            "entities": [
+                [
+                    41,
+                    51,
+                    "MEDICINE"
+                ],
+                [
+                    59,
+                    73,
+                    "MEDICINE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Dolo and Losartan once daily after food.\nClinic: Happy Clinic\nDate: 10-02-2026",
+        {
+            "entities": [
+                [
+                    0,
+                    4,
+                    "MEDICINE"
+                ],
+                [
+                    9,
+                    17,
+                    "MEDICINE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Ceftriaxone and Oseltamivir once daily after food.\nClinic: Happy Clinic\nDate: 09-02-2026",
+        {
+            "entities": [
+                [
+                    0,
+                    11,
+                    "MEDICINE"
+                ],
+                [
+                    16,
+                    27,
+                    "MEDICINE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Happy Clinic\nDr. Sample, MBBS, MD\n123 Medical Street, City, State, ZIP\nPhone: +91 1234567890 | Reg No: REG123\nName: Jane Smith ID: PID002\nAge: 45 Gender: Female\nContact: 5551234\nDate: 10-02-2026\nMEDICATIONS\nMedicine Frequency Duration\nDigoxin Once daily 14 days\nGlimepiride Before food 14 days\nSignature:\nDr. Sample, MBBS, MD",
+        {
+            "entities": [
+                [
+                    235,
+                    242,
+                    "MEDICINE"
+                ],
+                [
+                    262,
+                    273,
+                    "MEDICINE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Clopidogrel and Crocin once daily after food.\nClinic: Happy Clinic\nDate: 10-02-2026",
+        {
+            "entities": [
+                [
+                    0,
+                    11,
+                    "MEDICINE"
+                ],
+                [
+                    16,
+                    22,
+                    "MEDICINE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Happy Clinic\nDr. Sample, MBBS, MD\n123 Medical Street, City, State, ZIP\nPhone: +91 1234567890 | Reg No: REG456\nName: Kannan ID: PID002\nAge: 30 Gender: Female\nContact: 5551234\nDate: 09-02-2026\nMEDICATIONS\nMedicine Frequency Duration\nMontelukast Before food 7 days\nDolo 650 Once daily Ongoing\nSignature:\nDr. Sample, MBBS, MD",
+        {
+            "entities": [
+                [
+                    231,
+                    242,
+                    "MEDICINE"
+                ],
+                [
+                    262,
+                    266,
+                    "MEDICINE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Patient: John Doe, Age: 45\nPrescribed: Heparin daily, Fexofenadine as needed.\nNotes: Avoid alcohol.\nDoctor: Dr. Sample",
+        {
+            "entities": [
+                [
+                    39,
+                    46,
+                    "MEDICINE"
+                ],
+                [
+                    54,
+                    66,
+                    "MEDICINE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Patient: Kannan, Age: 45\nPrescribed: Digoxin daily, Losar as needed.\nNotes: Avoid alcohol.\nDoctor: Dr. Sample",
+        {
+            "entities": [
+                [
+                    37,
+                    44,
+                    "MEDICINE"
+                ],
+                [
+                    52,
+                    57,
+                    "MEDICINE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Patient: Kannan, Age: 61\nPrescribed: Cloxacillin daily, Tinidazole as needed.\nNotes: Avoid alcohol.\nDoctor: Dr. Sample",
+        {
+            "entities": [
+                [
+                    37,
+                    48,
+                    "MEDICINE"
+                ],
+                [
+                    56,
+                    66,
+                    "MEDICINE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Patient: Kannan, Age: 61\nPrescribed: Morphine daily, Chlorpheniramine as needed.\nNotes: Avoid alcohol.\nDoctor: Dr. Sample",
+        {
+            "entities": [
+                [
+                    37,
+                    45,
+                    "MEDICINE"
+                ],
+                [
+                    53,
+                    69,
+                    "MEDICINE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Patient: Kannan, Age: 61\nPrescribed: Isoniazid daily, Metoprolol as needed.\nNotes: Avoid alcohol.\nDoctor: Dr. Sample",
+        {
+            "entities": [
+                [
+                    37,
+                    46,
+                    "MEDICINE"
+                ],
+                [
+                    54,
+                    64,
+                    "MEDICINE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Patient: John Doe, Age: 45\nPrescribed: Atenolol daily, Cloxacillin as needed.\nNotes: Avoid alcohol.\nDoctor: Dr. Sample",
+        {
+            "entities": [
+                [
+                    39,
+                    47,
+                    "MEDICINE"
+                ],
+                [
+                    55,
+                    66,
+                    "MEDICINE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Happy Clinic\nDr. Sample, MBBS, MD\n123 Medical Street, City, State, ZIP\nPhone: +91 1234567890 | Reg No: REG123\nName: Kannan ID: PID002\nAge: 45 Gender: Female\nContact: 5551234\nDate: 10-02-2026\nMEDICATIONS\nMedicine Frequency Duration\nAmoxicillin Once daily 14 days\nMetoclopramide Before food 7 days\nSignature:\nDr. Sample, MBBS, MD",
+        {
+            "entities": [
+                [
+                    231,
+                    242,
+                    "MEDICINE"
+                ],
+                [
+                    262,
+                    276,
+                    "MEDICINE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Happy Clinic\nDr. Sample, MBBS, MD\n123 Medical Street, City, State, ZIP\nPhone: +91 9876543210 | Reg No: REG456\nName: Jane Smith ID: PID002\nAge: 30 Gender: Female\nContact: 9688616487\nDate: 10-02-2026\nMEDICATIONS\nMedicine Frequency Duration\nPropranolol After food Ongoing\nItraconazole Twice daily 14 days\nSignature:\nDr. Sample, MBBS, MD",
+        {
+            "entities": [
+                [
+                    238,
+                    249,
+                    "MEDICINE"
+                ],
+                [
+                    269,
+                    281,
+                    "MEDICINE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Brufen and Dapagliflozin once daily after food.\nClinic: Happy Clinic\nDate: 10-02-2026",
+        {
+            "entities": [
+                [
+                    0,
+                    6,
+                    "MEDICINE"
+                ],
+                [
+                    11,
+                    24,
+                    "MEDICINE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Chlorpheniramine and Metronidazole once daily after food.\nClinic: Happy Clinic\nDate: 09-02-2026",
+        {
+            "entities": [
+                [
+                    0,
+                    16,
+                    "MEDICINE"
+                ],
+                [
+                    21,
+                    34,
+                    "MEDICINE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Crocin and Diphenhydramine once daily after food.\nClinic: Happy Clinic\nDate: 09-02-2026",
+        {
+            "entities": [
+                [
+                    0,
+                    6,
+                    "MEDICINE"
+                ],
+                [
+                    11,
+                    26,
+                    "MEDICINE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Patient: John Doe, Age: 45\nPrescribed: Atorvastatin daily, Cetirizine as needed.\nNotes: Avoid alcohol.\nDoctor: Dr. Sample",
+        {
+            "entities": [
+                [
+                    39,
+                    51,
+                    "MEDICINE"
+                ],
+                [
+                    59,
+                    69,
+                    "MEDICINE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Telmisartan and Ceftriaxone once daily after food.\nClinic: Happy Clinic\nDate: 10-02-2026",
+        {
+            "entities": [
+                [
+                    0,
+                    11,
+                    "MEDICINE"
+                ],
+                [
+                    16,
+                    27,
+                    "MEDICINE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Happy Clinic\nDr. Sample, MBBS, MD\n123 Medical Street, City, State, ZIP\nPhone: +91 9876543210 | Reg No: REG456\nName: Jane Smith ID: PID002\nAge: 30 Gender: Male\nContact: 9688616487\nDate: 10-02-2026\nMEDICATIONS\nMedicine Frequency Duration\nNaproxen Once daily 7 days\nDapagliflozin Twice daily 14 days\nSignature:\nDr. Sample, MBBS, MD",
+        {
+            "entities": [
+                [
+                    236,
+                    244,
+                    "MEDICINE"
+                ],
+                [
+                    263,
+                    276,
+                    "MEDICINE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Patient: Kannan, Age: 45\nPrescribed: Insulin Human Actrapid daily, Chlorpheniramine as needed.\nNotes: Avoid alcohol.\nDoctor: Dr. Sample",
+        {
+            "entities": [
+                [
+                    37,
+                    44,
+                    "MEDICINE"
+                ],
+                [
+                    67,
+                    83,
+                    "MEDICINE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Happy Clinic\nDr. Sample, MBBS, MD\n123 Medical Street, City, State, ZIP\nPhone: +91 9876543210 | Reg No: REG123\nName: John Doe ID: PID001\nAge: 61 Gender: Female\nContact: 5551234\nDate: 09-02-2026\nMEDICATIONS\nMedicine Frequency Duration\nAcyclovir Before food Ongoing\nKetoconazole Before food 7 days\nSignature:\nDr. Sample, MBBS, MD",
+        {
+            "entities": [
+                [
+                    233,
+                    242,
+                    "MEDICINE"
+                ],
+                [
+                    263,
+                    275,
+                    "MEDICINE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Patient: Jane Smith, Age: 61\nPrescribed: Atorlip daily, Telmisartan as needed.\nNotes: Avoid alcohol.\nDoctor: Dr. Sample",
+        {
+            "entities": [
+                [
+                    41,
+                    48,
+                    "MEDICINE"
+                ],
+                [
+                    56,
+                    67,
+                    "MEDICINE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Patient: John Doe, Age: 61\nPrescribed: Digoxin daily, Chlorpheniramine as needed.\nNotes: Avoid alcohol.\nDoctor: Dr. Sample",
+        {
+            "entities": [
+                [
+                    39,
+                    46,
+                    "MEDICINE"
+                ],
+                [
+                    54,
+                    70,
+                    "MEDICINE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Patient: Jane Smith, Age: 30\nPrescribed: Levocetirizine daily, Ampicillin as needed.\nNotes: Avoid alcohol.\nDoctor: Dr. Sample",
+        {
+            "entities": [
+                [
+                    45,
+                    55,
+                    "MEDICINE"
+                ],
+                [
+                    63,
+                    73,
+                    "MEDICINE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Patient: John Doe, Age: 45\nPrescribed: Valacyclovir daily, Atorva as needed.\nNotes: Avoid alcohol.\nDoctor: Dr. Sample",
+        {
+            "entities": [
+                [
+                    42,
+                    51,
+                    "MEDICINE"
+                ],
+                [
+                    59,
+                    65,
+                    "MEDICINE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Happy Clinic\nDr. Sample, MBBS, MD\n123 Medical Street, City, State, ZIP\nPhone: +91 9876543210 | Reg No: REG123\nName: Kannan ID: PID002\nAge: 61 Gender: Male\nContact: 5551234\nDate: 10-02-2026\nMEDICATIONS\nMedicine Frequency Duration\nParacetamol After food Ongoing\nRabeprazole After food Ongoing\nSignature:\nDr. Sample, MBBS, MD",
+        {
+            "entities": [
+                [
+                    229,
+                    240,
+                    "MEDICINE"
+                ],
+                [
+                    260,
+                    271,
+                    "MEDICINE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Ibuprofen and Diphenhydramine once daily after food.\nClinic: Happy Clinic\nDate: 09-02-2026",
+        {
+            "entities": [
+                [
+                    0,
+                    9,
+                    "MEDICINE"
+                ],
+                [
+                    14,
+                    29,
+                    "MEDICINE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Heparin and Fexofenadine once daily after food.\nClinic: Happy Clinic\nDate: 09-02-2026",
+        {
+            "entities": [
+                [
+                    0,
+                    7,
+                    "MEDICINE"
+                ],
+                [
+                    12,
+                    24,
+                    "MEDICINE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Cefixime and Acyclovir once daily after food.\nClinic: Happy Clinic\nDate: 10-02-2026",
+        {
+            "entities": [
+                [
+                    0,
+                    8,
+                    "MEDICINE"
+                ],
+                [
+                    13,
+                    22,
+                    "MEDICINE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Chlorpheniramine and Isosorbide Mononitrate once daily after food.\nClinic: Happy Clinic\nDate: 09-02-2026",
+        {
+            "entities": [
+                [
+                    0,
+                    16,
+                    "MEDICINE"
+                ],
+                [
+                    21,
+                    43,
+                    "MEDICINE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Atenolol and Metoclopramide once daily after food.\nClinic: Happy Clinic\nDate: 10-02-2026",
+        {
+            "entities": [
+                [
+                    0,
+                    8,
+                    "MEDICINE"
+                ],
+                [
+                    13,
+                    27,
+                    "MEDICINE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Patient: Kannan, Age: 45\nPrescribed: Metronidazole daily, Metoclopramide as needed.\nNotes: Avoid alcohol.\nDoctor: Dr. Sample",
+        {
+            "entities": [
+                [
+                    37,
+                    50,
+                    "MEDICINE"
+                ],
+                [
+                    58,
+                    72,
+                    "MEDICINE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Patient: Kannan, Age: 30\nPrescribed: Rifampicin daily, Domperidone as needed.\nNotes: Avoid alcohol.\nDoctor: Dr. Sample",
+        {
+            "entities": [
+                [
+                    37,
+                    47,
+                    "MEDICINE"
+                ],
+                [
+                    55,
+                    66,
+                    "MEDICINE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Vildagliptin and Atorva once daily after food.\nClinic: Happy Clinic\nDate: 10-02-2026",
+        {
+            "entities": [
+                [
+                    0,
+                    12,
+                    "MEDICINE"
+                ],
+                [
+                    17,
+                    23,
+                    "MEDICINE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Happy Clinic\nDr. Sample, MBBS, MD\n123 Medical Street, City, State, ZIP\nPhone: +91 9876543210 | Reg No: REG456\nName: Kannan ID: PID001\nAge: 45 Gender: Male\nContact: 9688616487\nDate: 09-02-2026\nMEDICATIONS\nMedicine Frequency Duration\nEnoxaparin Before food 14 days\nHydrochlorothiazide After food Ongoing\nSignature:\nDr. Sample, MBBS, MD",
+        {
+            "entities": [
+                [
+                    232,
+                    242,
+                    "MEDICINE"
+                ],
+                [
+                    263,
+                    282,
+                    "MEDICINE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Metoclopramide and Atorvastatin once daily after food.\nClinic: Happy Clinic\nDate: 10-02-2026",
+        {
+            "entities": [
+                [
+                    0,
+                    14,
+                    "MEDICINE"
+                ],
+                [
+                    19,
+                    31,
+                    "MEDICINE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Paracetamol and Salbutamol once daily after food.\nClinic: Happy Clinic\nDate: 09-02-2026",
+        {
+            "entities": [
+                [
+                    0,
+                    11,
+                    "MEDICINE"
+                ],
+                [
+                    16,
+                    26,
+                    "MEDICINE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Patient: Jane Smith, Age: 61\nPrescribed: Paracetamol daily, Atorvastatin as needed.\nNotes: Avoid alcohol.\nDoctor: Dr. Sample",
+        {
+            "entities": [
+                [
+                    41,
+                    52,
+                    "MEDICINE"
+                ],
+                [
+                    60,
+                    72,
+                    "MEDICINE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Ciprofloxacin and Telmisartan once daily after food.\nClinic: Happy Clinic\nDate: 10-02-2026",
+        {
+            "entities": [
+                [
+                    0,
+                    13,
+                    "MEDICINE"
+                ],
+                [
+                    18,
+                    29,
+                    "MEDICINE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Patient: John Doe, Age: 61\nPrescribed: Glimepiride daily, Insulin Glargine as needed.\nNotes: Avoid alcohol.\nDoctor: Dr. Sample",
+        {
+            "entities": [
+                [
+                    39,
+                    50,
+                    "MEDICINE"
+                ],
+                [
+                    58,
+                    65,
+                    "MEDICINE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Esomeprazole and Amlodipine once daily after food.\nClinic: Happy Clinic\nDate: 10-02-2026",
+        {
+            "entities": [
+                [
+                    0,
+                    12,
+                    "MEDICINE"
+                ],
+                [
+                    17,
+                    27,
+                    "MEDICINE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Chlorpheniramine and Ampicillin once daily after food.\nClinic: Happy Clinic\nDate: 10-02-2026",
+        {
+            "entities": [
+                [
+                    0,
+                    16,
+                    "MEDICINE"
+                ],
+                [
+                    21,
+                    31,
+                    "MEDICINE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Fexofenadine and Vildagliptin once daily after food.\nClinic: Happy Clinic\nDate: 10-02-2026",
+        {
+            "entities": [
+                [
+                    0,
+                    12,
+                    "MEDICINE"
+                ],
+                [
+                    17,
+                    29,
+                    "MEDICINE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Isosorbide Mononitrate and Insulin Human Actrapid once daily after food.\nClinic: Happy Clinic\nDate: 10-02-2026",
+        {
+            "entities": [
+                [
+                    0,
+                    22,
+                    "MEDICINE"
+                ],
+                [
+                    27,
+                    34,
+                    "MEDICINE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Amlodipine and Ibuprofen once daily after food.\nClinic: Happy Clinic\nDate: 10-02-2026",
+        {
+            "entities": [
+                [
+                    0,
+                    10,
+                    "MEDICINE"
+                ],
+                [
+                    15,
+                    24,
+                    "MEDICINE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Vancomycin and Esomeprazole once daily after food.\nClinic: Happy Clinic\nDate: 10-02-2026",
+        {
+            "entities": [
+                [
+                    0,
+                    10,
+                    "MEDICINE"
+                ],
+                [
+                    15,
+                    27,
+                    "MEDICINE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Valacyclovir and Levocetirizine once daily after food.\nClinic: Happy Clinic\nDate: 10-02-2026",
+        {
+            "entities": [
+                [
+                    3,
+                    12,
+                    "MEDICINE"
+                ],
+                [
+                    21,
+                    31,
+                    "MEDICINE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Patient: John Doe, Age: 30\nPrescribed: Furosemide daily, Simvastatin as needed.\nNotes: Avoid alcohol.\nDoctor: Dr. Sample",
+        {
+            "entities": [
+                [
+                    39,
+                    49,
+                    "MEDICINE"
+                ],
+                [
+                    57,
+                    68,
+                    "MEDICINE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Happy Clinic\nDr. Sample, MBBS, MD\n123 Medical Street, City, State, ZIP\nPhone: +91 1234567890 | Reg No: REG123\nName: Kannan ID: PID002\nAge: 30 Gender: Male\nContact: 5551234\nDate: 09-02-2026\nMEDICATIONS\nMedicine Frequency Duration\nFormoterol After food 14 days\nPantoprazole Twice daily Ongoing\nSignature:\nDr. Sample, MBBS, MD",
+        {
+            "entities": [
+                [
+                    229,
+                    239,
+                    "MEDICINE"
+                ],
+                [
+                    259,
+                    271,
+                    "MEDICINE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Happy Clinic\nDr. Sample, MBBS, MD\n123 Medical Street, City, State, ZIP\nPhone: +91 1234567890 | Reg No: REG456\nName: Jane Smith ID: PID001\nAge: 45 Gender: Male\nContact: 9688616487\nDate: 10-02-2026\nMEDICATIONS\nMedicine Frequency Duration\nLosar Before food 7 days\nLevocetirizine Before food 7 days\nSignature:\nDr. Sample, MBBS, MD",
+        {
+            "entities": [
+                [
+                    236,
+                    241,
+                    "MEDICINE"
+                ],
+                [
+                    265,
+                    275,
+                    "MEDICINE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Digoxin and Isoniazid once daily after food.\nClinic: Happy Clinic\nDate: 10-02-2026",
+        {
+            "entities": [
+                [
+                    0,
+                    7,
+                    "MEDICINE"
+                ],
+                [
+                    12,
+                    21,
+                    "MEDICINE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Patient: Jane Smith, Age: 45\nPrescribed: Vildagliptin daily, Isoniazid as needed.\nNotes: Avoid alcohol.\nDoctor: Dr. Sample",
+        {
+            "entities": [
+                [
+                    41,
+                    53,
+                    "MEDICINE"
+                ],
+                [
+                    61,
+                    70,
+                    "MEDICINE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Happy Clinic\nDr. Sample, MBBS, MD\n123 Medical Street, City, State, ZIP\nPhone: +91 9876543210 | Reg No: REG123\nName: John Doe ID: PID001\nAge: 45 Gender: Female\nContact: 5551234\nDate: 10-02-2026\nMEDICATIONS\nMedicine Frequency Duration\nLosar Before food 14 days\nCombiflam Once daily Ongoing\nSignature:\nDr. Sample, MBBS, MD",
+        {
+            "entities": [
+                [
+                    233,
+                    238,
+                    "MEDICINE"
+                ],
+                [
+                    259,
+                    268,
+                    "MEDICINE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Patient: Kannan, Age: 45\nPrescribed: Dolo daily, Hydrochlorothiazide as needed.\nNotes: Avoid alcohol.\nDoctor: Dr. Sample",
+        {
+            "entities": [
+                [
+                    37,
+                    41,
+                    "MEDICINE"
+                ],
+                [
+                    49,
+                    68,
+                    "MEDICINE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Patient: Jane Smith, Age: 61\nPrescribed: Dolo 650 daily, Budesonide as needed.\nNotes: Avoid alcohol.\nDoctor: Dr. Sample",
+        {
+            "entities": [
+                [
+                    41,
+                    45,
+                    "MEDICINE"
+                ],
+                [
+                    57,
+                    67,
+                    "MEDICINE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Patient: Jane Smith, Age: 30\nPrescribed: Diphenhydramine daily, Pantocid as needed.\nNotes: Avoid alcohol.\nDoctor: Dr. Sample",
+        {
+            "entities": [
+                [
+                    41,
+                    56,
+                    "MEDICINE"
+                ],
+                [
+                    64,
+                    72,
+                    "MEDICINE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Patient: John Doe, Age: 61\nPrescribed: Combiflam daily, Aspirin as needed.\nNotes: Avoid alcohol.\nDoctor: Dr. Sample",
+        {
+            "entities": [
+                [
+                    39,
+                    48,
+                    "MEDICINE"
+                ],
+                [
+                    56,
+                    63,
+                    "MEDICINE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Happy Clinic\nDr. Sample, MBBS, MD\n123 Medical Street, City, State, ZIP\nPhone: +91 1234567890 | Reg No: REG456\nName: John Doe ID: PID002\nAge: 61 Gender: Female\nContact: 9688616487\nDate: 09-02-2026\nMEDICATIONS\nMedicine Frequency Duration\nPropranolol Before food 14 days\nFurosemide Before food 7 days\nSignature:\nDr. Sample, MBBS, MD",
+        {
+            "entities": [
+                [
+                    236,
+                    247,
+                    "MEDICINE"
+                ],
+                [
+                    268,
+                    278,
+                    "MEDICINE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Happy Clinic\nDr. Sample, MBBS, MD\n123 Medical Street, City, State, ZIP\nPhone: +91 9876543210 | Reg No: REG123\nName: John Doe ID: PID001\nAge: 61 Gender: Male\nContact: 9688616487\nDate: 10-02-2026\nMEDICATIONS\nMedicine Frequency Duration\nPantocid Once daily Ongoing\nIbuprofen Once daily Ongoing\nSignature:\nDr. Sample, MBBS, MD",
+        {
+            "entities": [
+                [
+                    234,
+                    242,
+                    "MEDICINE"
+                ],
+                [
+                    262,
+                    271,
+                    "MEDICINE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Happy Clinic\nDr. Sample, MBBS, MD\n123 Medical Street, City, State, ZIP\nPhone: +91 1234567890 | Reg No: REG456\nName: Jane Smith ID: PID002\nAge: 61 Gender: Female\nContact: 9688616487\nDate: 09-02-2026\nMEDICATIONS\nMedicine Frequency Duration\nAmlodipine Twice daily 7 days\nParacetamol After food 14 days\nSignature:\nDr. Sample, MBBS, MD",
+        {
+            "entities": [
+                [
+                    238,
+                    248,
+                    "MEDICINE"
+                ],
+                [
+                    268,
+                    279,
+                    "MEDICINE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Tinidazole and Esomeprazole once daily after food.\nClinic: Happy Clinic\nDate: 09-02-2026",
+        {
+            "entities": [
+                [
+                    0,
+                    10,
+                    "MEDICINE"
+                ],
+                [
+                    15,
+                    27,
+                    "MEDICINE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Happy Clinic\nDr. Sample, MBBS, MD\n123 Medical Street, City, State, ZIP\nPhone: +91 9876543210 | Reg No: REG123\nName: Jane Smith ID: PID002\nAge: 45 Gender: Female\nContact: 9688616487\nDate: 09-02-2026\nMEDICATIONS\nMedicine Frequency Duration\nCrocin After food 7 days\nNaproxen Before food 7 days\nSignature:\nDr. Sample, MBBS, MD",
+        {
+            "entities": [
+                [
+                    238,
+                    244,
+                    "MEDICINE"
+                ],
+                [
+                    263,
+                    271,
+                    "MEDICINE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Aspirin and Naproxen once daily after food.\nClinic: Happy Clinic\nDate: 09-02-2026",
+        {
+            "entities": [
+                [
+                    0,
+                    7,
+                    "MEDICINE"
+                ],
+                [
+                    12,
+                    20,
+                    "MEDICINE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Patient: Jane Smith, Age: 45\nPrescribed: Spironolactone daily, Amoxicillin as needed.\nNotes: Avoid alcohol.\nDoctor: Dr. Sample",
+        {
+            "entities": [
+                [
+                    41,
+                    55,
+                    "MEDICINE"
+                ],
+                [
+                    63,
+                    74,
+                    "MEDICINE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Levothyroxine and Piperacillin-Tazobactam once daily after food.\nClinic: Happy Clinic\nDate: 09-02-2026",
+        {
+            "entities": [
+                [
+                    0,
+                    13,
+                    "MEDICINE"
+                ],
+                [
+                    18,
+                    41,
+                    "MEDICINE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Happy Clinic\nDr. Sample, MBBS, MD\n123 Medical Street, City, State, ZIP\nPhone: +91 9876543210 | Reg No: REG123\nName: Jane Smith ID: PID002\nAge: 45 Gender: Female\nContact: 9688616487\nDate: 10-02-2026\nMEDICATIONS\nMedicine Frequency Duration\nPantocid Twice daily 7 days\nGliclazide Once daily 7 days\nSignature:\nDr. Sample, MBBS, MD",
+        {
+            "entities": [
+                [
+                    238,
+                    246,
+                    "MEDICINE"
+                ],
+                [
+                    266,
+                    276,
+                    "MEDICINE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Fexofenadine and Hydrochlorothiazide once daily after food.\nClinic: Happy Clinic\nDate: 09-02-2026",
+        {
+            "entities": [
+                [
+                    0,
+                    12,
+                    "MEDICINE"
+                ],
+                [
+                    17,
+                    36,
+                    "MEDICINE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Happy Clinic\nDr. Sample, MBBS, MD\n123 Medical Street, City, State, ZIP\nPhone: +91 9876543210 | Reg No: REG456\nName: Kannan ID: PID001\nAge: 45 Gender: Female\nContact: 9688616487\nDate: 10-02-2026\nMEDICATIONS\nMedicine Frequency Duration\nIbuprofen Before food 7 days\nIsosorbide Mononitrate Twice daily 14 days\nSignature:\nDr. Sample, MBBS, MD",
+        {
+            "entities": [
+                [
+                    234,
+                    243,
+                    "MEDICINE"
+                ],
+                [
+                    263,
+                    285,
+                    "MEDICINE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Pantoprazole and Metronidazole once daily after food.\nClinic: Happy Clinic\nDate: 10-02-2026",
+        {
+            "entities": [
+                [
+                    0,
+                    12,
+                    "MEDICINE"
+                ],
+                [
+                    17,
+                    30,
+                    "MEDICINE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Happy Clinic\nDr. Sample, MBBS, MD\n123 Medical Street, City, State, ZIP\nPhone: +91 9876543210 | Reg No: REG456\nName: Kannan ID: PID002\nAge: 61 Gender: Male\nContact: 9688616487\nDate: 09-02-2026\nMEDICATIONS\nMedicine Frequency Duration\nDomperidone After food Ongoing\nInsulin Twice daily 7 days\nSignature:\nDr. Sample, MBBS, MD",
+        {
+            "entities": [
+                [
+                    232,
+                    243,
+                    "MEDICINE"
+                ],
+                [
+                    263,
+                    270,
+                    "MEDICINE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Ciprofloxacin and Furosemide once daily after food.\nClinic: Happy Clinic\nDate: 09-02-2026",
+        {
+            "entities": [
+                [
+                    0,
+                    13,
+                    "MEDICINE"
+                ],
+                [
+                    18,
+                    28,
+                    "MEDICINE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Patient: Kannan, Age: 61\nPrescribed: Glimepiride daily, Insulin Human Actrapid as needed.\nNotes: Avoid alcohol.\nDoctor: Dr. Sample",
+        {
+            "entities": [
+                [
+                    37,
+                    48,
+                    "MEDICINE"
+                ],
+                [
+                    56,
+                    63,
+                    "MEDICINE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Happy Clinic\nDr. Sample, MBBS, MD\n123 Medical Street, City, State, ZIP\nPhone: +91 9876543210 | Reg No: REG123\nName: John Doe ID: PID001\nAge: 45 Gender: Female\nContact: 5551234\nDate: 09-02-2026\nMEDICATIONS\nMedicine Frequency Duration\nAtenolol After food 7 days\nRifampicin Once daily 14 days\nSignature:\nDr. Sample, MBBS, MD",
+        {
+            "entities": [
+                [
+                    233,
+                    241,
+                    "MEDICINE"
+                ],
+                [
+                    260,
+                    270,
+                    "MEDICINE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Doxycycline and Crocin once daily after food.\nClinic: Happy Clinic\nDate: 10-02-2026",
+        {
+            "entities": [
+                [
+                    0,
+                    11,
+                    "MEDICINE"
+                ],
+                [
+                    16,
+                    22,
+                    "MEDICINE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Patient: Kannan, Age: 30\nPrescribed: Atorlip daily, Vildagliptin as needed.\nNotes: Avoid alcohol.\nDoctor: Dr. Sample",
+        {
+            "entities": [
+                [
+                    37,
+                    44,
+                    "MEDICINE"
+                ],
+                [
+                    52,
+                    64,
+                    "MEDICINE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Happy Clinic\nDr. Sample, MBBS, MD\n123 Medical Street, City, State, ZIP\nPhone: +91 9876543210 | Reg No: REG456\nName: John Doe ID: PID002\nAge: 30 Gender: Female\nContact: 9688616487\nDate: 09-02-2026\nMEDICATIONS\nMedicine Frequency Duration\nLosar After food 7 days\nParacetamol Once daily Ongoing\nSignature:\nDr. Sample, MBBS, MD",
+        {
+            "entities": [
+                [
+                    236,
+                    241,
+                    "MEDICINE"
+                ],
+                [
+                    260,
+                    271,
+                    "MEDICINE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Patient: John Doe, Age: 61\nPrescribed: Rifampicin daily, Furosemide as needed.\nNotes: Avoid alcohol.\nDoctor: Dr. Sample",
+        {
+            "entities": [
+                [
+                    39,
+                    49,
+                    "MEDICINE"
+                ],
+                [
+                    57,
+                    67,
+                    "MEDICINE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Patient: Kannan, Age: 61\nPrescribed: Enoxaparin daily, Olmesartan as needed.\nNotes: Avoid alcohol.\nDoctor: Dr. Sample",
+        {
+            "entities": [
+                [
+                    37,
+                    47,
+                    "MEDICINE"
+                ],
+                [
+                    55,
+                    65,
+                    "MEDICINE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Ceftriaxone and Ethambutol once daily after food.\nClinic: Happy Clinic\nDate: 10-02-2026",
+        {
+            "entities": [
+                [
+                    0,
+                    11,
+                    "MEDICINE"
+                ],
+                [
+                    16,
+                    26,
+                    "MEDICINE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Happy Clinic\nDr. Sample, MBBS, MD\n123 Medical Street, City, State, ZIP\nPhone: +91 1234567890 | Reg No: REG456\nName: John Doe ID: PID001\nAge: 45 Gender: Male\nContact: 5551234\nDate: 10-02-2026\nMEDICATIONS\nMedicine Frequency Duration\nDolo 650 After food 14 days\nLevothyroxine Twice daily 7 days\nSignature:\nDr. Sample, MBBS, MD",
+        {
+            "entities": [
+                [
+                    231,
+                    235,
+                    "MEDICINE"
+                ],
+                [
+                    259,
+                    272,
+                    "MEDICINE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Happy Clinic\nDr. Sample, MBBS, MD\n123 Medical Street, City, State, ZIP\nPhone: +91 1234567890 | Reg No: REG123\nName: Kannan ID: PID001\nAge: 45 Gender: Male\nContact: 9688616487\nDate: 09-02-2026\nMEDICATIONS\nMedicine Frequency Duration\nDoxycycline Before food 7 days\nCiprofloxacin Before food 7 days\nSignature:\nDr. Sample, MBBS, MD",
+        {
+            "entities": [
+                [
+                    232,
+                    243,
+                    "MEDICINE"
+                ],
+                [
+                    263,
+                    276,
+                    "MEDICINE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Happy Clinic\nDr. Sample, MBBS, MD\n123 Medical Street, City, State, ZIP\nPhone: +91 1234567890 | Reg No: REG456\nName: John Doe ID: PID002\nAge: 61 Gender: Female\nContact: 5551234\nDate: 09-02-2026\nMEDICATIONS\nMedicine Frequency Duration\nEsomeprazole Once daily Ongoing\nHydrochlorothiazide Once daily 7 days\nSignature:\nDr. Sample, MBBS, MD",
+        {
+            "entities": [
+                [
+                    233,
+                    245,
+                    "MEDICINE"
+                ],
+                [
+                    265,
+                    284,
+                    "MEDICINE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Happy Clinic\nDr. Sample, MBBS, MD\n123 Medical Street, City, State, ZIP\nPhone: +91 9876543210 | Reg No: REG123\nName: Jane Smith ID: PID002\nAge: 45 Gender: Male\nContact: 5551234\nDate: 10-02-2026\nMEDICATIONS\nMedicine Frequency Duration\nCloxacillin Once daily 7 days\nNitrofurantoin After food Ongoing\nSignature:\nDr. Sample, MBBS, MD",
+        {
+            "entities": [
+                [
+                    233,
+                    244,
+                    "MEDICINE"
+                ],
+                [
+                    263,
+                    277,
+                    "MEDICINE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Crocin and Vildagliptin once daily after food.\nClinic: Happy Clinic\nDate: 10-02-2026",
+        {
+            "entities": [
+                [
+                    0,
+                    6,
+                    "MEDICINE"
+                ],
+                [
+                    11,
+                    23,
+                    "MEDICINE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Happy Clinic\nDr. Sample, MBBS, MD\n123 Medical Street, City, State, ZIP\nPhone: +91 1234567890 | Reg No: REG456\nName: Kannan ID: PID002\nAge: 45 Gender: Female\nContact: 5551234\nDate: 10-02-2026\nMEDICATIONS\nMedicine Frequency Duration\nWarfarin After food Ongoing\nHydrochlorothiazide Twice daily 7 days\nSignature:\nDr. Sample, MBBS, MD",
+        {
+            "entities": [
+                [
+                    231,
+                    239,
+                    "MEDICINE"
+                ],
+                [
+                    259,
+                    278,
+                    "MEDICINE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Happy Clinic\nDr. Sample, MBBS, MD\n123 Medical Street, City, State, ZIP\nPhone: +91 1234567890 | Reg No: REG123\nName: John Doe ID: PID001\nAge: 30 Gender: Female\nContact: 5551234\nDate: 09-02-2026\nMEDICATIONS\nMedicine Frequency Duration\nMontelukast Once daily Ongoing\nDigoxin Twice daily Ongoing\nSignature:\nDr. Sample, MBBS, MD",
+        {
+            "entities": [
+                [
+                    233,
+                    244,
+                    "MEDICINE"
+                ],
+                [
+                    264,
+                    271,
+                    "MEDICINE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Patient: Jane Smith, Age: 45\nPrescribed: Gliclazide daily, Ibuprofen as needed.\nNotes: Avoid alcohol.\nDoctor: Dr. Sample",
+        {
+            "entities": [
+                [
+                    41,
+                    51,
+                    "MEDICINE"
+                ],
+                [
+                    59,
+                    68,
+                    "MEDICINE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Patient: Jane Smith, Age: 45\nPrescribed: Furosemide daily, Isosorbide Mononitrate as needed.\nNotes: Avoid alcohol.\nDoctor: Dr. Sample",
+        {
+            "entities": [
+                [
+                    41,
+                    51,
+                    "MEDICINE"
+                ],
+                [
+                    59,
+                    81,
+                    "MEDICINE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Patient: John Doe, Age: 45\nPrescribed: Ciprofloxacin daily, Levocetirizine as needed.\nNotes: Avoid alcohol.\nDoctor: Dr. Sample",
+        {
+            "entities": [
+                [
+                    39,
+                    52,
+                    "MEDICINE"
+                ],
+                [
+                    64,
+                    74,
+                    "MEDICINE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Happy Clinic\nDr. Sample, MBBS, MD\n123 Medical Street, City, State, ZIP\nPhone: +91 1234567890 | Reg No: REG123\nName: Jane Smith ID: PID002\nAge: 45 Gender: Female\nContact: 9688616487\nDate: 10-02-2026\nMEDICATIONS\nMedicine Frequency Duration\nInsulin Glargine Once daily 7 days\nAmlodipine Twice daily 7 days\nSignature:\nDr. Sample, MBBS, MD",
+        {
+            "entities": [
+                [
+                    238,
+                    245,
+                    "MEDICINE"
+                ],
+                [
+                    273,
+                    283,
+                    "MEDICINE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Happy Clinic\nDr. Sample, MBBS, MD\n123 Medical Street, City, State, ZIP\nPhone: +91 1234567890 | Reg No: REG123\nName: Jane Smith ID: PID001\nAge: 61 Gender: Female\nContact: 5551234\nDate: 09-02-2026\nMEDICATIONS\nMedicine Frequency Duration\nSpironolactone Before food 14 days\nTramadol Before food 14 days\nSignature:\nDr. Sample, MBBS, MD",
+        {
+            "entities": [
+                [
+                    235,
+                    249,
+                    "MEDICINE"
+                ],
+                [
+                    270,
+                    278,
+                    "MEDICINE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Clarithromycin and Metoclopramide once daily after food.\nClinic: Happy Clinic\nDate: 09-02-2026",
+        {
+            "entities": [
+                [
+                    0,
+                    14,
+                    "MEDICINE"
+                ],
+                [
+                    19,
+                    33,
+                    "MEDICINE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Paracetamol and Vildagliptin once daily after food.\nClinic: Happy Clinic\nDate: 09-02-2026",
+        {
+            "entities": [
+                [
+                    0,
+                    11,
+                    "MEDICINE"
+                ],
+                [
+                    16,
+                    28,
+                    "MEDICINE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Happy Clinic\nDr. Sample, MBBS, MD\n123 Medical Street, City, State, ZIP\nPhone: +91 9876543210 | Reg No: REG456\nName: Jane Smith ID: PID001\nAge: 30 Gender: Female\nContact: 9688616487\nDate: 09-02-2026\nMEDICATIONS\nMedicine Frequency Duration\nDoxycycline Before food 7 days\nCiprofloxacin Before food 7 days\nSignature:\nDr. Sample, MBBS, MD",
+        {
+            "entities": [
+                [
+                    238,
+                    249,
+                    "MEDICINE"
+                ],
+                [
+                    269,
+                    282,
+                    "MEDICINE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Happy Clinic\nDr. Sample, MBBS, MD\n123 Medical Street, City, State, ZIP\nPhone: +91 9876543210 | Reg No: REG123\nName: John Doe ID: PID001\nAge: 30 Gender: Female\nContact: 9688616487\nDate: 10-02-2026\nMEDICATIONS\nMedicine Frequency Duration\nDiclofenac Once daily Ongoing\nAtorva Twice daily Ongoing\nSignature:\nDr. Sample, MBBS, MD",
+        {
+            "entities": [
+                [
+                    236,
+                    246,
+                    "MEDICINE"
+                ],
+                [
+                    266,
+                    272,
+                    "MEDICINE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Happy Clinic\nDr. Sample, MBBS, MD\n123 Medical Street, City, State, ZIP\nPhone: +91 1234567890 | Reg No: REG123\nName: Kannan ID: PID001\nAge: 61 Gender: Male\nContact: 9688616487\nDate: 10-02-2026\nMEDICATIONS\nMedicine Frequency Duration\nOseltamivir Before food 7 days\nGlimepiride Twice daily Ongoing\nSignature:\nDr. Sample, MBBS, MD",
+        {
+            "entities": [
+                [
+                    232,
+                    243,
+                    "MEDICINE"
+                ],
+                [
+                    263,
+                    274,
+                    "MEDICINE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Patient: Jane Smith, Age: 30\nPrescribed: Valacyclovir daily, Clopidogrel as needed.\nNotes: Avoid alcohol.\nDoctor: Dr. Sample",
+        {
+            "entities": [
+                [
+                    44,
+                    53,
+                    "MEDICINE"
+                ],
+                [
+                    61,
+                    72,
+                    "MEDICINE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Diphenhydramine and Metformin once daily after food.\nClinic: Happy Clinic\nDate: 09-02-2026",
+        {
+            "entities": [
+                [
+                    0,
+                    15,
+                    "MEDICINE"
+                ],
+                [
+                    20,
+                    29,
+                    "MEDICINE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Meropenem and Atorvastatin once daily after food.\nClinic: Happy Clinic\nDate: 09-02-2026",
+        {
+            "entities": [
+                [
+                    0,
+                    9,
+                    "MEDICINE"
+                ],
+                [
+                    14,
+                    26,
+                    "MEDICINE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Patient: Kannan, Age: 45\nPrescribed: Dolo daily, Ampicillin as needed.\nNotes: Avoid alcohol.\nDoctor: Dr. Sample",
+        {
+            "entities": [
+                [
+                    37,
+                    41,
+                    "MEDICINE"
+                ],
+                [
+                    49,
+                    59,
+                    "MEDICINE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Insulin and Aspirin once daily after food.\nClinic: Happy Clinic\nDate: 09-02-2026",
+        {
+            "entities": [
+                [
+                    0,
+                    7,
+                    "MEDICINE"
+                ],
+                [
+                    12,
+                    19,
+                    "MEDICINE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Happy Clinic\nDr. Sample, MBBS, MD\n123 Medical Street, City, State, ZIP\nPhone: +91 9876543210 | Reg No: REG123\nName: Kannan ID: PID002\nAge: 30 Gender: Female\nContact: 9688616487\nDate: 10-02-2026\nMEDICATIONS\nMedicine Frequency Duration\nChlorpheniramine Once daily Ongoing\nSitagliptin Once daily 14 days\nSignature:\nDr. Sample, MBBS, MD",
+        {
+            "entities": [
+                [
+                    234,
+                    250,
+                    "MEDICINE"
+                ],
+                [
+                    270,
+                    281,
+                    "MEDICINE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Ondansetron and Aspirin once daily after food.\nClinic: Happy Clinic\nDate: 10-02-2026",
+        {
+            "entities": [
+                [
+                    0,
+                    11,
+                    "MEDICINE"
+                ],
+                [
+                    16,
+                    23,
+                    "MEDICINE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Happy Clinic\nDr. Sample, MBBS, MD\n123 Medical Street, City, State, ZIP\nPhone: +91 9876543210 | Reg No: REG456\nName: Kannan ID: PID001\nAge: 30 Gender: Female\nContact: 9688616487\nDate: 10-02-2026\nMEDICATIONS\nMedicine Frequency Duration\nMetoclopramide Once daily 14 days\nMontelukast Twice daily 14 days\nSignature:\nDr. Sample, MBBS, MD",
+        {
+            "entities": [
+                [
+                    234,
+                    248,
+                    "MEDICINE"
+                ],
+                [
+                    268,
+                    279,
+                    "MEDICINE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Happy Clinic\nDr. Sample, MBBS, MD\n123 Medical Street, City, State, ZIP\nPhone: +91 9876543210 | Reg No: REG123\nName: Kannan ID: PID001\nAge: 45 Gender: Male\nContact: 9688616487\nDate: 09-02-2026\nMEDICATIONS\nMedicine Frequency Duration\nSalbutamol Before food Ongoing\nAcyclovir Before food 7 days\nSignature:\nDr. Sample, MBBS, MD",
+        {
+            "entities": [
+                [
+                    232,
+                    242,
+                    "MEDICINE"
+                ],
+                [
+                    263,
+                    272,
+                    "MEDICINE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Amlodipine and Oseltamivir once daily after food.\nClinic: Happy Clinic\nDate: 10-02-2026",
+        {
+            "entities": [
+                [
+                    0,
+                    10,
+                    "MEDICINE"
+                ],
+                [
+                    15,
+                    26,
+                    "MEDICINE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Patient: Kannan, Age: 61\nPrescribed: Amikacin daily, Atorvastatin as needed.\nNotes: Avoid alcohol.\nDoctor: Dr. Sample",
+        {
+            "entities": [
+                [
+                    37,
+                    45,
+                    "MEDICINE"
+                ],
+                [
+                    53,
+                    65,
+                    "MEDICINE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Happy Clinic\nDr. Sample, MBBS, MD\n123 Medical Street, City, State, ZIP\nPhone: +91 9876543210 | Reg No: REG123\nName: Jane Smith ID: PID002\nAge: 45 Gender: Female\nContact: 9688616487\nDate: 09-02-2026\nMEDICATIONS\nMedicine Frequency Duration\nNitroglycerin Once daily 7 days\nSucralfate Once daily Ongoing\nSignature:\nDr. Sample, MBBS, MD",
+        {
+            "entities": [
+                [
+                    238,
+                    251,
+                    "MEDICINE"
+                ],
+                [
+                    270,
+                    280,
+                    "MEDICINE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Pantoprazole and Itraconazole once daily after food.\nClinic: Happy Clinic\nDate: 10-02-2026",
+        {
+            "entities": [
+                [
+                    0,
+                    12,
+                    "MEDICINE"
+                ],
+                [
+                    17,
+                    29,
+                    "MEDICINE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Pioglitazone and Levocetirizine once daily after food.\nClinic: Happy Clinic\nDate: 09-02-2026",
+        {
+            "entities": [
+                [
+                    0,
+                    12,
+                    "MEDICINE"
+                ],
+                [
+                    21,
+                    31,
+                    "MEDICINE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Patient: Kannan, Age: 30\nPrescribed: Azithromycin daily, Fluconazole as needed.\nNotes: Avoid alcohol.\nDoctor: Dr. Sample",
+        {
+            "entities": [
+                [
+                    37,
+                    49,
+                    "MEDICINE"
+                ],
+                [
+                    57,
+                    68,
+                    "MEDICINE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Tramadol and Atenolol once daily after food.\nClinic: Happy Clinic\nDate: 10-02-2026",
+        {
+            "entities": [
+                [
+                    0,
+                    8,
+                    "MEDICINE"
+                ],
+                [
+                    13,
+                    21,
+                    "MEDICINE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Cefixime and Sitagliptin once daily after food.\nClinic: Happy Clinic\nDate: 09-02-2026",
+        {
+            "entities": [
+                [
+                    0,
+                    8,
+                    "MEDICINE"
+                ],
+                [
+                    13,
+                    24,
+                    "MEDICINE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Happy Clinic\nDr. Sample, MBBS, MD\n123 Medical Street, City, State, ZIP\nPhone: +91 9876543210 | Reg No: REG123\nName: Kannan ID: PID001\nAge: 61 Gender: Male\nContact: 9688616487\nDate: 09-02-2026\nMEDICATIONS\nMedicine Frequency Duration\nCefixime Twice daily Ongoing\nSpironolactone Once daily Ongoing\nSignature:\nDr. Sample, MBBS, MD",
+        {
+            "entities": [
+                [
+                    232,
+                    240,
+                    "MEDICINE"
+                ],
+                [
+                    261,
+                    275,
+                    "MEDICINE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Metoprolol and Dapagliflozin once daily after food.\nClinic: Happy Clinic\nDate: 10-02-2026",
+        {
+            "entities": [
+                [
+                    0,
+                    10,
+                    "MEDICINE"
+                ],
+                [
+                    15,
+                    28,
+                    "MEDICINE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Happy Clinic\nDr. Sample, MBBS, MD\n123 Medical Street, City, State, ZIP\nPhone: +91 1234567890 | Reg No: REG123\nName: Jane Smith ID: PID001\nAge: 45 Gender: Male\nContact: 5551234\nDate: 10-02-2026\nMEDICATIONS\nMedicine Frequency Duration\nItraconazole Twice daily 7 days\nSitagliptin Before food 7 days\nSignature:\nDr. Sample, MBBS, MD",
+        {
+            "entities": [
+                [
+                    233,
+                    245,
+                    "MEDICINE"
+                ],
+                [
+                    265,
+                    276,
+                    "MEDICINE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Happy Clinic\nDr. Sample, MBBS, MD\n123 Medical Street, City, State, ZIP\nPhone: +91 9876543210 | Reg No: REG456\nName: Kannan ID: PID002\nAge: 61 Gender: Female\nContact: 5551234\nDate: 10-02-2026\nMEDICATIONS\nMedicine Frequency Duration\nCetirizine Before food Ongoing\nVancomycin After food 7 days\nSignature:\nDr. Sample, MBBS, MD",
+        {
+            "entities": [
+                [
+                    231,
+                    241,
+                    "MEDICINE"
+                ],
+                [
+                    262,
+                    272,
+                    "MEDICINE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Patient: Jane Smith, Age: 61\nPrescribed: Sucralfate daily, Hydrochlorothiazide as needed.\nNotes: Avoid alcohol.\nDoctor: Dr. Sample",
+        {
+            "entities": [
+                [
+                    41,
+                    51,
+                    "MEDICINE"
+                ],
+                [
+                    59,
+                    78,
+                    "MEDICINE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Happy Clinic\nDr. Sample, MBBS, MD\n123 Medical Street, City, State, ZIP\nPhone: +91 1234567890 | Reg No: REG123\nName: John Doe ID: PID002\nAge: 61 Gender: Female\nContact: 5551234\nDate: 09-02-2026\nMEDICATIONS\nMedicine Frequency Duration\nPantoprazole After food 7 days\nTinidazole After food 7 days\nSignature:\nDr. Sample, MBBS, MD",
+        {
+            "entities": [
+                [
+                    233,
+                    245,
+                    "MEDICINE"
+                ],
+                [
+                    264,
+                    274,
+                    "MEDICINE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Happy Clinic\nDr. Sample, MBBS, MD\n123 Medical Street, City, State, ZIP\nPhone: +91 9876543210 | Reg No: REG456\nName: John Doe ID: PID002\nAge: 45 Gender: Female\nContact: 5551234\nDate: 10-02-2026\nMEDICATIONS\nMedicine Frequency Duration\nCefixime Before food 14 days\nClopidogrel After food 14 days\nSignature:\nDr. Sample, MBBS, MD",
+        {
+            "entities": [
+                [
+                    233,
+                    241,
+                    "MEDICINE"
+                ],
+                [
+                    262,
+                    273,
+                    "MEDICINE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Amlodipine and Glimepiride once daily after food.\nClinic: Happy Clinic\nDate: 10-02-2026",
+        {
+            "entities": [
+                [
+                    0,
+                    10,
+                    "MEDICINE"
+                ],
+                [
+                    15,
+                    26,
+                    "MEDICINE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Happy Clinic\nDr. Sample, MBBS, MD\n123 Medical Street, City, State, ZIP\nPhone: +91 1234567890 | Reg No: REG123\nName: Kannan ID: PID001\nAge: 61 Gender: Female\nContact: 9688616487\nDate: 09-02-2026\nMEDICATIONS\nMedicine Frequency Duration\nDapagliflozin After food 14 days\nVancomycin Once daily Ongoing\nSignature:\nDr. Sample, MBBS, MD",
+        {
+            "entities": [
+                [
+                    234,
+                    247,
+                    "MEDICINE"
+                ],
+                [
+                    267,
+                    277,
+                    "MEDICINE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Diclofenac and Budesonide once daily after food.\nClinic: Happy Clinic\nDate: 09-02-2026",
+        {
+            "entities": [
+                [
+                    0,
+                    10,
+                    "MEDICINE"
+                ],
+                [
+                    15,
+                    25,
+                    "MEDICINE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Happy Clinic\nDr. Sample, MBBS, MD\n123 Medical Street, City, State, ZIP\nPhone: +91 1234567890 | Reg No: REG123\nName: Jane Smith ID: PID001\nAge: 61 Gender: Female\nContact: 5551234\nDate: 09-02-2026\nMEDICATIONS\nMedicine Frequency Duration\nAtenolol After food 7 days\nAtorvastatin Once daily Ongoing\nSignature:\nDr. Sample, MBBS, MD",
+        {
+            "entities": [
+                [
+                    235,
+                    243,
+                    "MEDICINE"
+                ],
+                [
+                    262,
+                    274,
+                    "MEDICINE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Happy Clinic\nDr. Sample, MBBS, MD\n123 Medical Street, City, State, ZIP\nPhone: +91 1234567890 | Reg No: REG456\nName: John Doe ID: PID002\nAge: 45 Gender: Male\nContact: 5551234\nDate: 10-02-2026\nMEDICATIONS\nMedicine Frequency Duration\nTramadol After food 7 days\nDiclofenac After food Ongoing\nSignature:\nDr. Sample, MBBS, MD",
+        {
+            "entities": [
+                [
+                    231,
+                    239,
+                    "MEDICINE"
+                ],
+                [
+                    258,
+                    268,
+                    "MEDICINE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Patient: Kannan, Age: 61\nPrescribed: Isosorbide Mononitrate daily, Warfarin as needed.\nNotes: Avoid alcohol.\nDoctor: Dr. Sample",
+        {
+            "entities": [
+                [
+                    37,
+                    59,
+                    "MEDICINE"
+                ],
+                [
+                    67,
+                    75,
+                    "MEDICINE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Happy Clinic\nDr. Sample, MBBS, MD\n123 Medical Street, City, State, ZIP\nPhone: +91 1234567890 | Reg No: REG123\nName: Kannan ID: PID001\nAge: 61 Gender: Male\nContact: 5551234\nDate: 10-02-2026\nMEDICATIONS\nMedicine Frequency Duration\nCrocin After food 14 days\nSucralfate After food 14 days\nSignature:\nDr. Sample, MBBS, MD",
+        {
+            "entities": [
+                [
+                    229,
+                    235,
+                    "MEDICINE"
+                ],
+                [
+                    255,
+                    265,
+                    "MEDICINE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Vildagliptin and Clarithromycin once daily after food.\nClinic: Happy Clinic\nDate: 09-02-2026",
+        {
+            "entities": [
+                [
+                    0,
+                    12,
+                    "MEDICINE"
+                ],
+                [
+                    17,
+                    31,
+                    "MEDICINE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Happy Clinic\nDr. Sample, MBBS, MD\n123 Medical Street, City, State, ZIP\nPhone: +91 1234567890 | Reg No: REG123\nName: Kannan ID: PID001\nAge: 30 Gender: Male\nContact: 5551234\nDate: 10-02-2026\nMEDICATIONS\nMedicine Frequency Duration\nAspirin Before food 7 days\nAmoxicillin Before food 7 days\nSignature:\nDr. Sample, MBBS, MD",
+        {
+            "entities": [
+                [
+                    229,
+                    236,
+                    "MEDICINE"
+                ],
+                [
+                    256,
+                    267,
+                    "MEDICINE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Vancomycin and Amlodipine once daily after food.\nClinic: Happy Clinic\nDate: 10-02-2026",
+        {
+            "entities": [
+                [
+                    0,
+                    10,
+                    "MEDICINE"
+                ],
+                [
+                    15,
+                    25,
+                    "MEDICINE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Morphine and Tinidazole once daily after food.\nClinic: Happy Clinic\nDate: 10-02-2026",
+        {
+            "entities": [
+                [
+                    0,
+                    8,
+                    "MEDICINE"
+                ],
+                [
+                    13,
+                    23,
+                    "MEDICINE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Patient: John Doe, Age: 45\nPrescribed: Levothyroxine daily, Furosemide as needed.\nNotes: Avoid alcohol.\nDoctor: Dr. Sample",
+        {
+            "entities": [
+                [
+                    39,
+                    52,
+                    "MEDICINE"
+                ],
+                [
+                    60,
+                    70,
+                    "MEDICINE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Oseltamivir and Pantocid once daily after food.\nClinic: Happy Clinic\nDate: 10-02-2026",
+        {
+            "entities": [
+                [
+                    0,
+                    11,
+                    "MEDICINE"
+                ],
+                [
+                    16,
+                    24,
+                    "MEDICINE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Insulin Glargine and Metoclopramide once daily after food.\nClinic: Happy Clinic\nDate: 09-02-2026",
+        {
+            "entities": [
+                [
+                    0,
+                    7,
+                    "MEDICINE"
+                ],
+                [
+                    21,
+                    35,
+                    "MEDICINE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Patient: Kannan, Age: 30\nPrescribed: Pyrazinamide daily, Itraconazole as needed.\nNotes: Avoid alcohol.\nDoctor: Dr. Sample",
+        {
+            "entities": [
+                [
+                    37,
+                    49,
+                    "MEDICINE"
+                ],
+                [
+                    57,
+                    69,
+                    "MEDICINE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Patient: John Doe, Age: 30\nPrescribed: Bisoprolol daily, Doxycycline as needed.\nNotes: Avoid alcohol.\nDoctor: Dr. Sample",
+        {
+            "entities": [
+                [
+                    39,
+                    49,
+                    "MEDICINE"
+                ],
+                [
+                    57,
+                    68,
+                    "MEDICINE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Patient: Jane Smith, Age: 61\nPrescribed: Vancomycin daily, Isoniazid as needed.\nNotes: Avoid alcohol.\nDoctor: Dr. Sample",
+        {
+            "entities": [
+                [
+                    41,
+                    51,
+                    "MEDICINE"
+                ],
+                [
+                    59,
+                    68,
+                    "MEDICINE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Atorlip and Fexofenadine once daily after food.\nClinic: Happy Clinic\nDate: 09-02-2026",
+        {
+            "entities": [
+                [
+                    0,
+                    7,
+                    "MEDICINE"
+                ],
+                [
+                    12,
+                    24,
+                    "MEDICINE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Happy Clinic\nDr. Sample, MBBS, MD\n123 Medical Street, City, State, ZIP\nPhone: +91 1234567890 | Reg No: REG123\nName: John Doe ID: PID002\nAge: 30 Gender: Female\nContact: 5551234\nDate: 10-02-2026\nMEDICATIONS\nMedicine Frequency Duration\nDigoxin After food 14 days\nCrocin Once daily 14 days\nSignature:\nDr. Sample, MBBS, MD",
+        {
+            "entities": [
+                [
+                    233,
+                    240,
+                    "MEDICINE"
+                ],
+                [
+                    260,
+                    266,
+                    "MEDICINE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Happy Clinic\nDr. Sample, MBBS, MD\n123 Medical Street, City, State, ZIP\nPhone: +91 9876543210 | Reg No: REG456\nName: Kannan ID: PID001\nAge: 30 Gender: Female\nContact: 5551234\nDate: 10-02-2026\nMEDICATIONS\nMedicine Frequency Duration\nInsulin Once daily 14 days\nAmpicillin Twice daily Ongoing\nSignature:\nDr. Sample, MBBS, MD",
+        {
+            "entities": [
+                [
+                    231,
+                    238,
+                    "MEDICINE"
+                ],
+                [
+                    258,
+                    268,
+                    "MEDICINE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Patient: Jane Smith, Age: 61\nPrescribed: Atorlip daily, Simvastatin as needed.\nNotes: Avoid alcohol.\nDoctor: Dr. Sample",
+        {
+            "entities": [
+                [
+                    41,
+                    48,
+                    "MEDICINE"
+                ],
+                [
+                    56,
+                    67,
+                    "MEDICINE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Happy Clinic\nDr. Sample, MBBS, MD\n123 Medical Street, City, State, ZIP\nPhone: +91 9876543210 | Reg No: REG123\nName: Jane Smith ID: PID002\nAge: 61 Gender: Male\nContact: 5551234\nDate: 09-02-2026\nMEDICATIONS\nMedicine Frequency Duration\nAtenolol Twice daily 14 days\nOseltamivir Before food Ongoing\nSignature:\nDr. Sample, MBBS, MD",
+        {
+            "entities": [
+                [
+                    233,
+                    241,
+                    "MEDICINE"
+                ],
+                [
+                    262,
+                    273,
+                    "MEDICINE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Cloxacillin and Amoxicillin once daily after food.\nClinic: Happy Clinic\nDate: 10-02-2026",
+        {
+            "entities": [
+                [
+                    0,
+                    11,
+                    "MEDICINE"
+                ],
+                [
+                    16,
+                    27,
+                    "MEDICINE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Happy Clinic\nDr. Sample, MBBS, MD\n123 Medical Street, City, State, ZIP\nPhone: +91 1234567890 | Reg No: REG123\nName: Kannan ID: PID001\nAge: 45 Gender: Male\nContact: 5551234\nDate: 09-02-2026\nMEDICATIONS\nMedicine Frequency Duration\nBrufen Once daily Ongoing\nAmpicillin Twice daily Ongoing\nSignature:\nDr. Sample, MBBS, MD",
+        {
+            "entities": [
+                [
+                    229,
+                    235,
+                    "MEDICINE"
+                ],
+                [
+                    255,
+                    265,
+                    "MEDICINE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Happy Clinic\nDr. Sample, MBBS, MD\n123 Medical Street, City, State, ZIP\nPhone: +91 9876543210 | Reg No: REG123\nName: John Doe ID: PID002\nAge: 30 Gender: Female\nContact: 5551234\nDate: 09-02-2026\nMEDICATIONS\nMedicine Frequency Duration\nGlimepiride Before food Ongoing\nDiphenhydramine Before food 7 days\nSignature:\nDr. Sample, MBBS, MD",
+        {
+            "entities": [
+                [
+                    233,
+                    244,
+                    "MEDICINE"
+                ],
+                [
+                    265,
+                    280,
+                    "MEDICINE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Metformin and Ampicillin once daily after food.\nClinic: Happy Clinic\nDate: 10-02-2026",
+        {
+            "entities": [
+                [
+                    0,
+                    9,
+                    "MEDICINE"
+                ],
+                [
+                    14,
+                    24,
+                    "MEDICINE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Gentamicin and Sucralfate once daily after food.\nClinic: Happy Clinic\nDate: 09-02-2026",
+        {
+            "entities": [
+                [
+                    0,
+                    10,
+                    "MEDICINE"
+                ],
+                [
+                    15,
+                    25,
+                    "MEDICINE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Amoxicillin and Nitroglycerin once daily after food.\nClinic: Happy Clinic\nDate: 10-02-2026",
+        {
+            "entities": [
+                [
+                    0,
+                    11,
+                    "MEDICINE"
+                ],
+                [
+                    16,
+                    29,
+                    "MEDICINE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Patient: Jane Smith, Age: 61\nPrescribed: Pioglitazone daily, Itraconazole as needed.\nNotes: Avoid alcohol.\nDoctor: Dr. Sample",
+        {
+            "entities": [
+                [
+                    41,
+                    53,
+                    "MEDICINE"
+                ],
+                [
+                    61,
+                    73,
+                    "MEDICINE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Budesonide and Ampicillin once daily after food.\nClinic: Happy Clinic\nDate: 10-02-2026",
+        {
+            "entities": [
+                [
+                    0,
+                    10,
+                    "MEDICINE"
+                ],
+                [
+                    15,
+                    25,
+                    "MEDICINE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Patient: Kannan, Age: 30\nPrescribed: Bisoprolol daily, Aspirin as needed.\nNotes: Avoid alcohol.\nDoctor: Dr. Sample",
+        {
+            "entities": [
+                [
+                    37,
+                    47,
+                    "MEDICINE"
+                ],
+                [
+                    55,
+                    62,
+                    "MEDICINE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Glycomet and Paracetamol once daily after food.\nClinic: Happy Clinic\nDate: 09-02-2026",
+        {
+            "entities": [
+                [
+                    0,
+                    8,
+                    "MEDICINE"
+                ],
+                [
+                    13,
+                    24,
+                    "MEDICINE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Patient: Jane Smith, Age: 61\nPrescribed: Acyclovir daily, Naproxen as needed.\nNotes: Avoid alcohol.\nDoctor: Dr. Sample",
+        {
+            "entities": [
+                [
+                    41,
+                    50,
+                    "MEDICINE"
+                ],
+                [
+                    58,
+                    66,
+                    "MEDICINE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Ceftriaxone and Amoxicillin once daily after food.\nClinic: Happy Clinic\nDate: 10-02-2026",
+        {
+            "entities": [
+                [
+                    0,
+                    11,
+                    "MEDICINE"
+                ],
+                [
+                    16,
+                    27,
+                    "MEDICINE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Diclofenac and Formoterol once daily after food.\nClinic: Happy Clinic\nDate: 09-02-2026",
+        {
+            "entities": [
+                [
+                    0,
+                    10,
+                    "MEDICINE"
+                ],
+                [
+                    15,
+                    25,
+                    "MEDICINE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Happy Clinic\nDr. Sample, MBBS, MD\n123 Medical Street, City, State, ZIP\nPhone: +91 1234567890 | Reg No: REG123\nName: Kannan ID: PID001\nAge: 61 Gender: Male\nContact: 5551234\nDate: 09-02-2026\nMEDICATIONS\nMedicine Frequency Duration\nFexofenadine Once daily 7 days\nAtorva Before food 7 days\nSignature:\nDr. Sample, MBBS, MD",
+        {
+            "entities": [
+                [
+                    229,
+                    241,
+                    "MEDICINE"
+                ],
+                [
+                    260,
+                    266,
+                    "MEDICINE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Patient: Jane Smith, Age: 61\nPrescribed: Enoxaparin daily, Atorva as needed.\nNotes: Avoid alcohol.\nDoctor: Dr. Sample",
+        {
+            "entities": [
+                [
+                    41,
+                    51,
+                    "MEDICINE"
+                ],
+                [
+                    59,
+                    65,
+                    "MEDICINE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Telmisartan and Atorva once daily after food.\nClinic: Happy Clinic\nDate: 10-02-2026",
+        {
+            "entities": [
+                [
+                    0,
+                    11,
+                    "MEDICINE"
+                ],
+                [
+                    16,
+                    22,
+                    "MEDICINE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Patient: Jane Smith, Age: 30\nPrescribed: Amlong daily, Sucralfate as needed.\nNotes: Avoid alcohol.\nDoctor: Dr. Sample",
+        {
+            "entities": [
+                [
+                    41,
+                    47,
+                    "MEDICINE"
+                ],
+                [
+                    55,
+                    65,
+                    "MEDICINE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Dolo 650 and Insulin Human Actrapid once daily after food.\nClinic: Happy Clinic\nDate: 10-02-2026",
+        {
+            "entities": [
+                [
+                    0,
+                    4,
+                    "MEDICINE"
+                ],
+                [
+                    13,
+                    20,
+                    "MEDICINE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Patient: John Doe, Age: 61\nPrescribed: Naproxen daily, Oseltamivir as needed.\nNotes: Avoid alcohol.\nDoctor: Dr. Sample",
+        {
+            "entities": [
+                [
+                    39,
+                    47,
+                    "MEDICINE"
+                ],
+                [
+                    55,
+                    66,
+                    "MEDICINE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Happy Clinic\nDr. Sample, MBBS, MD\n123 Medical Street, City, State, ZIP\nPhone: +91 9876543210 | Reg No: REG123\nName: John Doe ID: PID001\nAge: 30 Gender: Female\nContact: 5551234\nDate: 10-02-2026\nMEDICATIONS\nMedicine Frequency Duration\nParacetamol After food Ongoing\nChlorpheniramine After food 14 days\nSignature:\nDr. Sample, MBBS, MD",
+        {
+            "entities": [
+                [
+                    233,
+                    244,
+                    "MEDICINE"
+                ],
+                [
+                    264,
+                    280,
+                    "MEDICINE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Happy Clinic\nDr. Sample, MBBS, MD\n123 Medical Street, City, State, ZIP\nPhone: +91 9876543210 | Reg No: REG123\nName: Jane Smith ID: PID002\nAge: 30 Gender: Male\nContact: 5551234\nDate: 10-02-2026\nMEDICATIONS\nMedicine Frequency Duration\nMetformin Before food Ongoing\nAmoxicillin Before food 14 days\nSignature:\nDr. Sample, MBBS, MD",
+        {
+            "entities": [
+                [
+                    233,
+                    242,
+                    "MEDICINE"
+                ],
+                [
+                    263,
+                    274,
+                    "MEDICINE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Happy Clinic\nDr. Sample, MBBS, MD\n123 Medical Street, City, State, ZIP\nPhone: +91 1234567890 | Reg No: REG123\nName: Jane Smith ID: PID002\nAge: 45 Gender: Female\nContact: 9688616487\nDate: 09-02-2026\nMEDICATIONS\nMedicine Frequency Duration\nWarfarin Twice daily 14 days\nAtorvastatin Before food 14 days\nSignature:\nDr. Sample, MBBS, MD",
+        {
+            "entities": [
+                [
+                    238,
+                    246,
+                    "MEDICINE"
+                ],
+                [
+                    267,
+                    279,
+                    "MEDICINE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Happy Clinic\nDr. Sample, MBBS, MD\n123 Medical Street, City, State, ZIP\nPhone: +91 1234567890 | Reg No: REG123\nName: Kannan ID: PID002\nAge: 30 Gender: Male\nContact: 5551234\nDate: 10-02-2026\nMEDICATIONS\nMedicine Frequency Duration\nDigoxin After food 7 days\nMetformin Once daily 7 days\nSignature:\nDr. Sample, MBBS, MD",
+        {
+            "entities": [
+                [
+                    229,
+                    236,
+                    "MEDICINE"
+                ],
+                [
+                    255,
+                    264,
+                    "MEDICINE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Happy Clinic\nDr. Sample, MBBS, MD\n123 Medical Street, City, State, ZIP\nPhone: +91 1234567890 | Reg No: REG456\nName: Jane Smith ID: PID002\nAge: 30 Gender: Female\nContact: 5551234\nDate: 09-02-2026\nMEDICATIONS\nMedicine Frequency Duration\nCrocin Twice daily 7 days\nSalbutamol Once daily 14 days\nSignature:\nDr. Sample, MBBS, MD",
+        {
+            "entities": [
+                [
+                    235,
+                    241,
+                    "MEDICINE"
+                ],
+                [
+                    261,
+                    271,
+                    "MEDICINE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Happy Clinic\nDr. Sample, MBBS, MD\n123 Medical Street, City, State, ZIP\nPhone: +91 9876543210 | Reg No: REG456\nName: Jane Smith ID: PID001\nAge: 30 Gender: Male\nContact: 5551234\nDate: 10-02-2026\nMEDICATIONS\nMedicine Frequency Duration\nAmlodipine Twice daily 7 days\nItraconazole Twice daily Ongoing\nSignature:\nDr. Sample, MBBS, MD",
+        {
+            "entities": [
+                [
+                    233,
+                    243,
+                    "MEDICINE"
+                ],
+                [
+                    263,
+                    275,
+                    "MEDICINE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Metoclopramide and Ibuprofen once daily after food.\nClinic: Happy Clinic\nDate: 10-02-2026",
+        {
+            "entities": [
+                [
+                    0,
+                    14,
+                    "MEDICINE"
+                ],
+                [
+                    19,
+                    28,
+                    "MEDICINE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Happy Clinic\nDr. Sample, MBBS, MD\n123 Medical Street, City, State, ZIP\nPhone: +91 1234567890 | Reg No: REG456\nName: Kannan ID: PID002\nAge: 61 Gender: Female\nContact: 9688616487\nDate: 10-02-2026\nMEDICATIONS\nMedicine Frequency Duration\nGlycomet Twice daily 7 days\nTelmisartan Twice daily Ongoing\nSignature:\nDr. Sample, MBBS, MD",
+        {
+            "entities": [
+                [
+                    234,
+                    242,
+                    "MEDICINE"
+                ],
+                [
+                    262,
+                    273,
+                    "MEDICINE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Insulin and Combiflam once daily after food.\nClinic: Happy Clinic\nDate: 10-02-2026",
+        {
+            "entities": [
+                [
+                    0,
+                    7,
+                    "MEDICINE"
+                ],
+                [
+                    12,
+                    21,
+                    "MEDICINE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Happy Clinic\nDr. Sample, MBBS, MD\n123 Medical Street, City, State, ZIP\nPhone: +91 9876543210 | Reg No: REG456\nName: Kannan ID: PID001\nAge: 45 Gender: Male\nContact: 5551234\nDate: 09-02-2026\nMEDICATIONS\nMedicine Frequency Duration\nIsosorbide Mononitrate Once daily Ongoing\nInsulin Human Actrapid Twice daily 14 days\nSignature:\nDr. Sample, MBBS, MD",
+        {
+            "entities": [
+                [
+                    229,
+                    251,
+                    "MEDICINE"
+                ],
+                [
+                    271,
+                    278,
+                    "MEDICINE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Propranolol and Ibuprofen once daily after food.\nClinic: Happy Clinic\nDate: 09-02-2026",
+        {
+            "entities": [
+                [
+                    0,
+                    11,
+                    "MEDICINE"
+                ],
+                [
+                    16,
+                    25,
+                    "MEDICINE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Fexofenadine and Amlong once daily after food.\nClinic: Happy Clinic\nDate: 10-02-2026",
+        {
+            "entities": [
+                [
+                    0,
+                    12,
+                    "MEDICINE"
+                ],
+                [
+                    17,
+                    23,
+                    "MEDICINE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Happy Clinic\nDr. Sample, MBBS, MD\n123 Medical Street, City, State, ZIP\nPhone: +91 9876543210 | Reg No: REG123\nName: Kannan ID: PID002\nAge: 61 Gender: Female\nContact: 9688616487\nDate: 09-02-2026\nMEDICATIONS\nMedicine Frequency Duration\nNitrofurantoin Once daily 14 days\nGliclazide After food 7 days\nSignature:\nDr. Sample, MBBS, MD",
+        {
+            "entities": [
+                [
+                    234,
+                    248,
+                    "MEDICINE"
+                ],
+                [
+                    268,
+                    278,
+                    "MEDICINE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Propranolol and Fluconazole once daily after food.\nClinic: Happy Clinic\nDate: 09-02-2026",
+        {
+            "entities": [
+                [
+                    0,
+                    11,
+                    "MEDICINE"
+                ],
+                [
+                    16,
+                    27,
+                    "MEDICINE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Metronidazole and Ethambutol once daily after food.\nClinic: Happy Clinic\nDate: 10-02-2026",
+        {
+            "entities": [
+                [
+                    0,
+                    13,
+                    "MEDICINE"
+                ],
+                [
+                    18,
+                    28,
+                    "MEDICINE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Furosemide and Spironolactone once daily after food.\nClinic: Happy Clinic\nDate: 09-02-2026",
+        {
+            "entities": [
+                [
+                    0,
+                    10,
+                    "MEDICINE"
+                ],
+                [
+                    15,
+                    29,
+                    "MEDICINE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Acyclovir and Meropenem once daily after food.\nClinic: Happy Clinic\nDate: 09-02-2026",
+        {
+            "entities": [
+                [
+                    0,
+                    9,
+                    "MEDICINE"
+                ],
+                [
+                    14,
+                    23,
+                    "MEDICINE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Happy Clinic\nDr. Sample, MBBS, MD\n123 Medical Street, City, State, ZIP\nPhone: +91 9876543210 | Reg No: REG456\nName: Jane Smith ID: PID001\nAge: 61 Gender: Male\nContact: 9688616487\nDate: 10-02-2026\nMEDICATIONS\nMedicine Frequency Duration\nPantoprazole Once daily 14 days\nIbuprofen After food Ongoing\nSignature:\nDr. Sample, MBBS, MD",
+        {
+            "entities": [
+                [
+                    236,
+                    248,
+                    "MEDICINE"
+                ],
+                [
+                    268,
+                    277,
+                    "MEDICINE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Happy Clinic\nDr. Sample, MBBS, MD\n123 Medical Street, City, State, ZIP\nPhone: +91 1234567890 | Reg No: REG123\nName: Kannan ID: PID001\nAge: 61 Gender: Female\nContact: 5551234\nDate: 10-02-2026\nMEDICATIONS\nMedicine Frequency Duration\nRosuvastatin After food 14 days\nCombiflam Once daily 14 days\nSignature:\nDr. Sample, MBBS, MD",
+        {
+            "entities": [
+                [
+                    231,
+                    243,
+                    "MEDICINE"
+                ],
+                [
+                    263,
+                    272,
+                    "MEDICINE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Patient: Kannan, Age: 45\nPrescribed: Vildagliptin daily, Amlong as needed.\nNotes: Avoid alcohol.\nDoctor: Dr. Sample",
+        {
+            "entities": [
+                [
+                    37,
+                    49,
+                    "MEDICINE"
+                ],
+                [
+                    57,
+                    63,
+                    "MEDICINE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Budesonide and Itraconazole once daily after food.\nClinic: Happy Clinic\nDate: 09-02-2026",
+        {
+            "entities": [
+                [
+                    0,
+                    10,
+                    "MEDICINE"
+                ],
+                [
+                    15,
+                    27,
+                    "MEDICINE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Patient: John Doe, Age: 45\nPrescribed: Bisoprolol daily, Ondansetron as needed.\nNotes: Avoid alcohol.\nDoctor: Dr. Sample",
+        {
+            "entities": [
+                [
+                    39,
+                    49,
+                    "MEDICINE"
+                ],
+                [
+                    57,
+                    68,
+                    "MEDICINE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Vancomycin and Metoclopramide once daily after food.\nClinic: Happy Clinic\nDate: 10-02-2026",
+        {
+            "entities": [
+                [
+                    0,
+                    10,
+                    "MEDICINE"
+                ],
+                [
+                    15,
+                    29,
+                    "MEDICINE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Happy Clinic\nDr. Sample, MBBS, MD\n123 Medical Street, City, State, ZIP\nPhone: +91 9876543210 | Reg No: REG456\nName: Kannan ID: PID002\nAge: 45 Gender: Male\nContact: 9688616487\nDate: 09-02-2026\nMEDICATIONS\nMedicine Frequency Duration\nLevocetirizine Before food 14 days\nEsomeprazole After food 7 days\nSignature:\nDr. Sample, MBBS, MD",
+        {
+            "entities": [
+                [
+                    236,
+                    246,
+                    "MEDICINE"
+                ],
+                [
+                    267,
+                    279,
+                    "MEDICINE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Happy Clinic\nDr. Sample, MBBS, MD\n123 Medical Street, City, State, ZIP\nPhone: +91 1234567890 | Reg No: REG456\nName: Kannan ID: PID002\nAge: 61 Gender: Male\nContact: 5551234\nDate: 09-02-2026\nMEDICATIONS\nMedicine Frequency Duration\nOseltamivir Twice daily Ongoing\nFormoterol Once daily Ongoing\nSignature:\nDr. Sample, MBBS, MD",
+        {
+            "entities": [
+                [
+                    229,
+                    240,
+                    "MEDICINE"
+                ],
+                [
+                    261,
+                    271,
+                    "MEDICINE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Patient: John Doe, Age: 61\nPrescribed: Tinidazole daily, Pyrazinamide as needed.\nNotes: Avoid alcohol.\nDoctor: Dr. Sample",
+        {
+            "entities": [
+                [
+                    39,
+                    49,
+                    "MEDICINE"
+                ],
+                [
+                    57,
+                    69,
+                    "MEDICINE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Patient: Kannan, Age: 61\nPrescribed: Sucralfate daily, Crocin as needed.\nNotes: Avoid alcohol.\nDoctor: Dr. Sample",
+        {
+            "entities": [
+                [
+                    37,
+                    47,
+                    "MEDICINE"
+                ],
+                [
+                    55,
+                    61,
+                    "MEDICINE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Telmisartan and Metoprolol once daily after food.\nClinic: Happy Clinic\nDate: 10-02-2026",
+        {
+            "entities": [
+                [
+                    0,
+                    11,
+                    "MEDICINE"
+                ],
+                [
+                    16,
+                    26,
+                    "MEDICINE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Happy Clinic\nDr. Sample, MBBS, MD\n123 Medical Street, City, State, ZIP\nPhone: +91 1234567890 | Reg No: REG456\nName: Jane Smith ID: PID001\nAge: 61 Gender: Male\nContact: 9688616487\nDate: 09-02-2026\nMEDICATIONS\nMedicine Frequency Duration\nMontelukast Once daily Ongoing\nAtorlip Once daily 7 days\nSignature:\nDr. Sample, MBBS, MD",
+        {
+            "entities": [
+                [
+                    236,
+                    247,
+                    "MEDICINE"
+                ],
+                [
+                    267,
+                    274,
+                    "MEDICINE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Patient: Jane Smith, Age: 30\nPrescribed: Doxycycline daily, Crocin as needed.\nNotes: Avoid alcohol.\nDoctor: Dr. Sample",
+        {
+            "entities": [
+                [
+                    41,
+                    52,
+                    "MEDICINE"
+                ],
+                [
+                    60,
+                    66,
+                    "MEDICINE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Happy Clinic\nDr. Sample, MBBS, MD\n123 Medical Street, City, State, ZIP\nPhone: +91 1234567890 | Reg No: REG123\nName: John Doe ID: PID001\nAge: 30 Gender: Female\nContact: 9688616487\nDate: 09-02-2026\nMEDICATIONS\nMedicine Frequency Duration\nOseltamivir Twice daily 7 days\nAtorva After food Ongoing\nSignature:\nDr. Sample, MBBS, MD",
+        {
+            "entities": [
+                [
+                    236,
+                    247,
+                    "MEDICINE"
+                ],
+                [
+                    267,
+                    273,
+                    "MEDICINE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Atorva and Clarithromycin once daily after food.\nClinic: Happy Clinic\nDate: 09-02-2026",
+        {
+            "entities": [
+                [
+                    0,
+                    6,
+                    "MEDICINE"
+                ],
+                [
+                    11,
+                    25,
+                    "MEDICINE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Happy Clinic\nDr. Sample, MBBS, MD\n123 Medical Street, City, State, ZIP\nPhone: +91 9876543210 | Reg No: REG456\nName: Kannan ID: PID001\nAge: 30 Gender: Female\nContact: 5551234\nDate: 09-02-2026\nMEDICATIONS\nMedicine Frequency Duration\nSpironolactone After food 14 days\nRanitidine Before food 14 days\nSignature:\nDr. Sample, MBBS, MD",
+        {
+            "entities": [
+                [
+                    231,
+                    245,
+                    "MEDICINE"
+                ],
+                [
+                    265,
+                    275,
+                    "MEDICINE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Amlong and Glycomet once daily after food.\nClinic: Happy Clinic\nDate: 10-02-2026",
+        {
+            "entities": [
+                [
+                    0,
+                    6,
+                    "MEDICINE"
+                ],
+                [
+                    11,
+                    19,
+                    "MEDICINE"
+                ]
+            ]
+        }
+    ]
+]

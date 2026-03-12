@@ -1,0 +1,127 @@
+{% extends "base.html" %}
+{% block title %}Upload Prescription - PrescriptionGuard AI{% endblock %}
+
+{% block content %}
+<div class="min-h-screen flex items-center justify-center px-6 py-12">
+    <div class="max-w-2xl w-full">
+        <!-- Header -->
+        <div class="text-center mb-10">
+            <div class="inline-flex items-center gap-3 bg-white shadow-sm rounded-2xl px-5 py-2 mb-6">
+                <div class="w-9 h-9 bg-teal-600 text-white rounded-xl flex items-center justify-center">
+                    <i class="fas fa-shield-alt"></i>
+                </div>
+                <span class="logo-font text-3xl font-semibold tracking-tighter text-slate-900">PrescriptionGuard</span>
+            </div>
+            <h1 class="text-5xl font-semibold text-slate-900 leading-tight mb-4">
+                AI-Powered<br>Prescription Safety
+            </h1>
+            <p class="text-xl text-slate-600">
+                Upload a photo of any prescription.<br>
+                <span class="font-medium text-teal-700">Get instant drug interaction warnings.</span>
+            </p>
+        </div>
+
+        <!-- Upload Area -->
+        <div id="dropzone" 
+             class="glass border-3 border-dashed border-teal-200 rounded-3xl p-12 text-center transition-all hover:border-teal-400 hover:shadow-2xl">
+            
+            <form id="uploadForm" action="/upload" method="post" enctype="multipart/form-data">
+                <input type="file" id="fileInput" name="file" 
+                       accept="image/png, image/jpeg" required class="hidden">
+
+                <div id="uploadArea" class="cursor-pointer">
+                    <div class="mx-auto w-20 h-20 bg-teal-100 text-teal-600 rounded-2xl flex items-center justify-center mb-6">
+                        <i class="fas fa-cloud-upload-alt text-4xl"></i>
+                    </div>
+                    <p class="text-2xl font-medium text-slate-700 mb-2">Drop prescription image here</p>
+                    <p class="text-slate-500 mb-6">or <span class="text-teal-600 font-medium underline">browse from device</span></p>
+                    <p class="text-xs text-slate-400">PNG or JPEG • Max 16 MB</p>
+                </div>
+
+                <img id="preview" class="hidden mx-auto max-h-80 rounded-2xl shadow-xl mt-8 border border-slate-200" alt="Preview">
+
+                <button type="submit" id="submitBtn"
+                        class="mt-10 w-full max-w-xs mx-auto bg-gradient-to-r from-teal-600 to-emerald-600 hover:from-teal-700 hover:to-emerald-700 text-white font-semibold py-4 px-10 rounded-2xl flex items-center justify-center gap-3 transition-all shadow-lg shadow-teal-500/30">
+                    <i class="fas fa-sparkles"></i> Analyze Prescription
+                </button>
+            </form>
+
+            <div id="loading" class="hidden flex flex-col items-center mt-10">
+                <div class="w-12 h-12 border-4 border-teal-200 border-t-teal-600 rounded-full animate-spin"></div>
+                <p class="mt-4 text-slate-600 font-medium">Analyzing with AI OCR + Interaction Engine...</p>
+                <p class="text-xs text-slate-400 mt-1">This usually takes 3–6 seconds</p>
+            </div>
+        </div>
+
+        {% if error %}
+        <div class="mt-6 bg-red-50 border border-red-200 text-red-700 px-6 py-4 rounded-2xl flex items-center gap-3">
+            <i class="fas fa-triangle-exclamation"></i>
+            <span>{{ error }}</span>
+        </div>
+        {% endif %}
+    </div>
+</div>
+{% endblock %}
+
+{% block head %}
+<script>
+    document.addEventListener('DOMContentLoaded', () => {
+        const dropzone   = document.getElementById('dropzone');
+        const fileInput  = document.getElementById('fileInput');
+        const preview    = document.getElementById('preview');
+        const uploadArea = document.getElementById('uploadArea');
+        const loading    = document.getElementById('loading');
+        const form       = document.getElementById('uploadForm');
+        const submitBtn  = document.getElementById('submitBtn');
+
+        // Click to open file dialog
+        uploadArea.addEventListener('click', () => fileInput.click());
+
+        // Handle selected file
+        function handleFile(e) {
+            const file = e.target.files ? e.target.files[0] : null;
+            if (!file) return;
+            if (!/^image\/(png|jpeg|jpg)$/.test(file.type)) {
+                alert("Please upload only PNG or JPEG images.");
+                return;
+            }
+            const reader = new FileReader();
+            reader.onload = (ev) => {
+                preview.src = ev.target.result;
+                preview.classList.remove('hidden');
+                uploadArea.classList.add('hidden');
+            };
+            reader.readAsDataURL(file);
+        }
+        fileInput.addEventListener('change', handleFile);
+
+        // Drag & Drop
+        dropzone.addEventListener('dragover', e => {
+            e.preventDefault();
+            dropzone.classList.add('!border-teal-600', 'bg-teal-50');
+        });
+        dropzone.addEventListener('dragleave', () => {
+            dropzone.classList.remove('!border-teal-600', 'bg-teal-50');
+        });
+        dropzone.addEventListener('drop', e => {
+            e.preventDefault();
+            dropzone.classList.remove('!border-teal-600', 'bg-teal-50');
+            const file = e.dataTransfer.files[0];
+            if (file) {
+                fileInput.files = e.dataTransfer.files;
+                handleFile({ target: fileInput });
+            }
+        });
+
+        // Submit validation + loading
+        form.addEventListener('submit', () => {
+            if (fileInput.files.length === 0) {
+                alert("Please select an image first.");
+                return false;
+            }
+            submitBtn.classList.add('hidden');
+            loading.classList.remove('hidden');
+        });
+    });
+</script>
+{% endblock %}

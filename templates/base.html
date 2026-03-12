@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{% block title %}PrescriptionGuard AI{% endblock %}</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Space+Grotesk:wght@500;600&display=swap');
+        :root {
+            --primary: #0f766e;   /* Deep teal */
+            --accent: #10b981;    /* Emerald */
+        }
+        .tail-container { font-family: 'Inter', system-ui, sans-serif; }
+        .logo-font { font-family: 'Space Grotesk', sans-serif; }
+        .glass { background: rgba(255,255,255,0.85); backdrop-filter: blur(16px); }
+    </style>
+    {% block head %}{% endblock %}
+</head>
+<body class="tail-container bg-gradient-to-br from-slate-50 to-teal-50 min-h-screen">
+    {% block content %}{% endblock %}
+
+    <footer class="bg-white border-t py-8 mt-16">
+        <div class="max-w-5xl mx-auto px-6 text-center text-slate-500 text-sm">
+            PrescriptionGuard AI • Built with ❤️ for safer medicine • 2026
+        </div>
+    </footer>
+</body>
+</html>

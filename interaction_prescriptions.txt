@@ -1,0 +1,7226 @@
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 9876543210 | Reg No: REG456
+Name: Kannan ID: PID001
+Age: 45 Gender: Male
+Contact: 9688616487
+Date: 09-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Sucralfate Before food 14 days
+Amikacin Once daily 14 days
+Signature:
+Dr. Sample, MBBS, MD
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 9876543210 | Reg No: REG123
+Name: John Doe ID: PID001
+Age: 61 Gender: Female
+Contact: 5551234
+Date: 09-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Gentamicin Once daily 7 days
+Ketoconazole Once daily Ongoing
+Signature:
+Dr. Sample, MBBS, MD
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 1234567890 | Reg No: REG123
+Name: Kannan ID: PID001
+Age: 45 Gender: Male
+Contact: 5551234
+Date: 09-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Brufen Once daily Ongoing
+Ampicillin Twice daily Ongoing
+Signature:
+Dr. Sample, MBBS, MD
+Salbutamol and Ampicillin once daily after food.
+Clinic: Happy Clinic
+Date: 09-02-2026
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 1234567890 | Reg No: REG456
+Name: Kannan ID: PID001
+Age: 30 Gender: Male
+Contact: 5551234
+Date: 09-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Furosemide After food 7 days
+Salbutamol Once daily 14 days
+Signature:
+Dr. Sample, MBBS, MD
+Pantocid and Ceftriaxone once daily after food.
+Clinic: Happy Clinic
+Date: 09-02-2026
+Montelukast and Pyrazinamide once daily after food.
+Clinic: Happy Clinic
+Date: 10-02-2026
+Paracetamol and Levothyroxine once daily after food.
+Clinic: Happy Clinic
+Date: 09-02-2026
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 1234567890 | Reg No: REG123
+Name: Jane Smith ID: PID001
+Age: 61 Gender: Male
+Contact: 9688616487
+Date: 09-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Metoclopramide After food 14 days
+Hydrochlorothiazide After food 7 days
+Signature:
+Dr. Sample, MBBS, MD
+Patient: John Doe, Age: 30
+Prescribed: Insulin Glargine daily, Sitagliptin as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Patient: John Doe, Age: 45
+Prescribed: Ethambutol daily, Clarithromycin as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Heparin and Fexofenadine once daily after food.
+Clinic: Happy Clinic
+Date: 09-02-2026
+Patient: John Doe, Age: 45
+Prescribed: Ciprofloxacin daily, Levocetirizine as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Diclofenac and Formoterol once daily after food.
+Clinic: Happy Clinic
+Date: 09-02-2026
+Patient: Jane Smith, Age: 61
+Prescribed: Sucralfate daily, Insulin Glargine as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 1234567890 | Reg No: REG456
+Name: John Doe ID: PID001
+Age: 30 Gender: Male
+Contact: 9688616487
+Date: 09-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Ranitidine After food 14 days
+Dapagliflozin After food 14 days
+Signature:
+Dr. Sample, MBBS, MD
+Patient: Jane Smith, Age: 30
+Prescribed: Fexofenadine daily, Doxycycline as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Patient: Jane Smith, Age: 30
+Prescribed: Azithromycin daily, Dapagliflozin as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Budesonide and Paracetamol once daily after food.
+Clinic: Happy Clinic
+Date: 09-02-2026
+Patient: Kannan, Age: 30
+Prescribed: Salbutamol daily, Tramadol as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 9876543210 | Reg No: REG456
+Name: Jane Smith ID: PID001
+Age: 30 Gender: Male
+Contact: 9688616487
+Date: 09-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Vildagliptin After food 14 days
+Ketoconazole Twice daily Ongoing
+Signature:
+Dr. Sample, MBBS, MD
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 1234567890 | Reg No: REG456
+Name: Kannan ID: PID002
+Age: 61 Gender: Male
+Contact: 5551234
+Date: 09-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Pyrazinamide Once daily 14 days
+Brufen Twice daily 7 days
+Signature:
+Dr. Sample, MBBS, MD
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 9876543210 | Reg No: REG123
+Name: John Doe ID: PID001
+Age: 30 Gender: Female
+Contact: 9688616487
+Date: 10-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Diclofenac Once daily Ongoing
+Atorva Twice daily Ongoing
+Signature:
+Dr. Sample, MBBS, MD
+Ranitidine and Losartan once daily after food.
+Clinic: Happy Clinic
+Date: 09-02-2026
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 9876543210 | Reg No: REG123
+Name: Kannan ID: PID001
+Age: 45 Gender: Male
+Contact: 5551234
+Date: 09-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Vancomycin Before food Ongoing
+Tramadol Before food 7 days
+Signature:
+Dr. Sample, MBBS, MD
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 9876543210 | Reg No: REG123
+Name: Kannan ID: PID001
+Age: 45 Gender: Male
+Contact: 9688616487
+Date: 09-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Salbutamol Before food Ongoing
+Acyclovir Before food 7 days
+Signature:
+Dr. Sample, MBBS, MD
+Metoclopramide and Atorvastatin once daily after food.
+Clinic: Happy Clinic
+Date: 10-02-2026
+Budesonide and Propranolol once daily after food.
+Clinic: Happy Clinic
+Date: 09-02-2026
+Doxycycline and Crocin once daily after food.
+Clinic: Happy Clinic
+Date: 10-02-2026
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 9876543210 | Reg No: REG456
+Name: Jane Smith ID: PID002
+Age: 30 Gender: Female
+Contact: 9688616487
+Date: 10-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Valacyclovir Twice daily Ongoing
+Fluconazole Twice daily Ongoing
+Signature:
+Dr. Sample, MBBS, MD
+Patient: Kannan, Age: 61
+Prescribed: Morphine daily, Chlorpheniramine as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Formoterol and Itraconazole once daily after food.
+Clinic: Happy Clinic
+Date: 09-02-2026
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 9876543210 | Reg No: REG456
+Name: Jane Smith ID: PID002
+Age: 61 Gender: Female
+Contact: 5551234
+Date: 09-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Brufen Once daily 14 days
+Ranitidine After food 14 days
+Signature:
+Dr. Sample, MBBS, MD
+Fexofenadine and Amlong once daily after food.
+Clinic: Happy Clinic
+Date: 10-02-2026
+Patient: John Doe, Age: 61
+Prescribed: Metronidazole daily, Isosorbide Mononitrate as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Fluconazole and Formoterol once daily after food.
+Clinic: Happy Clinic
+Date: 09-02-2026
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 1234567890 | Reg No: REG123
+Name: Jane Smith ID: PID001
+Age: 30 Gender: Male
+Contact: 5551234
+Date: 10-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Azithromycin Before food Ongoing
+Nitrofurantoin Before food Ongoing
+Signature:
+Dr. Sample, MBBS, MD
+Patient: Kannan, Age: 45
+Prescribed: Amlong daily, Paracetamol as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 1234567890 | Reg No: REG123
+Name: John Doe ID: PID001
+Age: 45 Gender: Female
+Contact: 5551234
+Date: 09-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Isoniazid After food 14 days
+Sucralfate Once daily 7 days
+Signature:
+Dr. Sample, MBBS, MD
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 9876543210 | Reg No: REG123
+Name: Kannan ID: PID002
+Age: 30 Gender: Female
+Contact: 9688616487
+Date: 09-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Vancomycin Twice daily Ongoing
+Ethambutol Once daily 7 days
+Signature:
+Dr. Sample, MBBS, MD
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 9876543210 | Reg No: REG123
+Name: Kannan ID: PID001
+Age: 30 Gender: Male
+Contact: 5551234
+Date: 09-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Cefixime Before food Ongoing
+Domperidone Twice daily 14 days
+Signature:
+Dr. Sample, MBBS, MD
+Patient: Kannan, Age: 61
+Prescribed: Sucralfate daily, Crocin as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 9876543210 | Reg No: REG456
+Name: John Doe ID: PID002
+Age: 61 Gender: Male
+Contact: 5551234
+Date: 09-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Rabeprazole Twice daily Ongoing
+Dolo Twice daily 14 days
+Signature:
+Dr. Sample, MBBS, MD
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 1234567890 | Reg No: REG123
+Name: Kannan ID: PID001
+Age: 45 Gender: Male
+Contact: 5551234
+Date: 10-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Sucralfate After food Ongoing
+Acyclovir Twice daily 14 days
+Signature:
+Dr. Sample, MBBS, MD
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 1234567890 | Reg No: REG123
+Name: Kannan ID: PID001
+Age: 61 Gender: Female
+Contact: 5551234
+Date: 10-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Rosuvastatin After food 14 days
+Combiflam Once daily 14 days
+Signature:
+Dr. Sample, MBBS, MD
+Telmisartan and Ceftriaxone once daily after food.
+Clinic: Happy Clinic
+Date: 10-02-2026
+Patient: Kannan, Age: 45
+Prescribed: Enoxaparin daily, Simvastatin as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Combiflam and Rabeprazole once daily after food.
+Clinic: Happy Clinic
+Date: 10-02-2026
+Spironolactone and Rosuvastatin once daily after food.
+Clinic: Happy Clinic
+Date: 09-02-2026
+Patient: Jane Smith, Age: 30
+Prescribed: Chlorpheniramine daily, Montelukast as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Formoterol and Fexofenadine once daily after food.
+Clinic: Happy Clinic
+Date: 10-02-2026
+Patient: Jane Smith, Age: 30
+Prescribed: Metoprolol daily, Metformin as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 9876543210 | Reg No: REG123
+Name: John Doe ID: PID001
+Age: 30 Gender: Female
+Contact: 5551234
+Date: 10-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Paracetamol After food Ongoing
+Chlorpheniramine After food 14 days
+Signature:
+Dr. Sample, MBBS, MD
+Patient: Kannan, Age: 45
+Prescribed: Cloxacillin daily, Propranolol as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Patient: Jane Smith, Age: 30
+Prescribed: Metoprolol daily, Diclofenac as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Diclofenac and Naproxen once daily after food.
+Clinic: Happy Clinic
+Date: 10-02-2026
+Gentamicin and Vancomycin once daily after food.
+Clinic: Happy Clinic
+Date: 10-02-2026
+Amlong and Sitagliptin once daily after food.
+Clinic: Happy Clinic
+Date: 10-02-2026
+Esomeprazole and Amlodipine once daily after food.
+Clinic: Happy Clinic
+Date: 10-02-2026
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 1234567890 | Reg No: REG456
+Name: John Doe ID: PID002
+Age: 30 Gender: Male
+Contact: 5551234
+Date: 10-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Brufen Once daily 7 days
+Combiflam Before food 14 days
+Signature:
+Dr. Sample, MBBS, MD
+Patient: John Doe, Age: 61
+Prescribed: Rifampicin daily, Furosemide as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 9876543210 | Reg No: REG123
+Name: Jane Smith ID: PID002
+Age: 61 Gender: Male
+Contact: 5551234
+Date: 10-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Ampicillin Once daily 14 days
+Isoniazid After food 14 days
+Signature:
+Dr. Sample, MBBS, MD
+Atenolol and Fluconazole once daily after food.
+Clinic: Happy Clinic
+Date: 09-02-2026
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 1234567890 | Reg No: REG123
+Name: John Doe ID: PID002
+Age: 61 Gender: Female
+Contact: 5551234
+Date: 09-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Pantoprazole After food 7 days
+Tinidazole After food 7 days
+Signature:
+Dr. Sample, MBBS, MD
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 1234567890 | Reg No: REG456
+Name: John Doe ID: PID002
+Age: 45 Gender: Male
+Contact: 5551234
+Date: 10-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Tramadol After food 7 days
+Diclofenac After food Ongoing
+Signature:
+Dr. Sample, MBBS, MD
+Meropenem and Sucralfate once daily after food.
+Clinic: Happy Clinic
+Date: 10-02-2026
+Patient: John Doe, Age: 45
+Prescribed: Atenolol daily, Warfarin as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 1234567890 | Reg No: REG456
+Name: John Doe ID: PID001
+Age: 45 Gender: Male
+Contact: 5551234
+Date: 10-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Dolo 650 After food 14 days
+Levothyroxine Twice daily 7 days
+Signature:
+Dr. Sample, MBBS, MD
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 9876543210 | Reg No: REG456
+Name: Jane Smith ID: PID001
+Age: 61 Gender: Male
+Contact: 9688616487
+Date: 10-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Pantoprazole Once daily 14 days
+Ibuprofen After food Ongoing
+Signature:
+Dr. Sample, MBBS, MD
+Salbutamol and Telmisartan once daily after food.
+Clinic: Happy Clinic
+Date: 09-02-2026
+Metformin and Ampicillin once daily after food.
+Clinic: Happy Clinic
+Date: 10-02-2026
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 1234567890 | Reg No: REG456
+Name: Kannan ID: PID002
+Age: 45 Gender: Female
+Contact: 9688616487
+Date: 09-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Amikacin Twice daily Ongoing
+Isoniazid Once daily 7 days
+Signature:
+Dr. Sample, MBBS, MD
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 9876543210 | Reg No: REG123
+Name: Kannan ID: PID002
+Age: 45 Gender: Male
+Contact: 5551234
+Date: 09-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Simvastatin After food 7 days
+Isosorbide Mononitrate Once daily Ongoing
+Signature:
+Dr. Sample, MBBS, MD
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 1234567890 | Reg No: REG123
+Name: Kannan ID: PID001
+Age: 61 Gender: Female
+Contact: 9688616487
+Date: 09-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Azithromycin After food 7 days
+Warfarin Before food 14 days
+Signature:
+Dr. Sample, MBBS, MD
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 9876543210 | Reg No: REG456
+Name: Jane Smith ID: PID001
+Age: 30 Gender: Female
+Contact: 9688616487
+Date: 10-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Warfarin Before food Ongoing
+Hydrochlorothiazide Twice daily Ongoing
+Signature:
+Dr. Sample, MBBS, MD
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 1234567890 | Reg No: REG456
+Name: Kannan ID: PID001
+Age: 61 Gender: Female
+Contact: 5551234
+Date: 09-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Amikacin After food 7 days
+Pantoprazole After food 7 days
+Signature:
+Dr. Sample, MBBS, MD
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 1234567890 | Reg No: REG456
+Name: John Doe ID: PID002
+Age: 45 Gender: Male
+Contact: 9688616487
+Date: 10-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Budesonide Before food Ongoing
+Montelukast Before food Ongoing
+Signature:
+Dr. Sample, MBBS, MD
+Patient: John Doe, Age: 45
+Prescribed: Losartan daily, Dolo as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 9876543210 | Reg No: REG123
+Name: Jane Smith ID: PID002
+Age: 45 Gender: Female
+Contact: 9688616487
+Date: 10-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Itraconazole After food 14 days
+Brufen Once daily 7 days
+Signature:
+Dr. Sample, MBBS, MD
+Esomeprazole and Simvastatin once daily after food.
+Clinic: Happy Clinic
+Date: 10-02-2026
+Glimepiride and Ampicillin once daily after food.
+Clinic: Happy Clinic
+Date: 10-02-2026
+Ondansetron and Ciprofloxacin once daily after food.
+Clinic: Happy Clinic
+Date: 09-02-2026
+Ciprofloxacin and Telmisartan once daily after food.
+Clinic: Happy Clinic
+Date: 10-02-2026
+Patient: John Doe, Age: 61
+Prescribed: Tinidazole daily, Clarithromycin as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Combiflam and Fluconazole once daily after food.
+Clinic: Happy Clinic
+Date: 10-02-2026
+Esomeprazole and Cloxacillin once daily after food.
+Clinic: Happy Clinic
+Date: 09-02-2026
+Patient: Jane Smith, Age: 45
+Prescribed: Azithromycin daily, Cetirizine as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 1234567890 | Reg No: REG456
+Name: John Doe ID: PID002
+Age: 45 Gender: Female
+Contact: 9688616487
+Date: 10-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Fexofenadine Before food 7 days
+Losar After food 7 days
+Signature:
+Dr. Sample, MBBS, MD
+Tinidazole and Spironolactone once daily after food.
+Clinic: Happy Clinic
+Date: 10-02-2026
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 1234567890 | Reg No: REG123
+Name: Kannan ID: PID001
+Age: 45 Gender: Male
+Contact: 9688616487
+Date: 09-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Digoxin After food 7 days
+Insulin Twice daily 14 days
+Signature:
+Dr. Sample, MBBS, MD
+Tramadol and Esomeprazole once daily after food.
+Clinic: Happy Clinic
+Date: 10-02-2026
+Patient: Kannan, Age: 30
+Prescribed: Ampicillin daily, Metformin as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Formoterol and Nitroglycerin once daily after food.
+Clinic: Happy Clinic
+Date: 09-02-2026
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 9876543210 | Reg No: REG456
+Name: Kannan ID: PID001
+Age: 61 Gender: Female
+Contact: 5551234
+Date: 10-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Warfarin Before food 7 days
+Pantoprazole Before food 7 days
+Signature:
+Dr. Sample, MBBS, MD
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 9876543210 | Reg No: REG123
+Name: Kannan ID: PID001
+Age: 45 Gender: Female
+Contact: 5551234
+Date: 09-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Formoterol After food 7 days
+Ciprofloxacin Once daily 7 days
+Signature:
+Dr. Sample, MBBS, MD
+Ceftriaxone and Gliclazide once daily after food.
+Clinic: Happy Clinic
+Date: 09-02-2026
+Patient: John Doe, Age: 30
+Prescribed: Amoxicillin daily, Ketoconazole as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 1234567890 | Reg No: REG123
+Name: Kannan ID: PID002
+Age: 45 Gender: Male
+Contact: 5551234
+Date: 10-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Gliclazide Before food Ongoing
+Esomeprazole Twice daily 14 days
+Signature:
+Dr. Sample, MBBS, MD
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 1234567890 | Reg No: REG123
+Name: Jane Smith ID: PID001
+Age: 61 Gender: Female
+Contact: 5551234
+Date: 09-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Spironolactone Before food 14 days
+Tramadol Before food 14 days
+Signature:
+Dr. Sample, MBBS, MD
+Hydrochlorothiazide and Fluconazole once daily after food.
+Clinic: Happy Clinic
+Date: 09-02-2026
+Patient: John Doe, Age: 61
+Prescribed: Hydrochlorothiazide daily, Insulin Glargine as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 1234567890 | Reg No: REG123
+Name: John Doe ID: PID001
+Age: 30 Gender: Female
+Contact: 9688616487
+Date: 09-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Oseltamivir Twice daily 7 days
+Atorva After food Ongoing
+Signature:
+Dr. Sample, MBBS, MD
+Pantoprazole and Propranolol once daily after food.
+Clinic: Happy Clinic
+Date: 09-02-2026
+Patient: Jane Smith, Age: 30
+Prescribed: Naproxen daily, Cefixime as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Isoniazid and Hydrochlorothiazide once daily after food.
+Clinic: Happy Clinic
+Date: 10-02-2026
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 1234567890 | Reg No: REG456
+Name: Kannan ID: PID001
+Age: 61 Gender: Female
+Contact: 5551234
+Date: 09-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Isoniazid Once daily Ongoing
+Linezolid Once daily 7 days
+Signature:
+Dr. Sample, MBBS, MD
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 1234567890 | Reg No: REG456
+Name: John Doe ID: PID002
+Age: 45 Gender: Male
+Contact: 9688616487
+Date: 10-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Valacyclovir Once daily 7 days
+Ciprofloxacin Twice daily 7 days
+Signature:
+Dr. Sample, MBBS, MD
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 9876543210 | Reg No: REG123
+Name: John Doe ID: PID001
+Age: 30 Gender: Female
+Contact: 5551234
+Date: 09-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Doxycycline Before food 7 days
+Tramadol Twice daily 14 days
+Signature:
+Dr. Sample, MBBS, MD
+Patient: John Doe, Age: 45
+Prescribed: Oseltamivir daily, Combiflam as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Patient: Jane Smith, Age: 30
+Prescribed: Pioglitazone daily, Tinidazole as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Diphenhydramine and Ranitidine once daily after food.
+Clinic: Happy Clinic
+Date: 10-02-2026
+Patient: Jane Smith, Age: 30
+Prescribed: Tramadol daily, Ranitidine as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 1234567890 | Reg No: REG456
+Name: Jane Smith ID: PID002
+Age: 45 Gender: Female
+Contact: 5551234
+Date: 10-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Clopidogrel After food 7 days
+Metoprolol Before food 7 days
+Signature:
+Dr. Sample, MBBS, MD
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 9876543210 | Reg No: REG123
+Name: Kannan ID: PID002
+Age: 61 Gender: Female
+Contact: 9688616487
+Date: 09-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Nitrofurantoin Once daily 14 days
+Gliclazide After food 7 days
+Signature:
+Dr. Sample, MBBS, MD
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 1234567890 | Reg No: REG123
+Name: John Doe ID: PID001
+Age: 61 Gender: Male
+Contact: 9688616487
+Date: 10-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Rosuvastatin Before food Ongoing
+Furosemide After food Ongoing
+Signature:
+Dr. Sample, MBBS, MD
+Patient: Kannan, Age: 45
+Prescribed: Valacyclovir daily, Spironolactone as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Telmisartan and Metoprolol once daily after food.
+Clinic: Happy Clinic
+Date: 10-02-2026
+Salbutamol and Telmisartan once daily after food.
+Clinic: Happy Clinic
+Date: 09-02-2026
+Patient: Jane Smith, Age: 61
+Prescribed: Piperacillin-Tazobactam daily, Furosemide as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Amoxicillin and Chlorpheniramine once daily after food.
+Clinic: Happy Clinic
+Date: 09-02-2026
+Crocin and Pioglitazone once daily after food.
+Clinic: Happy Clinic
+Date: 09-02-2026
+Isosorbide Mononitrate and Insulin Human Actrapid once daily after food.
+Clinic: Happy Clinic
+Date: 10-02-2026
+Patient: Jane Smith, Age: 30
+Prescribed: Chlorpheniramine daily, Glimepiride as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Glycomet and Paracetamol once daily after food.
+Clinic: Happy Clinic
+Date: 09-02-2026
+Digoxin and Fexofenadine once daily after food.
+Clinic: Happy Clinic
+Date: 09-02-2026
+Gliclazide and Oseltamivir once daily after food.
+Clinic: Happy Clinic
+Date: 10-02-2026
+Pantocid and Fexofenadine once daily after food.
+Clinic: Happy Clinic
+Date: 09-02-2026
+Pantoprazole and Metronidazole once daily after food.
+Clinic: Happy Clinic
+Date: 10-02-2026
+Meropenem and Clarithromycin once daily after food.
+Clinic: Happy Clinic
+Date: 09-02-2026
+Valacyclovir and Telmisartan once daily after food.
+Clinic: Happy Clinic
+Date: 09-02-2026
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 1234567890 | Reg No: REG456
+Name: Jane Smith ID: PID001
+Age: 61 Gender: Female
+Contact: 9688616487
+Date: 10-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Insulin Human Actrapid Before food 14 days
+Tramadol Twice daily 7 days
+Signature:
+Dr. Sample, MBBS, MD
+Patient: Jane Smith, Age: 61
+Prescribed: Ondansetron daily, Paracetamol as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Propranolol and Rosuvastatin once daily after food.
+Clinic: Happy Clinic
+Date: 09-02-2026
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 9876543210 | Reg No: REG123
+Name: Jane Smith ID: PID001
+Age: 30 Gender: Female
+Contact: 5551234
+Date: 09-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Amoxicillin After food 14 days
+Heparin Before food 14 days
+Signature:
+Dr. Sample, MBBS, MD
+Insulin and Combiflam once daily after food.
+Clinic: Happy Clinic
+Date: 10-02-2026
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 1234567890 | Reg No: REG123
+Name: Kannan ID: PID001
+Age: 45 Gender: Female
+Contact: 5551234
+Date: 10-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Valacyclovir Before food 14 days
+Salbutamol After food Ongoing
+Signature:
+Dr. Sample, MBBS, MD
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 9876543210 | Reg No: REG456
+Name: Kannan ID: PID002
+Age: 30 Gender: Female
+Contact: 9688616487
+Date: 09-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Dolo 650 Before food 7 days
+Itraconazole After food 7 days
+Signature:
+Dr. Sample, MBBS, MD
+Levocetirizine and Olmesartan once daily after food.
+Clinic: Happy Clinic
+Date: 09-02-2026
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 1234567890 | Reg No: REG456
+Name: Jane Smith ID: PID002
+Age: 45 Gender: Female
+Contact: 9688616487
+Date: 09-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Rosuvastatin Once daily Ongoing
+Clarithromycin Twice daily Ongoing
+Signature:
+Dr. Sample, MBBS, MD
+Patient: John Doe, Age: 45
+Prescribed: Metoprolol daily, Cloxacillin as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 9876543210 | Reg No: REG456
+Name: Kannan ID: PID001
+Age: 61 Gender: Male
+Contact: 9688616487
+Date: 09-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Spironolactone Before food Ongoing
+Metoclopramide Twice daily 7 days
+Signature:
+Dr. Sample, MBBS, MD
+Ketoconazole and Montelukast once daily after food.
+Clinic: Happy Clinic
+Date: 10-02-2026
+Itraconazole and Spironolactone once daily after food.
+Clinic: Happy Clinic
+Date: 09-02-2026
+Patient: John Doe, Age: 61
+Prescribed: Crocin daily, Ondansetron as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Rabeprazole and Pantoprazole once daily after food.
+Clinic: Happy Clinic
+Date: 09-02-2026
+Combiflam and Ethambutol once daily after food.
+Clinic: Happy Clinic
+Date: 09-02-2026
+Patient: John Doe, Age: 30
+Prescribed: Dolo daily, Ondansetron as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 1234567890 | Reg No: REG456
+Name: John Doe ID: PID001
+Age: 45 Gender: Female
+Contact: 5551234
+Date: 09-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Amoxicillin Twice daily 7 days
+Cloxacillin Before food Ongoing
+Signature:
+Dr. Sample, MBBS, MD
+Patient: Jane Smith, Age: 45
+Prescribed: Cloxacillin daily, Bisoprolol as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 9876543210 | Reg No: REG456
+Name: John Doe ID: PID001
+Age: 30 Gender: Female
+Contact: 5551234
+Date: 09-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Naproxen Once daily 7 days
+Heparin Once daily 7 days
+Signature:
+Dr. Sample, MBBS, MD
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 1234567890 | Reg No: REG456
+Name: John Doe ID: PID002
+Age: 61 Gender: Male
+Contact: 5551234
+Date: 09-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Valacyclovir Twice daily 7 days
+Gentamicin Twice daily Ongoing
+Signature:
+Dr. Sample, MBBS, MD
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 1234567890 | Reg No: REG123
+Name: Kannan ID: PID001
+Age: 61 Gender: Female
+Contact: 9688616487
+Date: 09-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Dapagliflozin After food 14 days
+Vancomycin Once daily Ongoing
+Signature:
+Dr. Sample, MBBS, MD
+Metoprolol and Dolo once daily after food.
+Clinic: Happy Clinic
+Date: 09-02-2026
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 1234567890 | Reg No: REG456
+Name: Jane Smith ID: PID002
+Age: 61 Gender: Male
+Contact: 5551234
+Date: 10-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Salbutamol Once daily 14 days
+Cetirizine Before food Ongoing
+Signature:
+Dr. Sample, MBBS, MD
+Montelukast and Vildagliptin once daily after food.
+Clinic: Happy Clinic
+Date: 10-02-2026
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 9876543210 | Reg No: REG123
+Name: John Doe ID: PID002
+Age: 30 Gender: Female
+Contact: 9688616487
+Date: 09-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Montelukast After food Ongoing
+Isoniazid After food Ongoing
+Signature:
+Dr. Sample, MBBS, MD
+Paracetamol and Salbutamol once daily after food.
+Clinic: Happy Clinic
+Date: 09-02-2026
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 9876543210 | Reg No: REG123
+Name: John Doe ID: PID002
+Age: 45 Gender: Female
+Contact: 9688616487
+Date: 10-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Itraconazole Twice daily 14 days
+Isoniazid After food 7 days
+Signature:
+Dr. Sample, MBBS, MD
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 1234567890 | Reg No: REG456
+Name: John Doe ID: PID002
+Age: 30 Gender: Female
+Contact: 5551234
+Date: 09-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Insulin Once daily 7 days
+Doxycycline Once daily 14 days
+Signature:
+Dr. Sample, MBBS, MD
+Salbutamol and Simvastatin once daily after food.
+Clinic: Happy Clinic
+Date: 10-02-2026
+Metformin and Levocetirizine once daily after food.
+Clinic: Happy Clinic
+Date: 09-02-2026
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 9876543210 | Reg No: REG456
+Name: Kannan ID: PID001
+Age: 30 Gender: Female
+Contact: 9688616487
+Date: 09-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Amikacin After food Ongoing
+Cetirizine Twice daily 7 days
+Signature:
+Dr. Sample, MBBS, MD
+Cetirizine and Sitagliptin once daily after food.
+Clinic: Happy Clinic
+Date: 10-02-2026
+Telmisartan and Atorva once daily after food.
+Clinic: Happy Clinic
+Date: 10-02-2026
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 9876543210 | Reg No: REG123
+Name: Jane Smith ID: PID002
+Age: 61 Gender: Male
+Contact: 5551234
+Date: 09-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Atenolol Twice daily 14 days
+Oseltamivir Before food Ongoing
+Signature:
+Dr. Sample, MBBS, MD
+Insulin Human Actrapid and Levothyroxine once daily after food.
+Clinic: Happy Clinic
+Date: 10-02-2026
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 9876543210 | Reg No: REG123
+Name: John Doe ID: PID001
+Age: 45 Gender: Male
+Contact: 5551234
+Date: 10-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Pantoprazole After food 14 days
+Esomeprazole Before food 7 days
+Signature:
+Dr. Sample, MBBS, MD
+Atenolol and Metoclopramide once daily after food.
+Clinic: Happy Clinic
+Date: 10-02-2026
+Rabeprazole and Losartan once daily after food.
+Clinic: Happy Clinic
+Date: 09-02-2026
+Patient: John Doe, Age: 45
+Prescribed: Budesonide daily, Clopidogrel as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Spironolactone and Metoprolol once daily after food.
+Clinic: Happy Clinic
+Date: 10-02-2026
+Acyclovir and Clopidogrel once daily after food.
+Clinic: Happy Clinic
+Date: 09-02-2026
+Valacyclovir and Levocetirizine once daily after food.
+Clinic: Happy Clinic
+Date: 10-02-2026
+Patient: Kannan, Age: 30
+Prescribed: Losar daily, Levocetirizine as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Morphine and Metronidazole once daily after food.
+Clinic: Happy Clinic
+Date: 10-02-2026
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 9876543210 | Reg No: REG123
+Name: John Doe ID: PID001
+Age: 30 Gender: Female
+Contact: 9688616487
+Date: 10-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Ranitidine Before food 7 days
+Gentamicin Twice daily Ongoing
+Signature:
+Dr. Sample, MBBS, MD
+Dolo 650 and Chlorpheniramine once daily after food.
+Clinic: Happy Clinic
+Date: 10-02-2026
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 1234567890 | Reg No: REG456
+Name: Kannan ID: PID002
+Age: 45 Gender: Male
+Contact: 9688616487
+Date: 10-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Acyclovir Twice daily 14 days
+Montelukast Once daily 14 days
+Signature:
+Dr. Sample, MBBS, MD
+Paracetamol and Clarithromycin once daily after food.
+Clinic: Happy Clinic
+Date: 09-02-2026
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 9876543210 | Reg No: REG456
+Name: Kannan ID: PID002
+Age: 45 Gender: Male
+Contact: 9688616487
+Date: 09-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Levocetirizine Before food 14 days
+Esomeprazole After food 7 days
+Signature:
+Dr. Sample, MBBS, MD
+Insulin and Cefixime once daily after food.
+Clinic: Happy Clinic
+Date: 10-02-2026
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 1234567890 | Reg No: REG123
+Name: John Doe ID: PID002
+Age: 45 Gender: Female
+Contact: 9688616487
+Date: 09-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Tinidazole Before food 14 days
+Valacyclovir Once daily Ongoing
+Signature:
+Dr. Sample, MBBS, MD
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 1234567890 | Reg No: REG123
+Name: Kannan ID: PID001
+Age: 61 Gender: Female
+Contact: 9688616487
+Date: 10-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Rabeprazole Before food 7 days
+Salbutamol After food 7 days
+Signature:
+Dr. Sample, MBBS, MD
+Patient: John Doe, Age: 30
+Prescribed: Atenolol daily, Isoniazid as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Metoclopramide and Ibuprofen once daily after food.
+Clinic: Happy Clinic
+Date: 10-02-2026
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 1234567890 | Reg No: REG123
+Name: Jane Smith ID: PID002
+Age: 61 Gender: Male
+Contact: 9688616487
+Date: 10-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Simvastatin After food 7 days
+Dapagliflozin After food Ongoing
+Signature:
+Dr. Sample, MBBS, MD
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 9876543210 | Reg No: REG123
+Name: Jane Smith ID: PID001
+Age: 45 Gender: Female
+Contact: 9688616487
+Date: 09-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Ranitidine After food 7 days
+Ethambutol Before food 7 days
+Signature:
+Dr. Sample, MBBS, MD
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 9876543210 | Reg No: REG123
+Name: Kannan ID: PID002
+Age: 45 Gender: Female
+Contact: 9688616487
+Date: 10-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Itraconazole Twice daily 14 days
+Sucralfate Once daily Ongoing
+Signature:
+Dr. Sample, MBBS, MD
+Metronidazole and Pyrazinamide once daily after food.
+Clinic: Happy Clinic
+Date: 09-02-2026
+Patient: Jane Smith, Age: 30
+Prescribed: Ceftriaxone daily, Crocin as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Oseltamivir and Amlong once daily after food.
+Clinic: Happy Clinic
+Date: 10-02-2026
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 9876543210 | Reg No: REG456
+Name: Kannan ID: PID002
+Age: 61 Gender: Male
+Contact: 5551234
+Date: 10-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Ranitidine Twice daily 14 days
+Simvastatin Once daily Ongoing
+Signature:
+Dr. Sample, MBBS, MD
+Patient: Jane Smith, Age: 30
+Prescribed: Doxycycline daily, Crocin as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 1234567890 | Reg No: REG123
+Name: John Doe ID: PID002
+Age: 45 Gender: Female
+Contact: 9688616487
+Date: 10-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Meropenem Before food Ongoing
+Atorvastatin Before food Ongoing
+Signature:
+Dr. Sample, MBBS, MD
+Patient: Jane Smith, Age: 45
+Prescribed: Rifampicin daily, Amikacin as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Patient: Jane Smith, Age: 30
+Prescribed: Nitroglycerin daily, Clopidogrel as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Insulin Glargine and Chlorpheniramine once daily after food.
+Clinic: Happy Clinic
+Date: 09-02-2026
+Diclofenac and Amlodipine once daily after food.
+Clinic: Happy Clinic
+Date: 09-02-2026
+Chlorpheniramine and Sucralfate once daily after food.
+Clinic: Happy Clinic
+Date: 09-02-2026
+Patient: Jane Smith, Age: 30
+Prescribed: Glycomet daily, Dapagliflozin as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Patient: Kannan, Age: 45
+Prescribed: Acyclovir daily, Pyrazinamide as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Ceftriaxone and Paracetamol once daily after food.
+Clinic: Happy Clinic
+Date: 09-02-2026
+Patient: Jane Smith, Age: 30
+Prescribed: Pioglitazone daily, Atorva as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Patient: John Doe, Age: 61
+Prescribed: Amoxicillin daily, Dolo 650 as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Ampicillin and Dolo once daily after food.
+Clinic: Happy Clinic
+Date: 09-02-2026
+Cefixime and Amikacin once daily after food.
+Clinic: Happy Clinic
+Date: 09-02-2026
+Ibuprofen and Clopidogrel once daily after food.
+Clinic: Happy Clinic
+Date: 09-02-2026
+Tramadol and Budesonide once daily after food.
+Clinic: Happy Clinic
+Date: 10-02-2026
+Patient: Kannan, Age: 30
+Prescribed: Dolo 650 daily, Metoprolol as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Patient: Jane Smith, Age: 61
+Prescribed: Vildagliptin daily, Atorvastatin as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 9876543210 | Reg No: REG456
+Name: Kannan ID: PID001
+Age: 30 Gender: Female
+Contact: 9688616487
+Date: 10-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Metoclopramide Once daily 14 days
+Montelukast Twice daily 14 days
+Signature:
+Dr. Sample, MBBS, MD
+Metformin and Doxycycline once daily after food.
+Clinic: Happy Clinic
+Date: 10-02-2026
+Formoterol and Amoxicillin once daily after food.
+Clinic: Happy Clinic
+Date: 10-02-2026
+Patient: Jane Smith, Age: 30
+Prescribed: Warfarin daily, Fexofenadine as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 1234567890 | Reg No: REG456
+Name: Kannan ID: PID002
+Age: 61 Gender: Male
+Contact: 5551234
+Date: 09-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Diclofenac Twice daily 7 days
+Vildagliptin After food 7 days
+Signature:
+Dr. Sample, MBBS, MD
+Patient: Kannan, Age: 30
+Prescribed: Rabeprazole daily, Vancomycin as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 9876543210 | Reg No: REG123
+Name: Kannan ID: PID002
+Age: 61 Gender: Male
+Contact: 5551234
+Date: 10-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Paracetamol After food Ongoing
+Rabeprazole After food Ongoing
+Signature:
+Dr. Sample, MBBS, MD
+Warfarin and Metronidazole once daily after food.
+Clinic: Happy Clinic
+Date: 09-02-2026
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 1234567890 | Reg No: REG123
+Name: John Doe ID: PID002
+Age: 61 Gender: Male
+Contact: 5551234
+Date: 09-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Sucralfate Once daily 7 days
+Amikacin Before food Ongoing
+Signature:
+Dr. Sample, MBBS, MD
+Brufen and Ondansetron once daily after food.
+Clinic: Happy Clinic
+Date: 09-02-2026
+Furosemide and Digoxin once daily after food.
+Clinic: Happy Clinic
+Date: 10-02-2026
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 1234567890 | Reg No: REG456
+Name: Kannan ID: PID002
+Age: 61 Gender: Female
+Contact: 5551234
+Date: 10-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Warfarin Before food 14 days
+Brufen Once daily 14 days
+Signature:
+Dr. Sample, MBBS, MD
+Patient: Jane Smith, Age: 30
+Prescribed: Sucralfate daily, Valacyclovir as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Patient: John Doe, Age: 61
+Prescribed: Glimepiride daily, Insulin Glargine as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Gliclazide and Ibuprofen once daily after food.
+Clinic: Happy Clinic
+Date: 10-02-2026
+Patient: Jane Smith, Age: 61
+Prescribed: Gentamicin daily, Glimepiride as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Patient: Jane Smith, Age: 45
+Prescribed: Telmisartan daily, Heparin as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Patient: Kannan, Age: 45
+Prescribed: Ampicillin daily, Spironolactone as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Patient: John Doe, Age: 61
+Prescribed: Morphine daily, Formoterol as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Ibuprofen and Diphenhydramine once daily after food.
+Clinic: Happy Clinic
+Date: 09-02-2026
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 9876543210 | Reg No: REG123
+Name: Jane Smith ID: PID002
+Age: 30 Gender: Male
+Contact: 5551234
+Date: 10-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Metformin Before food Ongoing
+Amoxicillin Before food 14 days
+Signature:
+Dr. Sample, MBBS, MD
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 1234567890 | Reg No: REG123
+Name: Jane Smith ID: PID001
+Age: 30 Gender: Female
+Contact: 5551234
+Date: 09-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Azithromycin After food Ongoing
+Telmisartan After food 7 days
+Signature:
+Dr. Sample, MBBS, MD
+Aspirin and Naproxen once daily after food.
+Clinic: Happy Clinic
+Date: 09-02-2026
+Patient: Kannan, Age: 45
+Prescribed: Ketoconazole daily, Amoxicillin as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Patient: Jane Smith, Age: 45
+Prescribed: Furosemide daily, Isosorbide Mononitrate as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Patient: Kannan, Age: 61
+Prescribed: Nitroglycerin daily, Ciprofloxacin as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Patient: Jane Smith, Age: 30
+Prescribed: Isosorbide Mononitrate daily, Aspirin as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Patient: Jane Smith, Age: 45
+Prescribed: Insulin Glargine daily, Ceftriaxone as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 9876543210 | Reg No: REG123
+Name: Jane Smith ID: PID002
+Age: 45 Gender: Male
+Contact: 5551234
+Date: 09-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Chlorpheniramine Before food Ongoing
+Rosuvastatin Once daily Ongoing
+Signature:
+Dr. Sample, MBBS, MD
+Amlong and Glycomet once daily after food.
+Clinic: Happy Clinic
+Date: 10-02-2026
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 1234567890 | Reg No: REG123
+Name: John Doe ID: PID002
+Age: 61 Gender: Male
+Contact: 5551234
+Date: 09-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Formoterol Before food 7 days
+Montelukast Once daily 7 days
+Signature:
+Dr. Sample, MBBS, MD
+Patient: John Doe, Age: 45
+Prescribed: Ondansetron daily, Isoniazid as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Furosemide and Spironolactone once daily after food.
+Clinic: Happy Clinic
+Date: 09-02-2026
+Patient: John Doe, Age: 61
+Prescribed: Tinidazole daily, Pyrazinamide as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Amlong and Cetirizine once daily after food.
+Clinic: Happy Clinic
+Date: 09-02-2026
+Vildagliptin and Atorva once daily after food.
+Clinic: Happy Clinic
+Date: 10-02-2026
+Patient: Jane Smith, Age: 30
+Prescribed: Dapagliflozin daily, Propranolol as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 9876543210 | Reg No: REG123
+Name: Jane Smith ID: PID002
+Age: 45 Gender: Male
+Contact: 5551234
+Date: 09-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Amlodipine After food 7 days
+Pantocid Before food Ongoing
+Signature:
+Dr. Sample, MBBS, MD
+Crocin and Vildagliptin once daily after food.
+Clinic: Happy Clinic
+Date: 10-02-2026
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 1234567890 | Reg No: REG123
+Name: Jane Smith ID: PID002
+Age: 30 Gender: Male
+Contact: 9688616487
+Date: 10-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Propranolol Once daily 7 days
+Amoxicillin After food Ongoing
+Signature:
+Dr. Sample, MBBS, MD
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 9876543210 | Reg No: REG456
+Name: Kannan ID: PID001
+Age: 30 Gender: Female
+Contact: 5551234
+Date: 10-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Formoterol Before food 7 days
+Dapagliflozin Twice daily Ongoing
+Signature:
+Dr. Sample, MBBS, MD
+Isosorbide Mononitrate and Meropenem once daily after food.
+Clinic: Happy Clinic
+Date: 09-02-2026
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 9876543210 | Reg No: REG456
+Name: Jane Smith ID: PID001
+Age: 45 Gender: Female
+Contact: 5551234
+Date: 09-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Ketoconazole Before food 7 days
+Naproxen Twice daily 7 days
+Signature:
+Dr. Sample, MBBS, MD
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 9876543210 | Reg No: REG123
+Name: Kannan ID: PID002
+Age: 45 Gender: Male
+Contact: 5551234
+Date: 10-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Dolo Twice daily 14 days
+Formoterol Before food Ongoing
+Signature:
+Dr. Sample, MBBS, MD
+Ibuprofen and Azithromycin once daily after food.
+Clinic: Happy Clinic
+Date: 10-02-2026
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 9876543210 | Reg No: REG456
+Name: Kannan ID: PID001
+Age: 45 Gender: Female
+Contact: 9688616487
+Date: 10-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Amlodipine Before food 14 days
+Amikacin Before food 7 days
+Signature:
+Dr. Sample, MBBS, MD
+Atorlip and Fexofenadine once daily after food.
+Clinic: Happy Clinic
+Date: 09-02-2026
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 1234567890 | Reg No: REG123
+Name: Kannan ID: PID002
+Age: 45 Gender: Female
+Contact: 9688616487
+Date: 10-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Metformin After food 7 days
+Valacyclovir Before food Ongoing
+Signature:
+Dr. Sample, MBBS, MD
+Chlorpheniramine and Nitrofurantoin once daily after food.
+Clinic: Happy Clinic
+Date: 10-02-2026
+Patient: Jane Smith, Age: 61
+Prescribed: Fexofenadine daily, Clopidogrel as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Rabeprazole and Amlong once daily after food.
+Clinic: Happy Clinic
+Date: 09-02-2026
+Patient: John Doe, Age: 30
+Prescribed: Rosuvastatin daily, Glimepiride as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 9876543210 | Reg No: REG123
+Name: John Doe ID: PID001
+Age: 61 Gender: Male
+Contact: 9688616487
+Date: 10-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Pantocid Once daily Ongoing
+Ibuprofen Once daily Ongoing
+Signature:
+Dr. Sample, MBBS, MD
+Patient: Jane Smith, Age: 30
+Prescribed: Valacyclovir daily, Clopidogrel as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Patient: Kannan, Age: 45
+Prescribed: Dolo 650 daily, Bisoprolol as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Insulin Human Actrapid and Chlorpheniramine once daily after food.
+Clinic: Happy Clinic
+Date: 09-02-2026
+Patient: Jane Smith, Age: 30
+Prescribed: Levocetirizine daily, Ampicillin as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 9876543210 | Reg No: REG456
+Name: John Doe ID: PID001
+Age: 61 Gender: Male
+Contact: 9688616487
+Date: 10-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Ampicillin Once daily Ongoing
+Tinidazole Before food 14 days
+Signature:
+Dr. Sample, MBBS, MD
+Esomeprazole and Atorva once daily after food.
+Clinic: Happy Clinic
+Date: 10-02-2026
+Cetirizine and Pantocid once daily after food.
+Clinic: Happy Clinic
+Date: 10-02-2026
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 9876543210 | Reg No: REG123
+Name: John Doe ID: PID002
+Age: 45 Gender: Female
+Contact: 9688616487
+Date: 10-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Bisoprolol Once daily 14 days
+Atorlip Once daily 7 days
+Signature:
+Dr. Sample, MBBS, MD
+Patient: Kannan, Age: 61
+Prescribed: Amikacin daily, Atorvastatin as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 9876543210 | Reg No: REG123
+Name: John Doe ID: PID002
+Age: 30 Gender: Female
+Contact: 5551234
+Date: 10-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Hydrochlorothiazide Twice daily 14 days
+Valacyclovir After food 7 days
+Signature:
+Dr. Sample, MBBS, MD
+Tramadol and Clopidogrel once daily after food.
+Clinic: Happy Clinic
+Date: 10-02-2026
+Amlodipine and Glimepiride once daily after food.
+Clinic: Happy Clinic
+Date: 10-02-2026
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 1234567890 | Reg No: REG456
+Name: Kannan ID: PID002
+Age: 61 Gender: Male
+Contact: 9688616487
+Date: 09-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Budesonide Twice daily 7 days
+Glycomet Once daily 7 days
+Signature:
+Dr. Sample, MBBS, MD
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 9876543210 | Reg No: REG123
+Name: Jane Smith ID: PID002
+Age: 61 Gender: Female
+Contact: 9688616487
+Date: 10-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Crocin Twice daily 7 days
+Clarithromycin After food 14 days
+Signature:
+Dr. Sample, MBBS, MD
+Patient: Jane Smith, Age: 61
+Prescribed: Formoterol daily, Digoxin as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Ciprofloxacin and Rosuvastatin once daily after food.
+Clinic: Happy Clinic
+Date: 09-02-2026
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 9876543210 | Reg No: REG456
+Name: Jane Smith ID: PID001
+Age: 30 Gender: Female
+Contact: 9688616487
+Date: 09-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Atorlip Once daily Ongoing
+Atorva Before food Ongoing
+Signature:
+Dr. Sample, MBBS, MD
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 9876543210 | Reg No: REG123
+Name: Kannan ID: PID002
+Age: 30 Gender: Female
+Contact: 9688616487
+Date: 10-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Chlorpheniramine Once daily Ongoing
+Sitagliptin Once daily 14 days
+Signature:
+Dr. Sample, MBBS, MD
+Patient: Kannan, Age: 30
+Prescribed: Bisoprolol daily, Aspirin as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 1234567890 | Reg No: REG123
+Name: Kannan ID: PID002
+Age: 30 Gender: Female
+Contact: 9688616487
+Date: 09-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Clarithromycin After food 14 days
+Esomeprazole Once daily 7 days
+Signature:
+Dr. Sample, MBBS, MD
+Patient: John Doe, Age: 45
+Prescribed: Ibuprofen daily, Nitroglycerin as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Patient: Jane Smith, Age: 61
+Prescribed: Esomeprazole daily, Furosemide as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 9876543210 | Reg No: REG456
+Name: Kannan ID: PID001
+Age: 45 Gender: Male
+Contact: 5551234
+Date: 09-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Isosorbide Mononitrate Once daily Ongoing
+Insulin Human Actrapid Twice daily 14 days
+Signature:
+Dr. Sample, MBBS, MD
+Nitrofurantoin and Montelukast once daily after food.
+Clinic: Happy Clinic
+Date: 09-02-2026
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 1234567890 | Reg No: REG456
+Name: Kannan ID: PID002
+Age: 45 Gender: Female
+Contact: 5551234
+Date: 10-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Warfarin After food Ongoing
+Hydrochlorothiazide Twice daily 7 days
+Signature:
+Dr. Sample, MBBS, MD
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 1234567890 | Reg No: REG123
+Name: Jane Smith ID: PID002
+Age: 30 Gender: Male
+Contact: 5551234
+Date: 09-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Nitrofurantoin Once daily 7 days
+Domperidone Before food 7 days
+Signature:
+Dr. Sample, MBBS, MD
+Patient: Kannan, Age: 45
+Prescribed: Vildagliptin daily, Amlong as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Levocetirizine and Paracetamol once daily after food.
+Clinic: Happy Clinic
+Date: 10-02-2026
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 1234567890 | Reg No: REG456
+Name: Kannan ID: PID002
+Age: 30 Gender: Male
+Contact: 9688616487
+Date: 09-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Losartan Once daily Ongoing
+Metronidazole Before food 7 days
+Signature:
+Dr. Sample, MBBS, MD
+Olmesartan and Ciprofloxacin once daily after food.
+Clinic: Happy Clinic
+Date: 10-02-2026
+Diclofenac and Paracetamol once daily after food.
+Clinic: Happy Clinic
+Date: 10-02-2026
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 1234567890 | Reg No: REG123
+Name: Jane Smith ID: PID001
+Age: 61 Gender: Female
+Contact: 5551234
+Date: 09-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Atenolol After food 7 days
+Atorvastatin Once daily Ongoing
+Signature:
+Dr. Sample, MBBS, MD
+Patient: Jane Smith, Age: 61
+Prescribed: Paracetamol daily, Atorvastatin as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 9876543210 | Reg No: REG123
+Name: Kannan ID: PID002
+Age: 30 Gender: Female
+Contact: 5551234
+Date: 09-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Insulin After food 14 days
+Glimepiride Before food Ongoing
+Signature:
+Dr. Sample, MBBS, MD
+Rabeprazole and Amoxicillin once daily after food.
+Clinic: Happy Clinic
+Date: 10-02-2026
+Crocin and Aspirin once daily after food.
+Clinic: Happy Clinic
+Date: 09-02-2026
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 9876543210 | Reg No: REG123
+Name: John Doe ID: PID001
+Age: 61 Gender: Female
+Contact: 5551234
+Date: 10-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Nitroglycerin Once daily 14 days
+Ciprofloxacin Before food Ongoing
+Signature:
+Dr. Sample, MBBS, MD
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 1234567890 | Reg No: REG123
+Name: Jane Smith ID: PID002
+Age: 45 Gender: Male
+Contact: 5551234
+Date: 10-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Azithromycin Once daily Ongoing
+Meropenem Once daily Ongoing
+Signature:
+Dr. Sample, MBBS, MD
+Simvastatin and Warfarin once daily after food.
+Clinic: Happy Clinic
+Date: 10-02-2026
+Patient: Jane Smith, Age: 30
+Prescribed: Clarithromycin daily, Nitroglycerin as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 9876543210 | Reg No: REG456
+Name: John Doe ID: PID002
+Age: 30 Gender: Female
+Contact: 9688616487
+Date: 09-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Losar After food 7 days
+Paracetamol Once daily Ongoing
+Signature:
+Dr. Sample, MBBS, MD
+Ibuprofen and Azithromycin once daily after food.
+Clinic: Happy Clinic
+Date: 09-02-2026
+Patient: Kannan, Age: 45
+Prescribed: Dolo daily, Ampicillin as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Metoprolol and Meropenem once daily after food.
+Clinic: Happy Clinic
+Date: 10-02-2026
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 1234567890 | Reg No: REG456
+Name: John Doe ID: PID001
+Age: 61 Gender: Male
+Contact: 5551234
+Date: 09-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Atorva Twice daily 7 days
+Heparin After food 7 days
+Signature:
+Dr. Sample, MBBS, MD
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 9876543210 | Reg No: REG456
+Name: Jane Smith ID: PID002
+Age: 45 Gender: Male
+Contact: 5551234
+Date: 09-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Isosorbide Mononitrate Twice daily 7 days
+Azithromycin Before food 14 days
+Signature:
+Dr. Sample, MBBS, MD
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 9876543210 | Reg No: REG456
+Name: Jane Smith ID: PID002
+Age: 30 Gender: Female
+Contact: 9688616487
+Date: 09-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Glycomet Once daily Ongoing
+Nitrofurantoin After food 14 days
+Signature:
+Dr. Sample, MBBS, MD
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 1234567890 | Reg No: REG123
+Name: John Doe ID: PID001
+Age: 61 Gender: Female
+Contact: 5551234
+Date: 09-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Itraconazole Once daily 7 days
+Propranolol Once daily Ongoing
+Signature:
+Dr. Sample, MBBS, MD
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 1234567890 | Reg No: REG123
+Name: Jane Smith ID: PID002
+Age: 30 Gender: Female
+Contact: 5551234
+Date: 10-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Bisoprolol After food 7 days
+Morphine Before food 14 days
+Signature:
+Dr. Sample, MBBS, MD
+Rosuvastatin and Metformin once daily after food.
+Clinic: Happy Clinic
+Date: 10-02-2026
+Atenolol and Cloxacillin once daily after food.
+Clinic: Happy Clinic
+Date: 10-02-2026
+Patient: Jane Smith, Age: 30
+Prescribed: Amlong daily, Levocetirizine as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 9876543210 | Reg No: REG456
+Name: Kannan ID: PID001
+Age: 61 Gender: Male
+Contact: 5551234
+Date: 09-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Esomeprazole Before food 7 days
+Sitagliptin Twice daily 14 days
+Signature:
+Dr. Sample, MBBS, MD
+Patient: Jane Smith, Age: 45
+Prescribed: Atenolol daily, Clarithromycin as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Patient: Jane Smith, Age: 61
+Prescribed: Atorlip daily, Simvastatin as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Patient: Kannan, Age: 45
+Prescribed: Levothyroxine daily, Spironolactone as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Patient: John Doe, Age: 30
+Prescribed: Fexofenadine daily, Sitagliptin as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Patient: John Doe, Age: 45
+Prescribed: Esomeprazole daily, Vildagliptin as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Dolo and Digoxin once daily after food.
+Clinic: Happy Clinic
+Date: 09-02-2026
+Levothyroxine and Piperacillin-Tazobactam once daily after food.
+Clinic: Happy Clinic
+Date: 09-02-2026
+Telmisartan and Vancomycin once daily after food.
+Clinic: Happy Clinic
+Date: 09-02-2026
+Amoxicillin and Fexofenadine once daily after food.
+Clinic: Happy Clinic
+Date: 09-02-2026
+Patient: Jane Smith, Age: 30
+Prescribed: Digoxin daily, Fexofenadine as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Losar and Naproxen once daily after food.
+Clinic: Happy Clinic
+Date: 10-02-2026
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 9876543210 | Reg No: REG456
+Name: Jane Smith ID: PID002
+Age: 45 Gender: Male
+Contact: 5551234
+Date: 09-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Metformin Once daily 7 days
+Glycomet Before food 14 days
+Signature:
+Dr. Sample, MBBS, MD
+Patient: John Doe, Age: 61
+Prescribed: Paracetamol daily, Pantocid as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Pantocid and Amlong once daily after food.
+Clinic: Happy Clinic
+Date: 10-02-2026
+Heparin and Oseltamivir once daily after food.
+Clinic: Happy Clinic
+Date: 10-02-2026
+Patient: John Doe, Age: 61
+Prescribed: Naproxen daily, Oseltamivir as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Patient: Kannan, Age: 30
+Prescribed: Aspirin daily, Clarithromycin as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 1234567890 | Reg No: REG123
+Name: Jane Smith ID: PID001
+Age: 61 Gender: Male
+Contact: 5551234
+Date: 10-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Simvastatin Before food 14 days
+Losar Once daily 7 days
+Signature:
+Dr. Sample, MBBS, MD
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 9876543210 | Reg No: REG123
+Name: John Doe ID: PID001
+Age: 61 Gender: Female
+Contact: 9688616487
+Date: 10-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Diphenhydramine Before food 14 days
+Furosemide Before food Ongoing
+Signature:
+Dr. Sample, MBBS, MD
+Patient: John Doe, Age: 61
+Prescribed: Rosuvastatin daily, Losartan as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 1234567890 | Reg No: REG456
+Name: John Doe ID: PID002
+Age: 61 Gender: Female
+Contact: 9688616487
+Date: 09-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Propranolol Before food 14 days
+Furosemide Before food 7 days
+Signature:
+Dr. Sample, MBBS, MD
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 9876543210 | Reg No: REG456
+Name: Jane Smith ID: PID001
+Age: 45 Gender: Male
+Contact: 5551234
+Date: 10-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Crocin Once daily 14 days
+Pioglitazone Before food 7 days
+Signature:
+Dr. Sample, MBBS, MD
+Meropenem and Levothyroxine once daily after food.
+Clinic: Happy Clinic
+Date: 10-02-2026
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 1234567890 | Reg No: REG456
+Name: Jane Smith ID: PID001
+Age: 45 Gender: Male
+Contact: 9688616487
+Date: 10-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Propranolol After food 14 days
+Metoprolol Once daily 14 days
+Signature:
+Dr. Sample, MBBS, MD
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 9876543210 | Reg No: REG456
+Name: John Doe ID: PID002
+Age: 30 Gender: Male
+Contact: 5551234
+Date: 09-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Rabeprazole Once daily 7 days
+Atorva Twice daily 14 days
+Signature:
+Dr. Sample, MBBS, MD
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 1234567890 | Reg No: REG456
+Name: John Doe ID: PID002
+Age: 45 Gender: Female
+Contact: 5551234
+Date: 10-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Nitroglycerin Before food 14 days
+Fluconazole Twice daily 14 days
+Signature:
+Dr. Sample, MBBS, MD
+Patient: Kannan, Age: 30
+Prescribed: Crocin daily, Pyrazinamide as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Ceftriaxone and Metformin once daily after food.
+Clinic: Happy Clinic
+Date: 10-02-2026
+Pantocid and Rifampicin once daily after food.
+Clinic: Happy Clinic
+Date: 10-02-2026
+Linezolid and Atorvastatin once daily after food.
+Clinic: Happy Clinic
+Date: 10-02-2026
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 1234567890 | Reg No: REG123
+Name: John Doe ID: PID001
+Age: 61 Gender: Female
+Contact: 5551234
+Date: 10-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Nitrofurantoin Before food 14 days
+Cloxacillin Once daily Ongoing
+Signature:
+Dr. Sample, MBBS, MD
+Diclofenac and Budesonide once daily after food.
+Clinic: Happy Clinic
+Date: 09-02-2026
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 1234567890 | Reg No: REG123
+Name: Kannan ID: PID001
+Age: 61 Gender: Female
+Contact: 9688616487
+Date: 09-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Rosuvastatin After food 14 days
+Levocetirizine Before food 7 days
+Signature:
+Dr. Sample, MBBS, MD
+Patient: Jane Smith, Age: 30
+Prescribed: Dolo 650 daily, Insulin Human Actrapid as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 1234567890 | Reg No: REG123
+Name: Kannan ID: PID002
+Age: 45 Gender: Male
+Contact: 9688616487
+Date: 10-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Oseltamivir Twice daily Ongoing
+Cetirizine Before food 7 days
+Signature:
+Dr. Sample, MBBS, MD
+Vancomycin and Amlodipine once daily after food.
+Clinic: Happy Clinic
+Date: 10-02-2026
+Ibuprofen and Simvastatin once daily after food.
+Clinic: Happy Clinic
+Date: 10-02-2026
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 1234567890 | Reg No: REG123
+Name: Kannan ID: PID002
+Age: 30 Gender: Female
+Contact: 5551234
+Date: 09-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Ondansetron Once daily 7 days
+Fluconazole Once daily 14 days
+Signature:
+Dr. Sample, MBBS, MD
+Tinidazole and Vildagliptin once daily after food.
+Clinic: Happy Clinic
+Date: 10-02-2026
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 9876543210 | Reg No: REG123
+Name: Jane Smith ID: PID002
+Age: 61 Gender: Female
+Contact: 9688616487
+Date: 09-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Glycomet Twice daily 7 days
+Cetirizine Once daily Ongoing
+Signature:
+Dr. Sample, MBBS, MD
+Domperidone and Piperacillin-Tazobactam once daily after food.
+Clinic: Happy Clinic
+Date: 10-02-2026
+Fexofenadine and Vildagliptin once daily after food.
+Clinic: Happy Clinic
+Date: 10-02-2026
+Amikacin and Amlong once daily after food.
+Clinic: Happy Clinic
+Date: 10-02-2026
+Ceftriaxone and Gentamicin once daily after food.
+Clinic: Happy Clinic
+Date: 10-02-2026
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 9876543210 | Reg No: REG456
+Name: Jane Smith ID: PID001
+Age: 61 Gender: Female
+Contact: 9688616487
+Date: 10-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Paracetamol Twice daily Ongoing
+Pioglitazone Once daily Ongoing
+Signature:
+Dr. Sample, MBBS, MD
+Ethambutol and Dolo once daily after food.
+Clinic: Happy Clinic
+Date: 10-02-2026
+Patient: Jane Smith, Age: 61
+Prescribed: Metronidazole daily, Atenolol as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Losartan and Aspirin once daily after food.
+Clinic: Happy Clinic
+Date: 09-02-2026
+Tramadol and Meropenem once daily after food.
+Clinic: Happy Clinic
+Date: 10-02-2026
+Pioglitazone and Combiflam once daily after food.
+Clinic: Happy Clinic
+Date: 09-02-2026
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 1234567890 | Reg No: REG123
+Name: Jane Smith ID: PID001
+Age: 61 Gender: Female
+Contact: 5551234
+Date: 10-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Sitagliptin After food Ongoing
+Formoterol Twice daily Ongoing
+Signature:
+Dr. Sample, MBBS, MD
+Patient: Kannan, Age: 45
+Prescribed: Losartan daily, Morphine as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Hydrochlorothiazide and Pyrazinamide once daily after food.
+Clinic: Happy Clinic
+Date: 10-02-2026
+Warfarin and Tramadol once daily after food.
+Clinic: Happy Clinic
+Date: 09-02-2026
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 9876543210 | Reg No: REG456
+Name: John Doe ID: PID002
+Age: 45 Gender: Female
+Contact: 5551234
+Date: 10-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Cefixime Before food 14 days
+Clopidogrel After food 14 days
+Signature:
+Dr. Sample, MBBS, MD
+Amlodipine and Ibuprofen once daily after food.
+Clinic: Happy Clinic
+Date: 10-02-2026
+Patient: John Doe, Age: 45
+Prescribed: Heparin daily, Fexofenadine as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 1234567890 | Reg No: REG456
+Name: Kannan ID: PID002
+Age: 45 Gender: Male
+Contact: 5551234
+Date: 09-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Olmesartan Before food 14 days
+Vildagliptin After food 7 days
+Signature:
+Dr. Sample, MBBS, MD
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 9876543210 | Reg No: REG123
+Name: John Doe ID: PID002
+Age: 30 Gender: Male
+Contact: 5551234
+Date: 10-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Linezolid Twice daily 7 days
+Sitagliptin Once daily 14 days
+Signature:
+Dr. Sample, MBBS, MD
+Patient: John Doe, Age: 61
+Prescribed: Gliclazide daily, Nitroglycerin as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Patient: Jane Smith, Age: 30
+Prescribed: Atorvastatin daily, Cloxacillin as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Tinidazole and Nitroglycerin once daily after food.
+Clinic: Happy Clinic
+Date: 10-02-2026
+Patient: Jane Smith, Age: 45
+Prescribed: Insulin daily, Fluconazole as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 9876543210 | Reg No: REG123
+Name: Jane Smith ID: PID002
+Age: 45 Gender: Male
+Contact: 5551234
+Date: 10-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Cloxacillin Once daily 7 days
+Nitrofurantoin After food Ongoing
+Signature:
+Dr. Sample, MBBS, MD
+Patient: John Doe, Age: 45
+Prescribed: Levothyroxine daily, Furosemide as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 1234567890 | Reg No: REG123
+Name: Kannan ID: PID001
+Age: 61 Gender: Male
+Contact: 5551234
+Date: 10-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Crocin After food 14 days
+Sucralfate After food 14 days
+Signature:
+Dr. Sample, MBBS, MD
+Chlorpheniramine and Meropenem once daily after food.
+Clinic: Happy Clinic
+Date: 09-02-2026
+Patient: Kannan, Age: 45
+Prescribed: Dolo daily, Hydrochlorothiazide as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 1234567890 | Reg No: REG456
+Name: Kannan ID: PID002
+Age: 61 Gender: Male
+Contact: 9688616487
+Date: 09-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Nitrofurantoin Once daily 14 days
+Levothyroxine Before food 7 days
+Signature:
+Dr. Sample, MBBS, MD
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 1234567890 | Reg No: REG456
+Name: Jane Smith ID: PID002
+Age: 30 Gender: Female
+Contact: 5551234
+Date: 10-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Sucralfate Before food Ongoing
+Meropenem Before food 14 days
+Signature:
+Dr. Sample, MBBS, MD
+Patient: John Doe, Age: 30
+Prescribed: Gentamicin daily, Atorva as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Simvastatin and Amlong once daily after food.
+Clinic: Happy Clinic
+Date: 09-02-2026
+Fexofenadine and Hydrochlorothiazide once daily after food.
+Clinic: Happy Clinic
+Date: 09-02-2026
+Patient: Jane Smith, Age: 61
+Prescribed: Doxycycline daily, Combiflam as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 1234567890 | Reg No: REG123
+Name: John Doe ID: PID002
+Age: 61 Gender: Female
+Contact: 5551234
+Date: 09-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Fluconazole After food 14 days
+Ethambutol Before food 7 days
+Signature:
+Dr. Sample, MBBS, MD
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 9876543210 | Reg No: REG456
+Name: Kannan ID: PID002
+Age: 30 Gender: Female
+Contact: 5551234
+Date: 10-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Vancomycin Twice daily 14 days
+Domperidone Once daily Ongoing
+Signature:
+Dr. Sample, MBBS, MD
+Nitrofurantoin and Formoterol once daily after food.
+Clinic: Happy Clinic
+Date: 09-02-2026
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 9876543210 | Reg No: REG456
+Name: Kannan ID: PID002
+Age: 30 Gender: Male
+Contact: 5551234
+Date: 09-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Clarithromycin After food 14 days
+Pioglitazone After food 14 days
+Signature:
+Dr. Sample, MBBS, MD
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 1234567890 | Reg No: REG456
+Name: Jane Smith ID: PID002
+Age: 30 Gender: Female
+Contact: 9688616487
+Date: 10-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Ketoconazole Twice daily 14 days
+Olmesartan Once daily Ongoing
+Signature:
+Dr. Sample, MBBS, MD
+Propranolol and Ibuprofen once daily after food.
+Clinic: Happy Clinic
+Date: 09-02-2026
+Losar and Ondansetron once daily after food.
+Clinic: Happy Clinic
+Date: 09-02-2026
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 9876543210 | Reg No: REG456
+Name: Jane Smith ID: PID002
+Age: 61 Gender: Female
+Contact: 9688616487
+Date: 09-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Oseltamivir Before food 14 days
+Pyrazinamide After food 14 days
+Signature:
+Dr. Sample, MBBS, MD
+Patient: Jane Smith, Age: 61
+Prescribed: Atorva daily, Spironolactone as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 9876543210 | Reg No: REG456
+Name: Jane Smith ID: PID001
+Age: 61 Gender: Female
+Contact: 5551234
+Date: 10-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Morphine After food Ongoing
+Glycomet Twice daily Ongoing
+Signature:
+Dr. Sample, MBBS, MD
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 1234567890 | Reg No: REG123
+Name: Jane Smith ID: PID001
+Age: 30 Gender: Male
+Contact: 9688616487
+Date: 10-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Meropenem Twice daily Ongoing
+Tramadol Before food Ongoing
+Signature:
+Dr. Sample, MBBS, MD
+Isoniazid and Ranitidine once daily after food.
+Clinic: Happy Clinic
+Date: 09-02-2026
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 9876543210 | Reg No: REG123
+Name: Kannan ID: PID001
+Age: 30 Gender: Female
+Contact: 5551234
+Date: 10-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Diphenhydramine Once daily 14 days
+Hydrochlorothiazide After food 7 days
+Signature:
+Dr. Sample, MBBS, MD
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 1234567890 | Reg No: REG456
+Name: Kannan ID: PID002
+Age: 61 Gender: Male
+Contact: 9688616487
+Date: 10-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Crocin Once daily 7 days
+Linezolid After food 14 days
+Signature:
+Dr. Sample, MBBS, MD
+Digoxin and Isoniazid once daily after food.
+Clinic: Happy Clinic
+Date: 10-02-2026
+Atorva and Levothyroxine once daily after food.
+Clinic: Happy Clinic
+Date: 10-02-2026
+Ceftriaxone and Rosuvastatin once daily after food.
+Clinic: Happy Clinic
+Date: 10-02-2026
+Dolo 650 and Insulin Human Actrapid once daily after food.
+Clinic: Happy Clinic
+Date: 10-02-2026
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 9876543210 | Reg No: REG456
+Name: Jane Smith ID: PID002
+Age: 30 Gender: Male
+Contact: 9688616487
+Date: 09-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Hydrochlorothiazide Before food 14 days
+Ampicillin Twice daily 14 days
+Signature:
+Dr. Sample, MBBS, MD
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 1234567890 | Reg No: REG456
+Name: John Doe ID: PID001
+Age: 61 Gender: Female
+Contact: 5551234
+Date: 10-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Combiflam Once daily 7 days
+Metronidazole After food Ongoing
+Signature:
+Dr. Sample, MBBS, MD
+Tinidazole and Clarithromycin once daily after food.
+Clinic: Happy Clinic
+Date: 10-02-2026
+Sucralfate and Ondansetron once daily after food.
+Clinic: Happy Clinic
+Date: 09-02-2026
+Patient: Kannan, Age: 61
+Prescribed: Metformin daily, Formoterol as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 9876543210 | Reg No: REG123
+Name: John Doe ID: PID002
+Age: 45 Gender: Female
+Contact: 5551234
+Date: 10-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Telmisartan After food Ongoing
+Amikacin Once daily Ongoing
+Signature:
+Dr. Sample, MBBS, MD
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 1234567890 | Reg No: REG456
+Name: Kannan ID: PID002
+Age: 30 Gender: Male
+Contact: 5551234
+Date: 10-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Insulin After food 7 days
+Levocetirizine After food 7 days
+Signature:
+Dr. Sample, MBBS, MD
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 9876543210 | Reg No: REG123
+Name: John Doe ID: PID002
+Age: 30 Gender: Female
+Contact: 5551234
+Date: 09-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Doxycycline Twice daily Ongoing
+Domperidone Twice daily Ongoing
+Signature:
+Dr. Sample, MBBS, MD
+Diphenhydramine and Rabeprazole once daily after food.
+Clinic: Happy Clinic
+Date: 10-02-2026
+Patient: Kannan, Age: 61
+Prescribed: Glimepiride daily, Azithromycin as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Dolo and Losartan once daily after food.
+Clinic: Happy Clinic
+Date: 10-02-2026
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 9876543210 | Reg No: REG456
+Name: Kannan ID: PID001
+Age: 61 Gender: Male
+Contact: 5551234
+Date: 10-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Paracetamol Before food 14 days
+Vancomycin Before food 7 days
+Signature:
+Dr. Sample, MBBS, MD
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 9876543210 | Reg No: REG456
+Name: Kannan ID: PID001
+Age: 30 Gender: Male
+Contact: 5551234
+Date: 09-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Heparin Before food Ongoing
+Domperidone Before food 7 days
+Signature:
+Dr. Sample, MBBS, MD
+Patient: Jane Smith, Age: 61
+Prescribed: Sitagliptin daily, Montelukast as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Patient: Jane Smith, Age: 45
+Prescribed: Aspirin daily, Azithromycin as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 1234567890 | Reg No: REG456
+Name: John Doe ID: PID001
+Age: 30 Gender: Female
+Contact: 5551234
+Date: 10-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Simvastatin Twice daily Ongoing
+Insulin Human Actrapid After food 14 days
+Signature:
+Dr. Sample, MBBS, MD
+Patient: John Doe, Age: 30
+Prescribed: Doxycycline daily, Linezolid as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Patient: Kannan, Age: 61
+Prescribed: Isosorbide Mononitrate daily, Warfarin as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Patient: Kannan, Age: 30
+Prescribed: Losar daily, Combiflam as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Patient: John Doe, Age: 30
+Prescribed: Montelukast daily, Salbutamol as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 9876543210 | Reg No: REG456
+Name: Kannan ID: PID002
+Age: 61 Gender: Female
+Contact: 5551234
+Date: 10-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Cetirizine Before food Ongoing
+Vancomycin After food 7 days
+Signature:
+Dr. Sample, MBBS, MD
+Patient: Kannan, Age: 61
+Prescribed: Propranolol daily, Metoprolol as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 9876543210 | Reg No: REG123
+Name: Kannan ID: PID001
+Age: 61 Gender: Female
+Contact: 5551234
+Date: 09-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Budesonide After food 14 days
+Ibuprofen Twice daily Ongoing
+Signature:
+Dr. Sample, MBBS, MD
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 1234567890 | Reg No: REG456
+Name: Jane Smith ID: PID001
+Age: 45 Gender: Male
+Contact: 9688616487
+Date: 10-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Losar Before food 7 days
+Levocetirizine Before food 7 days
+Signature:
+Dr. Sample, MBBS, MD
+Levocetirizine and Cefixime once daily after food.
+Clinic: Happy Clinic
+Date: 09-02-2026
+Hydrochlorothiazide and Pyrazinamide once daily after food.
+Clinic: Happy Clinic
+Date: 10-02-2026
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 1234567890 | Reg No: REG123
+Name: Kannan ID: PID002
+Age: 30 Gender: Male
+Contact: 5551234
+Date: 10-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Digoxin After food 7 days
+Metformin Once daily 7 days
+Signature:
+Dr. Sample, MBBS, MD
+Patient: John Doe, Age: 30
+Prescribed: Cloxacillin daily, Esomeprazole as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Patient: Jane Smith, Age: 45
+Prescribed: Amoxicillin daily, Dolo as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Pioglitazone and Atorvastatin once daily after food.
+Clinic: Happy Clinic
+Date: 09-02-2026
+Patient: Kannan, Age: 30
+Prescribed: Montelukast daily, Budesonide as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 9876543210 | Reg No: REG123
+Name: John Doe ID: PID001
+Age: 61 Gender: Male
+Contact: 9688616487
+Date: 09-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Bisoprolol Once daily 7 days
+Losartan Once daily 7 days
+Signature:
+Dr. Sample, MBBS, MD
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 9876543210 | Reg No: REG123
+Name: Kannan ID: PID002
+Age: 45 Gender: Female
+Contact: 9688616487
+Date: 10-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Atorvastatin Twice daily 7 days
+Salbutamol Once daily 7 days
+Signature:
+Dr. Sample, MBBS, MD
+Patient: John Doe, Age: 45
+Prescribed: Ceftriaxone daily, Cefixime as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Ampicillin and Hydrochlorothiazide once daily after food.
+Clinic: Happy Clinic
+Date: 10-02-2026
+Fluconazole and Atorvastatin once daily after food.
+Clinic: Happy Clinic
+Date: 10-02-2026
+Acyclovir and Meropenem once daily after food.
+Clinic: Happy Clinic
+Date: 09-02-2026
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 9876543210 | Reg No: REG456
+Name: John Doe ID: PID001
+Age: 45 Gender: Male
+Contact: 5551234
+Date: 10-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Metformin Once daily 14 days
+Dolo Before food 14 days
+Signature:
+Dr. Sample, MBBS, MD
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 1234567890 | Reg No: REG123
+Name: John Doe ID: PID001
+Age: 45 Gender: Male
+Contact: 5551234
+Date: 09-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Nitroglycerin Before food 7 days
+Metoprolol Before food Ongoing
+Signature:
+Dr. Sample, MBBS, MD
+Furosemide and Paracetamol once daily after food.
+Clinic: Happy Clinic
+Date: 09-02-2026
+Patient: John Doe, Age: 45
+Prescribed: Vancomycin daily, Olmesartan as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 9876543210 | Reg No: REG123
+Name: Kannan ID: PID001
+Age: 30 Gender: Male
+Contact: 5551234
+Date: 09-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Itraconazole Once daily 7 days
+Pyrazinamide Once daily Ongoing
+Signature:
+Dr. Sample, MBBS, MD
+Morphine and Pantoprazole once daily after food.
+Clinic: Happy Clinic
+Date: 10-02-2026
+Patient: John Doe, Age: 45
+Prescribed: Atenolol daily, Oseltamivir as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 9876543210 | Reg No: REG123
+Name: Kannan ID: PID002
+Age: 61 Gender: Female
+Contact: 9688616487
+Date: 09-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Amlodipine Twice daily 14 days
+Rifampicin Once daily Ongoing
+Signature:
+Dr. Sample, MBBS, MD
+Meropenem and Bisoprolol once daily after food.
+Clinic: Happy Clinic
+Date: 10-02-2026
+Ceftriaxone and Ethambutol once daily after food.
+Clinic: Happy Clinic
+Date: 10-02-2026
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 1234567890 | Reg No: REG123
+Name: Jane Smith ID: PID002
+Age: 45 Gender: Female
+Contact: 5551234
+Date: 10-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Digoxin Once daily 14 days
+Glimepiride Before food 14 days
+Signature:
+Dr. Sample, MBBS, MD
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 1234567890 | Reg No: REG456
+Name: John Doe ID: PID002
+Age: 61 Gender: Male
+Contact: 9688616487
+Date: 09-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Acyclovir Before food 7 days
+Diclofenac Twice daily 14 days
+Signature:
+Dr. Sample, MBBS, MD
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 1234567890 | Reg No: REG456
+Name: Jane Smith ID: PID002
+Age: 61 Gender: Female
+Contact: 5551234
+Date: 09-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Meropenem Before food 7 days
+Amoxicillin Before food 7 days
+Signature:
+Dr. Sample, MBBS, MD
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 9876543210 | Reg No: REG456
+Name: Jane Smith ID: PID001
+Age: 61 Gender: Male
+Contact: 9688616487
+Date: 09-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Esomeprazole Twice daily Ongoing
+Insulin Before food Ongoing
+Signature:
+Dr. Sample, MBBS, MD
+Brufen and Dapagliflozin once daily after food.
+Clinic: Happy Clinic
+Date: 10-02-2026
+Patient: Jane Smith, Age: 45
+Prescribed: Nitroglycerin daily, Aspirin as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Patient: John Doe, Age: 30
+Prescribed: Formoterol daily, Vancomycin as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 9876543210 | Reg No: REG456
+Name: Kannan ID: PID001
+Age: 61 Gender: Male
+Contact: 9688616487
+Date: 09-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Crocin Twice daily 7 days
+Chlorpheniramine Once daily 14 days
+Signature:
+Dr. Sample, MBBS, MD
+Metoprolol and Dapagliflozin once daily after food.
+Clinic: Happy Clinic
+Date: 10-02-2026
+Patient: Jane Smith, Age: 61
+Prescribed: Tramadol daily, Acyclovir as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Salbutamol and Rosuvastatin once daily after food.
+Clinic: Happy Clinic
+Date: 10-02-2026
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 1234567890 | Reg No: REG123
+Name: Jane Smith ID: PID001
+Age: 45 Gender: Female
+Contact: 9688616487
+Date: 10-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Ethambutol After food Ongoing
+Ciprofloxacin Before food 7 days
+Signature:
+Dr. Sample, MBBS, MD
+Patient: John Doe, Age: 45
+Prescribed: Valacyclovir daily, Atorva as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 1234567890 | Reg No: REG456
+Name: Jane Smith ID: PID001
+Age: 45 Gender: Female
+Contact: 9688616487
+Date: 10-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Tramadol Before food Ongoing
+Amlong Twice daily 14 days
+Signature:
+Dr. Sample, MBBS, MD
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 1234567890 | Reg No: REG123
+Name: Kannan ID: PID001
+Age: 61 Gender: Female
+Contact: 5551234
+Date: 09-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Cetirizine Twice daily 7 days
+Diclofenac Twice daily 14 days
+Signature:
+Dr. Sample, MBBS, MD
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 1234567890 | Reg No: REG456
+Name: Jane Smith ID: PID002
+Age: 45 Gender: Male
+Contact: 5551234
+Date: 10-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Levocetirizine After food Ongoing
+Oseltamivir Once daily 7 days
+Signature:
+Dr. Sample, MBBS, MD
+Patient: John Doe, Age: 61
+Prescribed: Ranitidine daily, Clopidogrel as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Levothyroxine and Valacyclovir once daily after food.
+Clinic: Happy Clinic
+Date: 09-02-2026
+Patient: Jane Smith, Age: 30
+Prescribed: Esomeprazole daily, Gliclazide as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Furosemide and Metoclopramide once daily after food.
+Clinic: Happy Clinic
+Date: 10-02-2026
+Patient: Kannan, Age: 61
+Prescribed: Atorvastatin daily, Linezolid as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 1234567890 | Reg No: REG123
+Name: Jane Smith ID: PID001
+Age: 61 Gender: Male
+Contact: 5551234
+Date: 09-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Insulin Twice daily 7 days
+Amlodipine Twice daily 14 days
+Signature:
+Dr. Sample, MBBS, MD
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 9876543210 | Reg No: REG123
+Name: John Doe ID: PID002
+Age: 61 Gender: Female
+Contact: 9688616487
+Date: 09-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Montelukast Before food 14 days
+Insulin Human Actrapid Twice daily Ongoing
+Signature:
+Dr. Sample, MBBS, MD
+Patient: Kannan, Age: 30
+Prescribed: Enoxaparin daily, Rifampicin as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Patient: Jane Smith, Age: 61
+Prescribed: Dolo 650 daily, Gentamicin as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 9876543210 | Reg No: REG456
+Name: John Doe ID: PID002
+Age: 45 Gender: Male
+Contact: 9688616487
+Date: 09-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Chlorpheniramine Before food Ongoing
+Olmesartan Before food Ongoing
+Signature:
+Dr. Sample, MBBS, MD
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 9876543210 | Reg No: REG123
+Name: Jane Smith ID: PID002
+Age: 45 Gender: Male
+Contact: 5551234
+Date: 10-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Amlong Once daily 7 days
+Combiflam Before food 14 days
+Signature:
+Dr. Sample, MBBS, MD
+Enoxaparin and Heparin once daily after food.
+Clinic: Happy Clinic
+Date: 09-02-2026
+Budesonide and Itraconazole once daily after food.
+Clinic: Happy Clinic
+Date: 09-02-2026
+Nitroglycerin and Brufen once daily after food.
+Clinic: Happy Clinic
+Date: 09-02-2026
+Patient: Kannan, Age: 45
+Prescribed: Esomeprazole daily, Chlorpheniramine as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Patient: Jane Smith, Age: 45
+Prescribed: Acyclovir daily, Hydrochlorothiazide as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 9876543210 | Reg No: REG456
+Name: John Doe ID: PID001
+Age: 61 Gender: Female
+Contact: 9688616487
+Date: 10-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Vildagliptin Before food Ongoing
+Tinidazole After food Ongoing
+Signature:
+Dr. Sample, MBBS, MD
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 1234567890 | Reg No: REG123
+Name: John Doe ID: PID002
+Age: 61 Gender: Male
+Contact: 9688616487
+Date: 09-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Dapagliflozin After food 14 days
+Sitagliptin Before food Ongoing
+Signature:
+Dr. Sample, MBBS, MD
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 1234567890 | Reg No: REG123
+Name: John Doe ID: PID001
+Age: 30 Gender: Male
+Contact: 9688616487
+Date: 09-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Metoclopramide Once daily 14 days
+Formoterol Before food 7 days
+Signature:
+Dr. Sample, MBBS, MD
+Patient: Kannan, Age: 30
+Prescribed: Azithromycin daily, Fluconazole as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 9876543210 | Reg No: REG123
+Name: John Doe ID: PID001
+Age: 30 Gender: Female
+Contact: 9688616487
+Date: 09-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Rosuvastatin Before food 14 days
+Pantoprazole Twice daily Ongoing
+Signature:
+Dr. Sample, MBBS, MD
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 9876543210 | Reg No: REG123
+Name: Jane Smith ID: PID001
+Age: 45 Gender: Male
+Contact: 9688616487
+Date: 09-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Cetirizine Twice daily 7 days
+Atorlip Once daily 14 days
+Signature:
+Dr. Sample, MBBS, MD
+Vildagliptin and Clarithromycin once daily after food.
+Clinic: Happy Clinic
+Date: 09-02-2026
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 1234567890 | Reg No: REG123
+Name: Kannan ID: PID002
+Age: 30 Gender: Male
+Contact: 9688616487
+Date: 09-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Metoprolol Once daily 14 days
+Warfarin Before food 14 days
+Signature:
+Dr. Sample, MBBS, MD
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 9876543210 | Reg No: REG456
+Name: John Doe ID: PID001
+Age: 45 Gender: Female
+Contact: 9688616487
+Date: 09-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Rosuvastatin Before food 7 days
+Amlong Twice daily Ongoing
+Signature:
+Dr. Sample, MBBS, MD
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 9876543210 | Reg No: REG123
+Name: Jane Smith ID: PID002
+Age: 45 Gender: Female
+Contact: 9688616487
+Date: 09-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Crocin After food 7 days
+Naproxen Before food 7 days
+Signature:
+Dr. Sample, MBBS, MD
+Cetirizine and Fluconazole once daily after food.
+Clinic: Happy Clinic
+Date: 09-02-2026
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 1234567890 | Reg No: REG456
+Name: John Doe ID: PID002
+Age: 61 Gender: Female
+Contact: 5551234
+Date: 09-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Esomeprazole Once daily Ongoing
+Hydrochlorothiazide Once daily 7 days
+Signature:
+Dr. Sample, MBBS, MD
+Patient: John Doe, Age: 61
+Prescribed: Atenolol daily, Cloxacillin as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Levothyroxine and Insulin Human Actrapid once daily after food.
+Clinic: Happy Clinic
+Date: 10-02-2026
+Patient: Jane Smith, Age: 45
+Prescribed: Itraconazole daily, Cloxacillin as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Ketoconazole and Dolo once daily after food.
+Clinic: Happy Clinic
+Date: 09-02-2026
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 9876543210 | Reg No: REG123
+Name: John Doe ID: PID001
+Age: 61 Gender: Male
+Contact: 5551234
+Date: 09-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Nitroglycerin Twice daily 14 days
+Ibuprofen Once daily Ongoing
+Signature:
+Dr. Sample, MBBS, MD
+Patient: Kannan, Age: 30
+Prescribed: Atorvastatin daily, Losar as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 9876543210 | Reg No: REG456
+Name: Jane Smith ID: PID002
+Age: 30 Gender: Male
+Contact: 9688616487
+Date: 09-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Tramadol Before food 14 days
+Heparin Twice daily 14 days
+Signature:
+Dr. Sample, MBBS, MD
+Simvastatin and Sucralfate once daily after food.
+Clinic: Happy Clinic
+Date: 09-02-2026
+Furosemide and Meropenem once daily after food.
+Clinic: Happy Clinic
+Date: 09-02-2026
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 1234567890 | Reg No: REG123
+Name: Kannan ID: PID001
+Age: 61 Gender: Male
+Contact: 5551234
+Date: 10-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Amikacin Once daily 7 days
+Esomeprazole Once daily Ongoing
+Signature:
+Dr. Sample, MBBS, MD
+Piperacillin-Tazobactam and Bisoprolol once daily after food.
+Clinic: Happy Clinic
+Date: 09-02-2026
+Patient: John Doe, Age: 45
+Prescribed: Diphenhydramine daily, Vildagliptin as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 9876543210 | Reg No: REG456
+Name: Kannan ID: PID002
+Age: 61 Gender: Female
+Contact: 9688616487
+Date: 10-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Formoterol Once daily 7 days
+Cloxacillin Twice daily 7 days
+Signature:
+Dr. Sample, MBBS, MD
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 1234567890 | Reg No: REG123
+Name: John Doe ID: PID001
+Age: 61 Gender: Male
+Contact: 9688616487
+Date: 09-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Piperacillin-Tazobactam Before food 7 days
+Warfarin After food Ongoing
+Signature:
+Dr. Sample, MBBS, MD
+Diphenhydramine and Cefixime once daily after food.
+Clinic: Happy Clinic
+Date: 10-02-2026
+Patient: John Doe, Age: 30
+Prescribed: Formoterol daily, Losar as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 1234567890 | Reg No: REG123
+Name: Jane Smith ID: PID001
+Age: 45 Gender: Male
+Contact: 5551234
+Date: 10-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Itraconazole Twice daily 7 days
+Sitagliptin Before food 7 days
+Signature:
+Dr. Sample, MBBS, MD
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 1234567890 | Reg No: REG123
+Name: John Doe ID: PID002
+Age: 61 Gender: Female
+Contact: 9688616487
+Date: 10-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Pioglitazone Twice daily Ongoing
+Nitroglycerin Before food 14 days
+Signature:
+Dr. Sample, MBBS, MD
+Patient: Kannan, Age: 61
+Prescribed: Cloxacillin daily, Tinidazole as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Patient: Kannan, Age: 45
+Prescribed: Rosuvastatin daily, Diphenhydramine as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Dolo and Vildagliptin once daily after food.
+Clinic: Happy Clinic
+Date: 09-02-2026
+Patient: John Doe, Age: 45
+Prescribed: Bisoprolol daily, Ondansetron as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Patient: Jane Smith, Age: 61
+Prescribed: Pioglitazone daily, Itraconazole as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 9876543210 | Reg No: REG123
+Name: Kannan ID: PID002
+Age: 30 Gender: Female
+Contact: 9688616487
+Date: 09-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Gentamicin Before food Ongoing
+Itraconazole Twice daily 7 days
+Signature:
+Dr. Sample, MBBS, MD
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 9876543210 | Reg No: REG456
+Name: John Doe ID: PID001
+Age: 61 Gender: Female
+Contact: 5551234
+Date: 09-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Diphenhydramine Once daily 7 days
+Bisoprolol Twice daily 7 days
+Signature:
+Dr. Sample, MBBS, MD
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 9876543210 | Reg No: REG123
+Name: Jane Smith ID: PID002
+Age: 30 Gender: Male
+Contact: 5551234
+Date: 10-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Pantoprazole After food Ongoing
+Propranolol Before food 7 days
+Signature:
+Dr. Sample, MBBS, MD
+Dolo and Budesonide once daily after food.
+Clinic: Happy Clinic
+Date: 09-02-2026
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 1234567890 | Reg No: REG123
+Name: Jane Smith ID: PID001
+Age: 30 Gender: Female
+Contact: 9688616487
+Date: 09-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Tramadol Once daily Ongoing
+Ceftriaxone After food 14 days
+Signature:
+Dr. Sample, MBBS, MD
+Patient: Jane Smith, Age: 61
+Prescribed: Ranitidine daily, Spironolactone as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Clarithromycin and Metoclopramide once daily after food.
+Clinic: Happy Clinic
+Date: 09-02-2026
+Patient: Kannan, Age: 30
+Prescribed: Domperidone daily, Atorvastatin as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Dolo and Amlodipine once daily after food.
+Clinic: Happy Clinic
+Date: 09-02-2026
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 9876543210 | Reg No: REG456
+Name: John Doe ID: PID001
+Age: 45 Gender: Female
+Contact: 9688616487
+Date: 09-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Insulin Human Actrapid After food 14 days
+Gentamicin After food 7 days
+Signature:
+Dr. Sample, MBBS, MD
+Esomeprazole and Ampicillin once daily after food.
+Clinic: Happy Clinic
+Date: 09-02-2026
+Patient: Kannan, Age: 30
+Prescribed: Atorlip daily, Vildagliptin as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Patient: Kannan, Age: 30
+Prescribed: Tinidazole daily, Fluconazole as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Patient: John Doe, Age: 45
+Prescribed: Vildagliptin daily, Digoxin as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 9876543210 | Reg No: REG123
+Name: John Doe ID: PID001
+Age: 61 Gender: Male
+Contact: 5551234
+Date: 10-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Amoxicillin After food 14 days
+Simvastatin Once daily Ongoing
+Signature:
+Dr. Sample, MBBS, MD
+Patient: John Doe, Age: 30
+Prescribed: Cloxacillin daily, Spironolactone as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Patient: Kannan, Age: 45
+Prescribed: Metronidazole daily, Metoclopramide as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 1234567890 | Reg No: REG123
+Name: John Doe ID: PID002
+Age: 61 Gender: Male
+Contact: 9688616487
+Date: 10-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Tinidazole Twice daily 14 days
+Vildagliptin After food 7 days
+Signature:
+Dr. Sample, MBBS, MD
+Morphine and Tinidazole once daily after food.
+Clinic: Happy Clinic
+Date: 10-02-2026
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 9876543210 | Reg No: REG123
+Name: Jane Smith ID: PID002
+Age: 61 Gender: Female
+Contact: 5551234
+Date: 09-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Pantocid After food Ongoing
+Sitagliptin Before food 7 days
+Signature:
+Dr. Sample, MBBS, MD
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 9876543210 | Reg No: REG456
+Name: Kannan ID: PID001
+Age: 45 Gender: Male
+Contact: 9688616487
+Date: 09-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Enoxaparin Before food 14 days
+Hydrochlorothiazide After food Ongoing
+Signature:
+Dr. Sample, MBBS, MD
+Tramadol and Pantocid once daily after food.
+Clinic: Happy Clinic
+Date: 10-02-2026
+Patient: John Doe, Age: 61
+Prescribed: Insulin Glargine daily, Budesonide as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 1234567890 | Reg No: REG456
+Name: Jane Smith ID: PID002
+Age: 61 Gender: Female
+Contact: 9688616487
+Date: 09-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Amlodipine Twice daily 7 days
+Paracetamol After food 14 days
+Signature:
+Dr. Sample, MBBS, MD
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 9876543210 | Reg No: REG456
+Name: Kannan ID: PID001
+Age: 61 Gender: Female
+Contact: 9688616487
+Date: 09-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Digoxin Twice daily 14 days
+Cloxacillin Before food Ongoing
+Signature:
+Dr. Sample, MBBS, MD
+Amlodipine and Atorva once daily after food.
+Clinic: Happy Clinic
+Date: 09-02-2026
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 9876543210 | Reg No: REG123
+Name: Jane Smith ID: PID002
+Age: 30 Gender: Female
+Contact: 5551234
+Date: 10-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Warfarin Once daily 7 days
+Piperacillin-Tazobactam Once daily Ongoing
+Signature:
+Dr. Sample, MBBS, MD
+Cetirizine and Doxycycline once daily after food.
+Clinic: Happy Clinic
+Date: 09-02-2026
+Fluconazole and Pantocid once daily after food.
+Clinic: Happy Clinic
+Date: 10-02-2026
+Patient: Kannan, Age: 61
+Prescribed: Clopidogrel daily, Itraconazole as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 1234567890 | Reg No: REG123
+Name: Jane Smith ID: PID001
+Age: 45 Gender: Male
+Contact: 5551234
+Date: 10-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Isosorbide Mononitrate Twice daily Ongoing
+Rabeprazole Twice daily Ongoing
+Signature:
+Dr. Sample, MBBS, MD
+Patient: Jane Smith, Age: 30
+Prescribed: Diphenhydramine daily, Pantocid as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 1234567890 | Reg No: REG123
+Name: John Doe ID: PID001
+Age: 30 Gender: Male
+Contact: 5551234
+Date: 10-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Amikacin Once daily Ongoing
+Pantocid Once daily Ongoing
+Signature:
+Dr. Sample, MBBS, MD
+Patient: Jane Smith, Age: 61
+Prescribed: Vancomycin daily, Isoniazid as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Patient: John Doe, Age: 30
+Prescribed: Propranolol daily, Glycomet as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Patient: Jane Smith, Age: 61
+Prescribed: Enoxaparin daily, Heparin as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 9876543210 | Reg No: REG456
+Name: Jane Smith ID: PID002
+Age: 45 Gender: Female
+Contact: 9688616487
+Date: 10-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Ceftriaxone Before food 14 days
+Pantoprazole After food 14 days
+Signature:
+Dr. Sample, MBBS, MD
+Patient: Kannan, Age: 61
+Prescribed: Enoxaparin daily, Olmesartan as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 9876543210 | Reg No: REG456
+Name: John Doe ID: PID001
+Age: 30 Gender: Male
+Contact: 5551234
+Date: 10-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Insulin Glargine After food 14 days
+Ciprofloxacin Before food 14 days
+Signature:
+Dr. Sample, MBBS, MD
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 1234567890 | Reg No: REG123
+Name: Jane Smith ID: PID001
+Age: 61 Gender: Male
+Contact: 5551234
+Date: 10-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Metronidazole After food Ongoing
+Simvastatin After food 14 days
+Signature:
+Dr. Sample, MBBS, MD
+Patient: Kannan, Age: 45
+Prescribed: Salbutamol daily, Bisoprolol as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Patient: Jane Smith, Age: 45
+Prescribed: Levothyroxine daily, Gliclazide as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 9876543210 | Reg No: REG123
+Name: John Doe ID: PID001
+Age: 45 Gender: Female
+Contact: 5551234
+Date: 09-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Atenolol After food 7 days
+Rifampicin Once daily 14 days
+Signature:
+Dr. Sample, MBBS, MD
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 9876543210 | Reg No: REG456
+Name: Jane Smith ID: PID002
+Age: 30 Gender: Male
+Contact: 9688616487
+Date: 10-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Naproxen Once daily 7 days
+Dapagliflozin Twice daily 14 days
+Signature:
+Dr. Sample, MBBS, MD
+Azithromycin and Insulin once daily after food.
+Clinic: Happy Clinic
+Date: 09-02-2026
+Metoclopramide and Atorlip once daily after food.
+Clinic: Happy Clinic
+Date: 10-02-2026
+Nitrofurantoin and Diclofenac once daily after food.
+Clinic: Happy Clinic
+Date: 09-02-2026
+Patient: Kannan, Age: 45
+Prescribed: Atorva daily, Insulin as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Ibuprofen and Rifampicin once daily after food.
+Clinic: Happy Clinic
+Date: 09-02-2026
+Patient: John Doe, Age: 61
+Prescribed: Gentamicin daily, Diclofenac as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 1234567890 | Reg No: REG456
+Name: John Doe ID: PID002
+Age: 30 Gender: Male
+Contact: 5551234
+Date: 09-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Metronidazole After food Ongoing
+Montelukast Before food Ongoing
+Signature:
+Dr. Sample, MBBS, MD
+Patient: Kannan, Age: 45
+Prescribed: Insulin Human Actrapid daily, Chlorpheniramine as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 9876543210 | Reg No: REG456
+Name: Jane Smith ID: PID002
+Age: 61 Gender: Male
+Contact: 5551234
+Date: 09-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Morphine Once daily 14 days
+Brufen Once daily Ongoing
+Signature:
+Dr. Sample, MBBS, MD
+Aspirin and Esomeprazole once daily after food.
+Clinic: Happy Clinic
+Date: 10-02-2026
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 1234567890 | Reg No: REG456
+Name: Jane Smith ID: PID001
+Age: 30 Gender: Female
+Contact: 5551234
+Date: 10-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Dapagliflozin After food 7 days
+Amikacin Once daily 14 days
+Signature:
+Dr. Sample, MBBS, MD
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 1234567890 | Reg No: REG456
+Name: Kannan ID: PID001
+Age: 30 Gender: Male
+Contact: 9688616487
+Date: 09-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Meropenem After food Ongoing
+Sitagliptin Once daily 14 days
+Signature:
+Dr. Sample, MBBS, MD
+Patient: Kannan, Age: 30
+Prescribed: Atorva daily, Metronidazole as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 9876543210 | Reg No: REG123
+Name: Kannan ID: PID002
+Age: 61 Gender: Male
+Contact: 9688616487
+Date: 10-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Levocetirizine Before food 14 days
+Naproxen Once daily 14 days
+Signature:
+Dr. Sample, MBBS, MD
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 1234567890 | Reg No: REG123
+Name: John Doe ID: PID001
+Age: 61 Gender: Female
+Contact: 5551234
+Date: 10-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Chlorpheniramine Before food Ongoing
+Ranitidine After food 14 days
+Signature:
+Dr. Sample, MBBS, MD
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 1234567890 | Reg No: REG123
+Name: John Doe ID: PID001
+Age: 61 Gender: Female
+Contact: 9688616487
+Date: 09-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Levothyroxine Twice daily 14 days
+Clopidogrel Twice daily Ongoing
+Signature:
+Dr. Sample, MBBS, MD
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 1234567890 | Reg No: REG456
+Name: John Doe ID: PID002
+Age: 30 Gender: Male
+Contact: 5551234
+Date: 10-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Crocin Before food Ongoing
+Diphenhydramine Once daily 14 days
+Signature:
+Dr. Sample, MBBS, MD
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 9876543210 | Reg No: REG456
+Name: John Doe ID: PID002
+Age: 45 Gender: Female
+Contact: 5551234
+Date: 10-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Amlodipine Before food 7 days
+Cefixime After food Ongoing
+Signature:
+Dr. Sample, MBBS, MD
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 1234567890 | Reg No: REG123
+Name: John Doe ID: PID001
+Age: 61 Gender: Male
+Contact: 9688616487
+Date: 10-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Amlong Twice daily 7 days
+Amlodipine Twice daily Ongoing
+Signature:
+Dr. Sample, MBBS, MD
+Patient: John Doe, Age: 30
+Prescribed: Ampicillin daily, Ceftriaxone as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Patient: Jane Smith, Age: 45
+Prescribed: Fluconazole daily, Levocetirizine as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 1234567890 | Reg No: REG456
+Name: John Doe ID: PID002
+Age: 61 Gender: Male
+Contact: 5551234
+Date: 10-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Pyrazinamide After food 14 days
+Ciprofloxacin After food 7 days
+Signature:
+Dr. Sample, MBBS, MD
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 9876543210 | Reg No: REG123
+Name: Jane Smith ID: PID002
+Age: 30 Gender: Female
+Contact: 5551234
+Date: 10-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Clarithromycin Once daily 14 days
+Ceftriaxone Before food Ongoing
+Signature:
+Dr. Sample, MBBS, MD
+Patient: Kannan, Age: 61
+Prescribed: Simvastatin daily, Losartan as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Formoterol and Itraconazole once daily after food.
+Clinic: Happy Clinic
+Date: 09-02-2026
+Insulin Glargine and Nitrofurantoin once daily after food.
+Clinic: Happy Clinic
+Date: 10-02-2026
+Patient: Jane Smith, Age: 45
+Prescribed: Vildagliptin daily, Isoniazid as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 1234567890 | Reg No: REG123
+Name: Kannan ID: PID001
+Age: 61 Gender: Male
+Contact: 9688616487
+Date: 10-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Hydrochlorothiazide After food 14 days
+Isosorbide Mononitrate Once daily 14 days
+Signature:
+Dr. Sample, MBBS, MD
+Patient: Jane Smith, Age: 45
+Prescribed: Insulin Glargine daily, Telmisartan as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Brufen and Tramadol once daily after food.
+Clinic: Happy Clinic
+Date: 10-02-2026
+Isosorbide Mononitrate and Fexofenadine once daily after food.
+Clinic: Happy Clinic
+Date: 10-02-2026
+Patient: Jane Smith, Age: 45
+Prescribed: Clopidogrel daily, Simvastatin as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Patient: Jane Smith, Age: 30
+Prescribed: Acyclovir daily, Clopidogrel as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Telmisartan and Oseltamivir once daily after food.
+Clinic: Happy Clinic
+Date: 09-02-2026
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 9876543210 | Reg No: REG123
+Name: John Doe ID: PID001
+Age: 45 Gender: Female
+Contact: 5551234
+Date: 10-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Losar Before food 14 days
+Combiflam Once daily Ongoing
+Signature:
+Dr. Sample, MBBS, MD
+Tramadol and Azithromycin once daily after food.
+Clinic: Happy Clinic
+Date: 09-02-2026
+Patient: Jane Smith, Age: 61
+Prescribed: Sucralfate daily, Hydrochlorothiazide as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 9876543210 | Reg No: REG456
+Name: Jane Smith ID: PID002
+Age: 30 Gender: Male
+Contact: 5551234
+Date: 09-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Ethambutol Twice daily Ongoing
+Doxycycline Once daily Ongoing
+Signature:
+Dr. Sample, MBBS, MD
+Patient: Jane Smith, Age: 61
+Prescribed: Dolo 650 daily, Budesonide as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Patient: Kannan, Age: 45
+Prescribed: Linezolid daily, Atorva as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 9876543210 | Reg No: REG123
+Name: John Doe ID: PID002
+Age: 45 Gender: Female
+Contact: 9688616487
+Date: 09-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Nitroglycerin Once daily Ongoing
+Ethambutol After food 7 days
+Signature:
+Dr. Sample, MBBS, MD
+Amikacin and Heparin once daily after food.
+Clinic: Happy Clinic
+Date: 10-02-2026
+Chlorpheniramine and Ampicillin once daily after food.
+Clinic: Happy Clinic
+Date: 10-02-2026
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 9876543210 | Reg No: REG456
+Name: John Doe ID: PID002
+Age: 61 Gender: Female
+Contact: 9688616487
+Date: 10-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Atorlip Twice daily 7 days
+Dolo Twice daily Ongoing
+Signature:
+Dr. Sample, MBBS, MD
+Fluconazole and Chlorpheniramine once daily after food.
+Clinic: Happy Clinic
+Date: 09-02-2026
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 9876543210 | Reg No: REG123
+Name: John Doe ID: PID002
+Age: 61 Gender: Male
+Contact: 5551234
+Date: 09-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Gentamicin Before food Ongoing
+Doxycycline Before food 7 days
+Signature:
+Dr. Sample, MBBS, MD
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 9876543210 | Reg No: REG123
+Name: John Doe ID: PID002
+Age: 30 Gender: Female
+Contact: 5551234
+Date: 09-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Glimepiride Before food Ongoing
+Diphenhydramine Before food 7 days
+Signature:
+Dr. Sample, MBBS, MD
+Patient: Jane Smith, Age: 45
+Prescribed: Amikacin daily, Doxycycline as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 9876543210 | Reg No: REG123
+Name: Kannan ID: PID001
+Age: 61 Gender: Male
+Contact: 9688616487
+Date: 09-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Cefixime Twice daily Ongoing
+Spironolactone Once daily Ongoing
+Signature:
+Dr. Sample, MBBS, MD
+Patient: John Doe, Age: 45
+Prescribed: Metoprolol daily, Ketoconazole as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Patient: Jane Smith, Age: 30
+Prescribed: Ciprofloxacin daily, Heparin as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 9876543210 | Reg No: REG456
+Name: Jane Smith ID: PID002
+Age: 61 Gender: Male
+Contact: 5551234
+Date: 10-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Dolo Before food 7 days
+Salbutamol Before food Ongoing
+Signature:
+Dr. Sample, MBBS, MD
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 9876543210 | Reg No: REG456
+Name: Kannan ID: PID002
+Age: 61 Gender: Male
+Contact: 5551234
+Date: 09-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Montelukast Once daily Ongoing
+Dolo 650 Before food Ongoing
+Signature:
+Dr. Sample, MBBS, MD
+Patient: Jane Smith, Age: 30
+Prescribed: Naproxen daily, Vancomycin as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 1234567890 | Reg No: REG123
+Name: Kannan ID: PID001
+Age: 30 Gender: Male
+Contact: 5551234
+Date: 09-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Olmesartan Twice daily 7 days
+Diphenhydramine Once daily 14 days
+Signature:
+Dr. Sample, MBBS, MD
+Patient: Kannan, Age: 45
+Prescribed: Pioglitazone daily, Tinidazole as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 9876543210 | Reg No: REG456
+Name: Kannan ID: PID002
+Age: 45 Gender: Female
+Contact: 5551234
+Date: 09-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Isoniazid Twice daily Ongoing
+Digoxin Once daily 14 days
+Signature:
+Dr. Sample, MBBS, MD
+Patient: Jane Smith, Age: 45
+Prescribed: Paracetamol daily, Atorvastatin as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Ondansetron and Levothyroxine once daily after food.
+Clinic: Happy Clinic
+Date: 10-02-2026
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 9876543210 | Reg No: REG456
+Name: Kannan ID: PID001
+Age: 61 Gender: Female
+Contact: 5551234
+Date: 09-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Telmisartan Twice daily 14 days
+Acyclovir Before food Ongoing
+Signature:
+Dr. Sample, MBBS, MD
+Patient: John Doe, Age: 30
+Prescribed: Cefixime daily, Diclofenac as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Ondansetron and Spironolactone once daily after food.
+Clinic: Happy Clinic
+Date: 10-02-2026
+Patient: John Doe, Age: 45
+Prescribed: Furosemide daily, Diclofenac as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Budesonide and Ampicillin once daily after food.
+Clinic: Happy Clinic
+Date: 10-02-2026
+Levothyroxine and Nitrofurantoin once daily after food.
+Clinic: Happy Clinic
+Date: 09-02-2026
+Patient: John Doe, Age: 61
+Prescribed: Diphenhydramine daily, Acyclovir as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 1234567890 | Reg No: REG123
+Name: Jane Smith ID: PID002
+Age: 61 Gender: Male
+Contact: 9688616487
+Date: 09-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Fluconazole Twice daily 14 days
+Ibuprofen Twice daily 7 days
+Signature:
+Dr. Sample, MBBS, MD
+Amlong and Combiflam once daily after food.
+Clinic: Happy Clinic
+Date: 10-02-2026
+Patient: John Doe, Age: 45
+Prescribed: Naproxen daily, Clopidogrel as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Cefixime and Sitagliptin once daily after food.
+Clinic: Happy Clinic
+Date: 09-02-2026
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 9876543210 | Reg No: REG456
+Name: Kannan ID: PID002
+Age: 45 Gender: Male
+Contact: 5551234
+Date: 09-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Digoxin Twice daily Ongoing
+Hydrochlorothiazide After food Ongoing
+Signature:
+Dr. Sample, MBBS, MD
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 1234567890 | Reg No: REG123
+Name: Jane Smith ID: PID002
+Age: 45 Gender: Female
+Contact: 9688616487
+Date: 10-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Insulin Glargine Once daily 7 days
+Amlodipine Twice daily 7 days
+Signature:
+Dr. Sample, MBBS, MD
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 9876543210 | Reg No: REG456
+Name: Jane Smith ID: PID002
+Age: 30 Gender: Male
+Contact: 9688616487
+Date: 10-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Ceftriaxone Twice daily 7 days
+Crocin Twice daily 14 days
+Signature:
+Dr. Sample, MBBS, MD
+Patient: Kannan, Age: 61
+Prescribed: Montelukast daily, Acyclovir as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Patient: John Doe, Age: 30
+Prescribed: Cetirizine daily, Vildagliptin as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 9876543210 | Reg No: REG456
+Name: Kannan ID: PID001
+Age: 30 Gender: Female
+Contact: 5551234
+Date: 09-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Spironolactone After food 14 days
+Ranitidine Before food 14 days
+Signature:
+Dr. Sample, MBBS, MD
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 9876543210 | Reg No: REG456
+Name: John Doe ID: PID002
+Age: 45 Gender: Male
+Contact: 5551234
+Date: 10-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Atenolol Twice daily 14 days
+Itraconazole Once daily Ongoing
+Signature:
+Dr. Sample, MBBS, MD
+Patient: Kannan, Age: 30
+Prescribed: Meropenem daily, Metoprolol as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Crocin and Diphenhydramine once daily after food.
+Clinic: Happy Clinic
+Date: 09-02-2026
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 1234567890 | Reg No: REG123
+Name: Kannan ID: PID001
+Age: 30 Gender: Male
+Contact: 9688616487
+Date: 09-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Pioglitazone Once daily 7 days
+Morphine Once daily 7 days
+Signature:
+Dr. Sample, MBBS, MD
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 9876543210 | Reg No: REG456
+Name: Kannan ID: PID002
+Age: 45 Gender: Male
+Contact: 5551234
+Date: 10-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Furosemide Before food Ongoing
+Rabeprazole Once daily 7 days
+Signature:
+Dr. Sample, MBBS, MD
+Patient: Kannan, Age: 45
+Prescribed: Esomeprazole daily, Levocetirizine as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 9876543210 | Reg No: REG456
+Name: Kannan ID: PID001
+Age: 61 Gender: Female
+Contact: 9688616487
+Date: 09-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Oseltamivir After food Ongoing
+Morphine Once daily Ongoing
+Signature:
+Dr. Sample, MBBS, MD
+Brufen and Hydrochlorothiazide once daily after food.
+Clinic: Happy Clinic
+Date: 10-02-2026
+Paracetamol and Morphine once daily after food.
+Clinic: Happy Clinic
+Date: 10-02-2026
+Patient: Jane Smith, Age: 61
+Prescribed: Sitagliptin daily, Vancomycin as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 9876543210 | Reg No: REG123
+Name: John Doe ID: PID002
+Age: 30 Gender: Male
+Contact: 9688616487
+Date: 10-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Ketoconazole Twice daily Ongoing
+Sucralfate Once daily 7 days
+Signature:
+Dr. Sample, MBBS, MD
+Patient: Jane Smith, Age: 45
+Prescribed: Nitrofurantoin daily, Fluconazole as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Patient: Jane Smith, Age: 30
+Prescribed: Telmisartan daily, Linezolid as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Patient: John Doe, Age: 45
+Prescribed: Doxycycline daily, Diphenhydramine as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Patient: Jane Smith, Age: 45
+Prescribed: Gliclazide daily, Ibuprofen as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 1234567890 | Reg No: REG123
+Name: Kannan ID: PID001
+Age: 45 Gender: Male
+Contact: 9688616487
+Date: 09-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Doxycycline Before food 7 days
+Ciprofloxacin Before food 7 days
+Signature:
+Dr. Sample, MBBS, MD
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 1234567890 | Reg No: REG123
+Name: Kannan ID: PID002
+Age: 30 Gender: Male
+Contact: 5551234
+Date: 09-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Formoterol After food 14 days
+Pantoprazole Twice daily Ongoing
+Signature:
+Dr. Sample, MBBS, MD
+Propranolol and Metformin once daily after food.
+Clinic: Happy Clinic
+Date: 09-02-2026
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 9876543210 | Reg No: REG123
+Name: Kannan ID: PID002
+Age: 61 Gender: Female
+Contact: 9688616487
+Date: 10-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Glycomet Twice daily Ongoing
+Diphenhydramine Before food 14 days
+Signature:
+Dr. Sample, MBBS, MD
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 1234567890 | Reg No: REG123
+Name: Jane Smith ID: PID002
+Age: 30 Gender: Female
+Contact: 9688616487
+Date: 10-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Amikacin Once daily 7 days
+Spironolactone Once daily 7 days
+Signature:
+Dr. Sample, MBBS, MD
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 1234567890 | Reg No: REG456
+Name: Jane Smith ID: PID001
+Age: 45 Gender: Male
+Contact: 5551234
+Date: 10-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Telmisartan Once daily 14 days
+Doxycycline After food 7 days
+Signature:
+Dr. Sample, MBBS, MD
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 1234567890 | Reg No: REG123
+Name: Kannan ID: PID001
+Age: 61 Gender: Female
+Contact: 5551234
+Date: 10-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Spironolactone After food 7 days
+Doxycycline Twice daily 14 days
+Signature:
+Dr. Sample, MBBS, MD
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 9876543210 | Reg No: REG123
+Name: Jane Smith ID: PID001
+Age: 30 Gender: Female
+Contact: 5551234
+Date: 09-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Ethambutol Twice daily Ongoing
+Ibuprofen Once daily 7 days
+Signature:
+Dr. Sample, MBBS, MD
+Gentamicin and Sucralfate once daily after food.
+Clinic: Happy Clinic
+Date: 09-02-2026
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 1234567890 | Reg No: REG123
+Name: John Doe ID: PID002
+Age: 45 Gender: Female
+Contact: 9688616487
+Date: 09-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Atorva Twice daily 14 days
+Doxycycline After food 7 days
+Signature:
+Dr. Sample, MBBS, MD
+Patient: Jane Smith, Age: 45
+Prescribed: Atorvastatin daily, Gentamicin as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 9876543210 | Reg No: REG456
+Name: Kannan ID: PID001
+Age: 45 Gender: Male
+Contact: 9688616487
+Date: 10-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Sucralfate After food Ongoing
+Vancomycin After food Ongoing
+Signature:
+Dr. Sample, MBBS, MD
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 9876543210 | Reg No: REG123
+Name: John Doe ID: PID001
+Age: 61 Gender: Female
+Contact: 5551234
+Date: 10-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Bisoprolol Once daily Ongoing
+Pantocid Before food 14 days
+Signature:
+Dr. Sample, MBBS, MD
+Patient: Jane Smith, Age: 30
+Prescribed: Telmisartan daily, Ethambutol as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Isosorbide Mononitrate and Morphine once daily after food.
+Clinic: Happy Clinic
+Date: 09-02-2026
+Patient: Kannan, Age: 45
+Prescribed: Spironolactone daily, Nitroglycerin as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Piperacillin-Tazobactam and Atorva once daily after food.
+Clinic: Happy Clinic
+Date: 09-02-2026
+Patient: Jane Smith, Age: 45
+Prescribed: Spironolactone daily, Amoxicillin as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Cetirizine and Dolo 650 once daily after food.
+Clinic: Happy Clinic
+Date: 10-02-2026
+Paracetamol and Clarithromycin once daily after food.
+Clinic: Happy Clinic
+Date: 09-02-2026
+Patient: Jane Smith, Age: 61
+Prescribed: Glimepiride daily, Olmesartan as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 1234567890 | Reg No: REG456
+Name: Jane Smith ID: PID001
+Age: 45 Gender: Male
+Contact: 9688616487
+Date: 09-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Clopidogrel Before food 7 days
+Spironolactone Once daily 14 days
+Signature:
+Dr. Sample, MBBS, MD
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 1234567890 | Reg No: REG456
+Name: John Doe ID: PID002
+Age: 45 Gender: Female
+Contact: 5551234
+Date: 09-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Diclofenac Once daily 7 days
+Atorlip Once daily 14 days
+Signature:
+Dr. Sample, MBBS, MD
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 9876543210 | Reg No: REG456
+Name: Kannan ID: PID001
+Age: 45 Gender: Female
+Contact: 9688616487
+Date: 10-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Ibuprofen Before food 7 days
+Isosorbide Mononitrate Twice daily 14 days
+Signature:
+Dr. Sample, MBBS, MD
+Atenolol and Amlong once daily after food.
+Clinic: Happy Clinic
+Date: 10-02-2026
+Salbutamol and Metoprolol once daily after food.
+Clinic: Happy Clinic
+Date: 10-02-2026
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 9876543210 | Reg No: REG123
+Name: John Doe ID: PID002
+Age: 61 Gender: Male
+Contact: 5551234
+Date: 09-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Ampicillin After food Ongoing
+Piperacillin-Tazobactam After food 14 days
+Signature:
+Dr. Sample, MBBS, MD
+Oseltamivir and Insulin once daily after food.
+Clinic: Happy Clinic
+Date: 10-02-2026
+Insulin Glargine and Meropenem once daily after food.
+Clinic: Happy Clinic
+Date: 09-02-2026
+Pantoprazole and Levocetirizine once daily after food.
+Clinic: Happy Clinic
+Date: 10-02-2026
+Domperidone and Chlorpheniramine once daily after food.
+Clinic: Happy Clinic
+Date: 09-02-2026
+Patient: John Doe, Age: 45
+Prescribed: Aspirin daily, Glycomet as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Patient: Kannan, Age: 45
+Prescribed: Cetirizine daily, Piperacillin-Tazobactam as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Patient: Jane Smith, Age: 45
+Prescribed: Atorva daily, Atorlip as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Patient: John Doe, Age: 45
+Prescribed: Atorvastatin daily, Rosuvastatin as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Patient: John Doe, Age: 30
+Prescribed: Furosemide daily, Simvastatin as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Meropenem and Atorvastatin once daily after food.
+Clinic: Happy Clinic
+Date: 09-02-2026
+Patient: Kannan, Age: 30
+Prescribed: Pantoprazole daily, Losartan as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Bisoprolol and Dolo once daily after food.
+Clinic: Happy Clinic
+Date: 10-02-2026
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 9876543210 | Reg No: REG456
+Name: Kannan ID: PID001
+Age: 61 Gender: Female
+Contact: 5551234
+Date: 10-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Metoprolol After food 7 days
+Ceftriaxone After food Ongoing
+Signature:
+Dr. Sample, MBBS, MD
+Atorva and Valacyclovir once daily after food.
+Clinic: Happy Clinic
+Date: 09-02-2026
+Patient: Jane Smith, Age: 30
+Prescribed: Metoclopramide daily, Vancomycin as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 9876543210 | Reg No: REG123
+Name: Kannan ID: PID002
+Age: 45 Gender: Male
+Contact: 5551234
+Date: 09-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Domperidone Before food 7 days
+Combiflam After food Ongoing
+Signature:
+Dr. Sample, MBBS, MD
+Patient: John Doe, Age: 45
+Prescribed: Aspirin daily, Vildagliptin as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 9876543210 | Reg No: REG456
+Name: Jane Smith ID: PID002
+Age: 30 Gender: Female
+Contact: 9688616487
+Date: 10-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Propranolol After food Ongoing
+Itraconazole Twice daily 14 days
+Signature:
+Dr. Sample, MBBS, MD
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 1234567890 | Reg No: REG123
+Name: Jane Smith ID: PID001
+Age: 45 Gender: Female
+Contact: 5551234
+Date: 09-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Ketoconazole After food Ongoing
+Ondansetron Before food 7 days
+Signature:
+Dr. Sample, MBBS, MD
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 9876543210 | Reg No: REG456
+Name: John Doe ID: PID001
+Age: 45 Gender: Male
+Contact: 5551234
+Date: 09-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Ibuprofen Once daily 7 days
+Budesonide Before food Ongoing
+Signature:
+Dr. Sample, MBBS, MD
+Patient: John Doe, Age: 45
+Prescribed: Bisoprolol daily, Fluconazole as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Patient: Kannan, Age: 30
+Prescribed: Simvastatin daily, Acyclovir as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Warfarin and Pantoprazole once daily after food.
+Clinic: Happy Clinic
+Date: 10-02-2026
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 1234567890 | Reg No: REG456
+Name: John Doe ID: PID001
+Age: 45 Gender: Female
+Contact: 5551234
+Date: 09-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Linezolid After food Ongoing
+Pyrazinamide Once daily 7 days
+Signature:
+Dr. Sample, MBBS, MD
+Spironolactone and Atorvastatin once daily after food.
+Clinic: Happy Clinic
+Date: 10-02-2026
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 9876543210 | Reg No: REG456
+Name: Kannan ID: PID001
+Age: 61 Gender: Female
+Contact: 5551234
+Date: 10-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Metformin Before food Ongoing
+Ciprofloxacin After food 7 days
+Signature:
+Dr. Sample, MBBS, MD
+Linezolid and Spironolactone once daily after food.
+Clinic: Happy Clinic
+Date: 09-02-2026
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 1234567890 | Reg No: REG456
+Name: Jane Smith ID: PID002
+Age: 30 Gender: Male
+Contact: 9688616487
+Date: 10-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Clarithromycin After food Ongoing
+Heparin Once daily Ongoing
+Signature:
+Dr. Sample, MBBS, MD
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 1234567890 | Reg No: REG456
+Name: Kannan ID: PID002
+Age: 30 Gender: Male
+Contact: 5551234
+Date: 09-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Propranolol Before food Ongoing
+Rabeprazole Before food 14 days
+Signature:
+Dr. Sample, MBBS, MD
+Paracetamol and Vildagliptin once daily after food.
+Clinic: Happy Clinic
+Date: 09-02-2026
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 9876543210 | Reg No: REG123
+Name: Jane Smith ID: PID002
+Age: 30 Gender: Male
+Contact: 5551234
+Date: 09-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Ranitidine Before food 7 days
+Gliclazide Twice daily Ongoing
+Signature:
+Dr. Sample, MBBS, MD
+Patient: John Doe, Age: 45
+Prescribed: Gliclazide daily, Atorva as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Patient: Jane Smith, Age: 61
+Prescribed: Azithromycin daily, Atorlip as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Patient: Kannan, Age: 30
+Prescribed: Ceftriaxone daily, Levocetirizine as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Patient: Kannan, Age: 45
+Prescribed: Vildagliptin daily, Diclofenac as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Patient: John Doe, Age: 61
+Prescribed: Piperacillin-Tazobactam daily, Valacyclovir as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Patient: Jane Smith, Age: 45
+Prescribed: Tinidazole daily, Dolo as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Patient: Kannan, Age: 45
+Prescribed: Digoxin daily, Losar as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Patient: John Doe, Age: 30
+Prescribed: Clarithromycin daily, Cefixime as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Patient: John Doe, Age: 45
+Prescribed: Doxycycline daily, Esomeprazole as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 9876543210 | Reg No: REG456
+Name: Jane Smith ID: PID001
+Age: 30 Gender: Male
+Contact: 5551234
+Date: 10-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Amlodipine Twice daily 7 days
+Itraconazole Twice daily Ongoing
+Signature:
+Dr. Sample, MBBS, MD
+Tramadol and Atenolol once daily after food.
+Clinic: Happy Clinic
+Date: 10-02-2026
+Ceftriaxone and Amoxicillin once daily after food.
+Clinic: Happy Clinic
+Date: 10-02-2026
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 9876543210 | Reg No: REG456
+Name: John Doe ID: PID002
+Age: 45 Gender: Female
+Contact: 5551234
+Date: 10-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Domperidone After food Ongoing
+Amlong Before food 7 days
+Signature:
+Dr. Sample, MBBS, MD
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 1234567890 | Reg No: REG456
+Name: Kannan ID: PID002
+Age: 30 Gender: Male
+Contact: 5551234
+Date: 10-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Ibuprofen Before food Ongoing
+Amlong Before food 14 days
+Signature:
+Dr. Sample, MBBS, MD
+Cetirizine and Gentamicin once daily after food.
+Clinic: Happy Clinic
+Date: 10-02-2026
+Ciprofloxacin and Furosemide once daily after food.
+Clinic: Happy Clinic
+Date: 09-02-2026
+Patient: John Doe, Age: 30
+Prescribed: Warfarin daily, Insulin Glargine as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 9876543210 | Reg No: REG456
+Name: Jane Smith ID: PID001
+Age: 45 Gender: Male
+Contact: 9688616487
+Date: 09-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Combiflam After food 7 days
+Morphine Before food Ongoing
+Signature:
+Dr. Sample, MBBS, MD
+Patient: Kannan, Age: 61
+Prescribed: Insulin Glargine daily, Ethambutol as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Patient: John Doe, Age: 30
+Prescribed: Doxycycline daily, Warfarin as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 1234567890 | Reg No: REG123
+Name: Kannan ID: PID001
+Age: 61 Gender: Male
+Contact: 5551234
+Date: 09-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Fexofenadine Once daily 7 days
+Atorva Before food 7 days
+Signature:
+Dr. Sample, MBBS, MD
+Patient: Jane Smith, Age: 45
+Prescribed: Insulin daily, Gentamicin as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 1234567890 | Reg No: REG456
+Name: Jane Smith ID: PID002
+Age: 30 Gender: Male
+Contact: 9688616487
+Date: 09-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Amikacin Once daily Ongoing
+Salbutamol Once daily Ongoing
+Signature:
+Dr. Sample, MBBS, MD
+Patient: Kannan, Age: 30
+Prescribed: Valacyclovir daily, Oseltamivir as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Patient: John Doe, Age: 61
+Prescribed: Valacyclovir daily, Rosuvastatin as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 1234567890 | Reg No: REG123
+Name: Kannan ID: PID001
+Age: 45 Gender: Male
+Contact: 9688616487
+Date: 09-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Isoniazid Before food 14 days
+Hydrochlorothiazide After food 7 days
+Signature:
+Dr. Sample, MBBS, MD
+Patient: John Doe, Age: 61
+Prescribed: Clopidogrel daily, Ibuprofen as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Ondansetron and Itraconazole once daily after food.
+Clinic: Happy Clinic
+Date: 09-02-2026
+Patient: Kannan, Age: 30
+Prescribed: Glimepiride daily, Vildagliptin as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 1234567890 | Reg No: REG456
+Name: Kannan ID: PID002
+Age: 45 Gender: Female
+Contact: 5551234
+Date: 09-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Tramadol Twice daily 14 days
+Glycomet After food Ongoing
+Signature:
+Dr. Sample, MBBS, MD
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 1234567890 | Reg No: REG456
+Name: Jane Smith ID: PID001
+Age: 61 Gender: Male
+Contact: 9688616487
+Date: 09-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Montelukast Once daily Ongoing
+Atorlip Once daily 7 days
+Signature:
+Dr. Sample, MBBS, MD
+Pioglitazone and Heparin once daily after food.
+Clinic: Happy Clinic
+Date: 10-02-2026
+Patient: Jane Smith, Age: 61
+Prescribed: Metformin daily, Fexofenadine as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 1234567890 | Reg No: REG123
+Name: Kannan ID: PID002
+Age: 30 Gender: Female
+Contact: 9688616487
+Date: 10-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Meropenem Once daily 7 days
+Pioglitazone Twice daily 7 days
+Signature:
+Dr. Sample, MBBS, MD
+Patient: John Doe, Age: 61
+Prescribed: Atorlip daily, Formoterol as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 1234567890 | Reg No: REG123
+Name: John Doe ID: PID001
+Age: 30 Gender: Male
+Contact: 5551234
+Date: 09-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Azithromycin Before food Ongoing
+Oseltamivir Once daily 7 days
+Signature:
+Dr. Sample, MBBS, MD
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 9876543210 | Reg No: REG456
+Name: Jane Smith ID: PID001
+Age: 45 Gender: Female
+Contact: 5551234
+Date: 10-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Chlorpheniramine Twice daily Ongoing
+Pyrazinamide After food 7 days
+Signature:
+Dr. Sample, MBBS, MD
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 1234567890 | Reg No: REG123
+Name: John Doe ID: PID001
+Age: 61 Gender: Female
+Contact: 5551234
+Date: 09-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Formoterol After food 14 days
+Chlorpheniramine After food Ongoing
+Signature:
+Dr. Sample, MBBS, MD
+Esomeprazole and Sucralfate once daily after food.
+Clinic: Happy Clinic
+Date: 09-02-2026
+Patient: Kannan, Age: 30
+Prescribed: Chlorpheniramine daily, Ondansetron as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 1234567890 | Reg No: REG456
+Name: Jane Smith ID: PID001
+Age: 61 Gender: Female
+Contact: 9688616487
+Date: 09-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Atenolol Twice daily 7 days
+Metronidazole Before food 7 days
+Signature:
+Dr. Sample, MBBS, MD
+Patient: Jane Smith, Age: 45
+Prescribed: Domperidone daily, Isoniazid as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 1234567890 | Reg No: REG123
+Name: Kannan ID: PID001
+Age: 61 Gender: Male
+Contact: 9688616487
+Date: 10-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Oseltamivir Before food 7 days
+Glimepiride Twice daily Ongoing
+Signature:
+Dr. Sample, MBBS, MD
+Gentamicin and Fexofenadine once daily after food.
+Clinic: Happy Clinic
+Date: 09-02-2026
+Morphine and Dolo 650 once daily after food.
+Clinic: Happy Clinic
+Date: 09-02-2026
+Patient: Jane Smith, Age: 45
+Prescribed: Ibuprofen daily, Amoxicillin as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Patient: John Doe, Age: 61
+Prescribed: Digoxin daily, Chlorpheniramine as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 9876543210 | Reg No: REG456
+Name: Kannan ID: PID002
+Age: 61 Gender: Female
+Contact: 5551234
+Date: 09-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Brufen After food Ongoing
+Isoniazid Twice daily 14 days
+Signature:
+Dr. Sample, MBBS, MD
+Budesonide and Diclofenac once daily after food.
+Clinic: Happy Clinic
+Date: 10-02-2026
+Ethambutol and Meropenem once daily after food.
+Clinic: Happy Clinic
+Date: 09-02-2026
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 9876543210 | Reg No: REG123
+Name: Jane Smith ID: PID002
+Age: 45 Gender: Female
+Contact: 9688616487
+Date: 10-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Pantocid Twice daily 7 days
+Gliclazide Once daily 7 days
+Signature:
+Dr. Sample, MBBS, MD
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 9876543210 | Reg No: REG456
+Name: Kannan ID: PID001
+Age: 61 Gender: Female
+Contact: 5551234
+Date: 10-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Olmesartan After food Ongoing
+Ciprofloxacin Twice daily 14 days
+Signature:
+Dr. Sample, MBBS, MD
+Patient: Kannan, Age: 61
+Prescribed: Glimepiride daily, Insulin Human Actrapid as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 1234567890 | Reg No: REG456
+Name: Kannan ID: PID001
+Age: 30 Gender: Female
+Contact: 9688616487
+Date: 10-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Formoterol Twice daily 14 days
+Hydrochlorothiazide After food 7 days
+Signature:
+Dr. Sample, MBBS, MD
+Patient: Jane Smith, Age: 61
+Prescribed: Combiflam daily, Ethambutol as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Oseltamivir and Pantocid once daily after food.
+Clinic: Happy Clinic
+Date: 10-02-2026
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 1234567890 | Reg No: REG123
+Name: John Doe ID: PID001
+Age: 61 Gender: Male
+Contact: 5551234
+Date: 10-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Ranitidine After food 14 days
+Pantoprazole Twice daily Ongoing
+Signature:
+Dr. Sample, MBBS, MD
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 1234567890 | Reg No: REG123
+Name: Jane Smith ID: PID001
+Age: 61 Gender: Male
+Contact: 9688616487
+Date: 10-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Glycomet Before food 14 days
+Tramadol Once daily 14 days
+Signature:
+Dr. Sample, MBBS, MD
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 9876543210 | Reg No: REG456
+Name: Kannan ID: PID002
+Age: 61 Gender: Female
+Contact: 9688616487
+Date: 10-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Amlong After food Ongoing
+Metoprolol Before food 7 days
+Signature:
+Dr. Sample, MBBS, MD
+Amlodipine and Telmisartan once daily after food.
+Clinic: Happy Clinic
+Date: 10-02-2026
+Patient: John Doe, Age: 45
+Prescribed: Telmisartan daily, Cloxacillin as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Ciprofloxacin and Domperidone once daily after food.
+Clinic: Happy Clinic
+Date: 10-02-2026
+Losar and Nitroglycerin once daily after food.
+Clinic: Happy Clinic
+Date: 10-02-2026
+Chlorpheniramine and Clopidogrel once daily after food.
+Clinic: Happy Clinic
+Date: 09-02-2026
+Ondansetron and Nitroglycerin once daily after food.
+Clinic: Happy Clinic
+Date: 10-02-2026
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 1234567890 | Reg No: REG123
+Name: Jane Smith ID: PID001
+Age: 45 Gender: Female
+Contact: 5551234
+Date: 09-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Tramadol After food Ongoing
+Clarithromycin Once daily 14 days
+Signature:
+Dr. Sample, MBBS, MD
+Clopidogrel and Crocin once daily after food.
+Clinic: Happy Clinic
+Date: 10-02-2026
+Enoxaparin and Gentamicin once daily after food.
+Clinic: Happy Clinic
+Date: 10-02-2026
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 1234567890 | Reg No: REG123
+Name: John Doe ID: PID001
+Age: 30 Gender: Female
+Contact: 9688616487
+Date: 09-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Ibuprofen After food 14 days
+Crocin Before food 14 days
+Signature:
+Dr. Sample, MBBS, MD
+Cefixime and Acyclovir once daily after food.
+Clinic: Happy Clinic
+Date: 10-02-2026
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 9876543210 | Reg No: REG456
+Name: John Doe ID: PID001
+Age: 30 Gender: Male
+Contact: 5551234
+Date: 10-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Sucralfate Twice daily 7 days
+Ketoconazole After food 14 days
+Signature:
+Dr. Sample, MBBS, MD
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 9876543210 | Reg No: REG123
+Name: Kannan ID: PID001
+Age: 61 Gender: Female
+Contact: 5551234
+Date: 10-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Domperidone Once daily 14 days
+Glimepiride Before food Ongoing
+Signature:
+Dr. Sample, MBBS, MD
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 1234567890 | Reg No: REG123
+Name: Kannan ID: PID002
+Age: 45 Gender: Female
+Contact: 5551234
+Date: 10-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Amoxicillin Once daily 14 days
+Metoclopramide Before food 7 days
+Signature:
+Dr. Sample, MBBS, MD
+Metoclopramide and Pyrazinamide once daily after food.
+Clinic: Happy Clinic
+Date: 10-02-2026
+Ondansetron and Aspirin once daily after food.
+Clinic: Happy Clinic
+Date: 10-02-2026
+Amlodipine and Oseltamivir once daily after food.
+Clinic: Happy Clinic
+Date: 10-02-2026
+Insulin Glargine and Rifampicin once daily after food.
+Clinic: Happy Clinic
+Date: 10-02-2026
+Rifampicin and Cetirizine once daily after food.
+Clinic: Happy Clinic
+Date: 10-02-2026
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 9876543210 | Reg No: REG123
+Name: Kannan ID: PID001
+Age: 30 Gender: Female
+Contact: 9688616487
+Date: 09-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Simvastatin Once daily Ongoing
+Telmisartan Twice daily Ongoing
+Signature:
+Dr. Sample, MBBS, MD
+Patient: Jane Smith, Age: 45
+Prescribed: Insulin Human Actrapid daily, Atenolol as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Pioglitazone and Levocetirizine once daily after food.
+Clinic: Happy Clinic
+Date: 09-02-2026
+Metformin and Losar once daily after food.
+Clinic: Happy Clinic
+Date: 10-02-2026
+Ciprofloxacin and Metoclopramide once daily after food.
+Clinic: Happy Clinic
+Date: 10-02-2026
+Patient: Jane Smith, Age: 61
+Prescribed: Enoxaparin daily, Atorva as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Patient: Jane Smith, Age: 61
+Prescribed: Acyclovir daily, Naproxen as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Patient: Jane Smith, Age: 30
+Prescribed: Meropenem daily, Esomeprazole as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Patient: Jane Smith, Age: 61
+Prescribed: Piperacillin-Tazobactam daily, Azithromycin as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 1234567890 | Reg No: REG456
+Name: Jane Smith ID: PID002
+Age: 45 Gender: Male
+Contact: 5551234
+Date: 10-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Vildagliptin After food 7 days
+Fluconazole After food 7 days
+Signature:
+Dr. Sample, MBBS, MD
+Sucralfate and Atorvastatin once daily after food.
+Clinic: Happy Clinic
+Date: 09-02-2026
+Propranolol and Fluconazole once daily after food.
+Clinic: Happy Clinic
+Date: 09-02-2026
+Patient: Jane Smith, Age: 61
+Prescribed: Insulin daily, Metoclopramide as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Patient: Kannan, Age: 30
+Prescribed: Aspirin daily, Gliclazide as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Patient: Jane Smith, Age: 61
+Prescribed: Spironolactone daily, Montelukast as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Patient: Jane Smith, Age: 45
+Prescribed: Montelukast daily, Ketoconazole as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Enoxaparin and Pantoprazole once daily after food.
+Clinic: Happy Clinic
+Date: 09-02-2026
+Insulin Human Actrapid and Aspirin once daily after food.
+Clinic: Happy Clinic
+Date: 10-02-2026
+Patient: John Doe, Age: 30
+Prescribed: Insulin Human Actrapid daily, Amikacin as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Losartan and Clarithromycin once daily after food.
+Clinic: Happy Clinic
+Date: 10-02-2026
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 1234567890 | Reg No: REG123
+Name: Kannan ID: PID002
+Age: 61 Gender: Female
+Contact: 5551234
+Date: 10-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Itraconazole After food Ongoing
+Cefixime Once daily 14 days
+Signature:
+Dr. Sample, MBBS, MD
+Fexofenadine and Combiflam once daily after food.
+Clinic: Happy Clinic
+Date: 09-02-2026
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 1234567890 | Reg No: REG456
+Name: Kannan ID: PID002
+Age: 30 Gender: Female
+Contact: 5551234
+Date: 09-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Montelukast Before food 7 days
+Dolo 650 Once daily Ongoing
+Signature:
+Dr. Sample, MBBS, MD
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 9876543210 | Reg No: REG456
+Name: Kannan ID: PID001
+Age: 45 Gender: Female
+Contact: 9688616487
+Date: 09-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Heparin Once daily 7 days
+Cefixime After food 14 days
+Signature:
+Dr. Sample, MBBS, MD
+Olmesartan and Dolo once daily after food.
+Clinic: Happy Clinic
+Date: 09-02-2026
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 9876543210 | Reg No: REG456
+Name: Jane Smith ID: PID001
+Age: 30 Gender: Female
+Contact: 9688616487
+Date: 10-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Simvastatin Twice daily Ongoing
+Oseltamivir Before food 7 days
+Signature:
+Dr. Sample, MBBS, MD
+Atenolol and Fluconazole once daily after food.
+Clinic: Happy Clinic
+Date: 10-02-2026
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 1234567890 | Reg No: REG456
+Name: John Doe ID: PID001
+Age: 61 Gender: Female
+Contact: 5551234
+Date: 09-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Crocin Twice daily 14 days
+Vildagliptin Before food Ongoing
+Signature:
+Dr. Sample, MBBS, MD
+Propranolol and Fluconazole once daily after food.
+Clinic: Happy Clinic
+Date: 09-02-2026
+Doxycycline and Diclofenac once daily after food.
+Clinic: Happy Clinic
+Date: 10-02-2026
+Patient: Kannan, Age: 45
+Prescribed: Combiflam daily, Morphine as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Patient: John Doe, Age: 30
+Prescribed: Enoxaparin daily, Telmisartan as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Chlorpheniramine and Isosorbide Mononitrate once daily after food.
+Clinic: Happy Clinic
+Date: 09-02-2026
+Patient: Jane Smith, Age: 30
+Prescribed: Dapagliflozin daily, Cetirizine as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Aspirin and Formoterol once daily after food.
+Clinic: Happy Clinic
+Date: 09-02-2026
+Brufen and Metronidazole once daily after food.
+Clinic: Happy Clinic
+Date: 09-02-2026
+Itraconazole and Paracetamol once daily after food.
+Clinic: Happy Clinic
+Date: 10-02-2026
+Patient: John Doe, Age: 30
+Prescribed: Bisoprolol daily, Doxycycline as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Vildagliptin and Gentamicin once daily after food.
+Clinic: Happy Clinic
+Date: 09-02-2026
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 9876543210 | Reg No: REG123
+Name: Jane Smith ID: PID001
+Age: 61 Gender: Female
+Contact: 5551234
+Date: 10-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Olmesartan Twice daily 7 days
+Piperacillin-Tazobactam Before food Ongoing
+Signature:
+Dr. Sample, MBBS, MD
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 9876543210 | Reg No: REG456
+Name: Jane Smith ID: PID002
+Age: 45 Gender: Male
+Contact: 5551234
+Date: 09-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Atorvastatin After food 14 days
+Rabeprazole After food 7 days
+Signature:
+Dr. Sample, MBBS, MD
+Warfarin and Tramadol once daily after food.
+Clinic: Happy Clinic
+Date: 09-02-2026
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 1234567890 | Reg No: REG123
+Name: Kannan ID: PID001
+Age: 30 Gender: Female
+Contact: 9688616487
+Date: 09-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Piperacillin-Tazobactam Once daily 14 days
+Meropenem Before food 7 days
+Signature:
+Dr. Sample, MBBS, MD
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 9876543210 | Reg No: REG123
+Name: Jane Smith ID: PID001
+Age: 30 Gender: Male
+Contact: 9688616487
+Date: 09-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Cloxacillin Twice daily 7 days
+Salbutamol Once daily 7 days
+Signature:
+Dr. Sample, MBBS, MD
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 1234567890 | Reg No: REG456
+Name: John Doe ID: PID002
+Age: 30 Gender: Male
+Contact: 9688616487
+Date: 09-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Tramadol After food 7 days
+Amoxicillin Twice daily 14 days
+Signature:
+Dr. Sample, MBBS, MD
+Patient: Jane Smith, Age: 30
+Prescribed: Diclofenac daily, Linezolid as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Vancomycin and Esomeprazole once daily after food.
+Clinic: Happy Clinic
+Date: 10-02-2026
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 9876543210 | Reg No: REG123
+Name: Jane Smith ID: PID001
+Age: 45 Gender: Female
+Contact: 9688616487
+Date: 10-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Amlong Before food 7 days
+Amoxicillin Before food Ongoing
+Signature:
+Dr. Sample, MBBS, MD
+Patient: John Doe, Age: 45
+Prescribed: Ampicillin daily, Isosorbide Mononitrate as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Losar and Formoterol once daily after food.
+Clinic: Happy Clinic
+Date: 10-02-2026
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 1234567890 | Reg No: REG456
+Name: Kannan ID: PID002
+Age: 30 Gender: Female
+Contact: 9688616487
+Date: 10-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Morphine Twice daily 14 days
+Vildagliptin Once daily Ongoing
+Signature:
+Dr. Sample, MBBS, MD
+Patient: Jane Smith, Age: 30
+Prescribed: Atenolol daily, Meropenem as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 9876543210 | Reg No: REG123
+Name: Kannan ID: PID001
+Age: 45 Gender: Female
+Contact: 5551234
+Date: 10-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Simvastatin After food 14 days
+Cefixime Once daily 7 days
+Signature:
+Dr. Sample, MBBS, MD
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 9876543210 | Reg No: REG123
+Name: Jane Smith ID: PID002
+Age: 45 Gender: Female
+Contact: 5551234
+Date: 09-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Levocetirizine Before food 7 days
+Naproxen Twice daily 14 days
+Signature:
+Dr. Sample, MBBS, MD
+Isoniazid and Piperacillin-Tazobactam once daily after food.
+Clinic: Happy Clinic
+Date: 09-02-2026
+Patient: Kannan, Age: 61
+Prescribed: Diclofenac daily, Dolo as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Patient: John Doe, Age: 61
+Prescribed: Combiflam daily, Aspirin as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Pantoprazole and Itraconazole once daily after food.
+Clinic: Happy Clinic
+Date: 10-02-2026
+Patient: John Doe, Age: 61
+Prescribed: Pantocid daily, Azithromycin as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Ceftriaxone and Oseltamivir once daily after food.
+Clinic: Happy Clinic
+Date: 09-02-2026
+Ketoconazole and Pantoprazole once daily after food.
+Clinic: Happy Clinic
+Date: 09-02-2026
+Patient: John Doe, Age: 30
+Prescribed: Gentamicin daily, Furosemide as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 1234567890 | Reg No: REG456
+Name: Kannan ID: PID002
+Age: 61 Gender: Female
+Contact: 5551234
+Date: 09-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Ethambutol Once daily 7 days
+Rosuvastatin Once daily 7 days
+Signature:
+Dr. Sample, MBBS, MD
+Patient: Jane Smith, Age: 45
+Prescribed: Aspirin daily, Metoprolol as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Isosorbide Mononitrate and Esomeprazole once daily after food.
+Clinic: Happy Clinic
+Date: 09-02-2026
+Patient: Kannan, Age: 61
+Prescribed: Sucralfate daily, Digoxin as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Patient: Kannan, Age: 61
+Prescribed: Isoniazid daily, Metoprolol as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Amoxicillin and Nitroglycerin once daily after food.
+Clinic: Happy Clinic
+Date: 10-02-2026
+Combiflam and Pantoprazole once daily after food.
+Clinic: Happy Clinic
+Date: 09-02-2026
+Patient: Jane Smith, Age: 30
+Prescribed: Heparin daily, Cefixime as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Dolo 650 and Tinidazole once daily after food.
+Clinic: Happy Clinic
+Date: 09-02-2026
+Patient: Kannan, Age: 45
+Prescribed: Simvastatin daily, Amikacin as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 9876543210 | Reg No: REG123
+Name: John Doe ID: PID002
+Age: 61 Gender: Female
+Contact: 9688616487
+Date: 10-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Doxycycline Once daily Ongoing
+Azithromycin After food 7 days
+Signature:
+Dr. Sample, MBBS, MD
+Patient: Kannan, Age: 30
+Prescribed: Hydrochlorothiazide daily, Sucralfate as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 9876543210 | Reg No: REG456
+Name: Kannan ID: PID002
+Age: 45 Gender: Male
+Contact: 9688616487
+Date: 09-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Metformin Before food 14 days
+Hydrochlorothiazide Once daily 14 days
+Signature:
+Dr. Sample, MBBS, MD
+Patient: Jane Smith, Age: 30
+Prescribed: Chlorpheniramine daily, Atorva as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Patient: Kannan, Age: 61
+Prescribed: Losar daily, Metoprolol as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Diphenhydramine and Metformin once daily after food.
+Clinic: Happy Clinic
+Date: 09-02-2026
+Patient: John Doe, Age: 45
+Prescribed: Atenolol daily, Cloxacillin as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Rabeprazole and Diclofenac once daily after food.
+Clinic: Happy Clinic
+Date: 09-02-2026
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 1234567890 | Reg No: REG456
+Name: John Doe ID: PID002
+Age: 30 Gender: Female
+Contact: 9688616487
+Date: 09-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Fluconazole After food Ongoing
+Pantoprazole Once daily Ongoing
+Signature:
+Dr. Sample, MBBS, MD
+Amlodipine and Metronidazole once daily after food.
+Clinic: Happy Clinic
+Date: 09-02-2026
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 9876543210 | Reg No: REG456
+Name: Jane Smith ID: PID002
+Age: 45 Gender: Male
+Contact: 5551234
+Date: 09-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Amlong Once daily 14 days
+Sucralfate Twice daily 14 days
+Signature:
+Dr. Sample, MBBS, MD
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 9876543210 | Reg No: REG456
+Name: John Doe ID: PID002
+Age: 61 Gender: Female
+Contact: 9688616487
+Date: 10-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Piperacillin-Tazobactam After food Ongoing
+Metoclopramide Twice daily Ongoing
+Signature:
+Dr. Sample, MBBS, MD
+Patient: John Doe, Age: 30
+Prescribed: Doxycycline daily, Ketoconazole as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Patient: Kannan, Age: 45
+Prescribed: Nitrofurantoin daily, Pyrazinamide as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Patient: Kannan, Age: 61
+Prescribed: Clopidogrel daily, Telmisartan as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Patient: John Doe, Age: 61
+Prescribed: Vildagliptin daily, Morphine as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 9876543210 | Reg No: REG123
+Name: Jane Smith ID: PID002
+Age: 45 Gender: Female
+Contact: 9688616487
+Date: 09-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Nitroglycerin Once daily 7 days
+Sucralfate Once daily Ongoing
+Signature:
+Dr. Sample, MBBS, MD
+Patient: Kannan, Age: 30
+Prescribed: Rifampicin daily, Domperidone as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Patient: Kannan, Age: 30
+Prescribed: Amlong daily, Simvastatin as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 1234567890 | Reg No: REG123
+Name: John Doe ID: PID002
+Age: 61 Gender: Female
+Contact: 5551234
+Date: 09-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Metoprolol Twice daily 7 days
+Metformin Twice daily Ongoing
+Signature:
+Dr. Sample, MBBS, MD
+Combiflam and Nitroglycerin once daily after food.
+Clinic: Happy Clinic
+Date: 10-02-2026
+Losar and Cetirizine once daily after food.
+Clinic: Happy Clinic
+Date: 10-02-2026
+Patient: Jane Smith, Age: 30
+Prescribed: Sucralfate daily, Domperidone as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Patient: John Doe, Age: 30
+Prescribed: Nitroglycerin daily, Amikacin as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Vancomycin and Metoclopramide once daily after food.
+Clinic: Happy Clinic
+Date: 10-02-2026
+Insulin Glargine and Metoclopramide once daily after food.
+Clinic: Happy Clinic
+Date: 09-02-2026
+Patient: Jane Smith, Age: 30
+Prescribed: Salbutamol daily, Cetirizine as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 9876543210 | Reg No: REG456
+Name: Jane Smith ID: PID001
+Age: 61 Gender: Female
+Contact: 9688616487
+Date: 09-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Ranitidine Once daily 7 days
+Tramadol Once daily Ongoing
+Signature:
+Dr. Sample, MBBS, MD
+Ceftriaxone and Combiflam once daily after food.
+Clinic: Happy Clinic
+Date: 10-02-2026
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 1234567890 | Reg No: REG123
+Name: Jane Smith ID: PID002
+Age: 45 Gender: Male
+Contact: 9688616487
+Date: 09-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Bisoprolol Before food Ongoing
+Ciprofloxacin Before food 14 days
+Signature:
+Dr. Sample, MBBS, MD
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 1234567890 | Reg No: REG123
+Name: John Doe ID: PID001
+Age: 30 Gender: Male
+Contact: 5551234
+Date: 10-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Isoniazid Once daily 7 days
+Propranolol Once daily 14 days
+Signature:
+Dr. Sample, MBBS, MD
+Ethambutol and Dolo 650 once daily after food.
+Clinic: Happy Clinic
+Date: 10-02-2026
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 9876543210 | Reg No: REG123
+Name: Kannan ID: PID002
+Age: 30 Gender: Female
+Contact: 5551234
+Date: 10-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Vancomycin Before food 7 days
+Combiflam After food Ongoing
+Signature:
+Dr. Sample, MBBS, MD
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 9876543210 | Reg No: REG456
+Name: Kannan ID: PID001
+Age: 30 Gender: Male
+Contact: 5551234
+Date: 09-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Dolo 650 Before food 7 days
+Acyclovir Once daily Ongoing
+Signature:
+Dr. Sample, MBBS, MD
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 9876543210 | Reg No: REG123
+Name: Kannan ID: PID001
+Age: 30 Gender: Male
+Contact: 5551234
+Date: 09-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Levothyroxine After food Ongoing
+Doxycycline After food 7 days
+Signature:
+Dr. Sample, MBBS, MD
+Fexofenadine and Metronidazole once daily after food.
+Clinic: Happy Clinic
+Date: 10-02-2026
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 9876543210 | Reg No: REG456
+Name: John Doe ID: PID001
+Age: 61 Gender: Male
+Contact: 5551234
+Date: 10-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Metronidazole Before food 14 days
+Digoxin Once daily 7 days
+Signature:
+Dr. Sample, MBBS, MD
+Patient: Jane Smith, Age: 45
+Prescribed: Combiflam daily, Linezolid as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Patient: Jane Smith, Age: 45
+Prescribed: Ibuprofen daily, Pyrazinamide as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Brufen and Pantocid once daily after food.
+Clinic: Happy Clinic
+Date: 10-02-2026
+Aspirin and Pyrazinamide once daily after food.
+Clinic: Happy Clinic
+Date: 09-02-2026
+Esomeprazole and Levocetirizine once daily after food.
+Clinic: Happy Clinic
+Date: 09-02-2026
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 9876543210 | Reg No: REG456
+Name: Jane Smith ID: PID001
+Age: 30 Gender: Female
+Contact: 9688616487
+Date: 09-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Doxycycline Before food 7 days
+Ciprofloxacin Before food 7 days
+Signature:
+Dr. Sample, MBBS, MD
+Sucralfate and Formoterol once daily after food.
+Clinic: Happy Clinic
+Date: 09-02-2026
+Aspirin and Naproxen once daily after food.
+Clinic: Happy Clinic
+Date: 09-02-2026
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 9876543210 | Reg No: REG123
+Name: John Doe ID: PID001
+Age: 61 Gender: Female
+Contact: 5551234
+Date: 09-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Acyclovir Before food Ongoing
+Ketoconazole Before food 7 days
+Signature:
+Dr. Sample, MBBS, MD
+Cefixime and Ceftriaxone once daily after food.
+Clinic: Happy Clinic
+Date: 10-02-2026
+Gliclazide and Salbutamol once daily after food.
+Clinic: Happy Clinic
+Date: 09-02-2026
+Patient: John Doe, Age: 30
+Prescribed: Insulin Glargine daily, Metoclopramide as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 1234567890 | Reg No: REG456
+Name: Kannan ID: PID001
+Age: 45 Gender: Male
+Contact: 5551234
+Date: 09-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Piperacillin-Tazobactam Twice daily Ongoing
+Metoclopramide After food 7 days
+Signature:
+Dr. Sample, MBBS, MD
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 9876543210 | Reg No: REG456
+Name: Kannan ID: PID002
+Age: 61 Gender: Male
+Contact: 9688616487
+Date: 09-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Domperidone After food Ongoing
+Insulin Twice daily 7 days
+Signature:
+Dr. Sample, MBBS, MD
+Patient: Kannan, Age: 61
+Prescribed: Clopidogrel daily, Rifampicin as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 9876543210 | Reg No: REG456
+Name: Kannan ID: PID002
+Age: 61 Gender: Male
+Contact: 5551234
+Date: 10-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Doxycycline Before food Ongoing
+Budesonide Twice daily Ongoing
+Signature:
+Dr. Sample, MBBS, MD
+Diclofenac and Dolo once daily after food.
+Clinic: Happy Clinic
+Date: 10-02-2026
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 1234567890 | Reg No: REG123
+Name: John Doe ID: PID001
+Age: 30 Gender: Female
+Contact: 5551234
+Date: 09-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Montelukast Once daily Ongoing
+Digoxin Twice daily Ongoing
+Signature:
+Dr. Sample, MBBS, MD
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 9876543210 | Reg No: REG456
+Name: John Doe ID: PID001
+Age: 45 Gender: Female
+Contact: 9688616487
+Date: 10-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Crocin Once daily 7 days
+Itraconazole Before food 7 days
+Signature:
+Dr. Sample, MBBS, MD
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 9876543210 | Reg No: REG456
+Name: John Doe ID: PID001
+Age: 30 Gender: Male
+Contact: 9688616487
+Date: 10-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Atenolol Before food 7 days
+Isosorbide Mononitrate Twice daily 14 days
+Signature:
+Dr. Sample, MBBS, MD
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 9876543210 | Reg No: REG456
+Name: Kannan ID: PID001
+Age: 30 Gender: Female
+Contact: 9688616487
+Date: 09-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Dolo 650 Once daily 7 days
+Metformin Before food 14 days
+Signature:
+Dr. Sample, MBBS, MD
+Patient: John Doe, Age: 61
+Prescribed: Linezolid daily, Metoclopramide as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 9876543210 | Reg No: REG456
+Name: John Doe ID: PID001
+Age: 61 Gender: Male
+Contact: 5551234
+Date: 09-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Brufen After food 14 days
+Aspirin Twice daily 14 days
+Signature:
+Dr. Sample, MBBS, MD
+Ranitidine and Pantoprazole once daily after food.
+Clinic: Happy Clinic
+Date: 10-02-2026
+Ibuprofen and Montelukast once daily after food.
+Clinic: Happy Clinic
+Date: 09-02-2026
+Cloxacillin and Amoxicillin once daily after food.
+Clinic: Happy Clinic
+Date: 10-02-2026
+Patient: Kannan, Age: 30
+Prescribed: Pyrazinamide daily, Itraconazole as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Pyrazinamide and Furosemide once daily after food.
+Clinic: Happy Clinic
+Date: 10-02-2026
+Doxycycline and Metoclopramide once daily after food.
+Clinic: Happy Clinic
+Date: 09-02-2026
+Fexofenadine and Domperidone once daily after food.
+Clinic: Happy Clinic
+Date: 10-02-2026
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 1234567890 | Reg No: REG123
+Name: John Doe ID: PID002
+Age: 30 Gender: Female
+Contact: 5551234
+Date: 10-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Digoxin After food 14 days
+Crocin Once daily 14 days
+Signature:
+Dr. Sample, MBBS, MD
+Patient: Kannan, Age: 61
+Prescribed: Insulin daily, Gentamicin as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Heparin and Metformin once daily after food.
+Clinic: Happy Clinic
+Date: 10-02-2026
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 9876543210 | Reg No: REG456
+Name: Jane Smith ID: PID002
+Age: 45 Gender: Male
+Contact: 9688616487
+Date: 10-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Clarithromycin Before food Ongoing
+Naproxen Twice daily Ongoing
+Signature:
+Dr. Sample, MBBS, MD
+Diclofenac and Esomeprazole once daily after food.
+Clinic: Happy Clinic
+Date: 09-02-2026
+Nitroglycerin and Rifampicin once daily after food.
+Clinic: Happy Clinic
+Date: 10-02-2026
+Patient: John Doe, Age: 30
+Prescribed: Amikacin daily, Hydrochlorothiazide as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Patient: John Doe, Age: 61
+Prescribed: Propranolol daily, Losar as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Nitrofurantoin and Losar once daily after food.
+Clinic: Happy Clinic
+Date: 09-02-2026
+Metformin and Warfarin once daily after food.
+Clinic: Happy Clinic
+Date: 10-02-2026
+Ketoconazole and Dolo once daily after food.
+Clinic: Happy Clinic
+Date: 10-02-2026
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 9876543210 | Reg No: REG456
+Name: John Doe ID: PID001
+Age: 30 Gender: Male
+Contact: 9688616487
+Date: 10-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Combiflam After food 14 days
+Tramadol Before food 14 days
+Signature:
+Dr. Sample, MBBS, MD
+Glimepiride and Nitrofurantoin once daily after food.
+Clinic: Happy Clinic
+Date: 10-02-2026
+Patient: Jane Smith, Age: 45
+Prescribed: Aspirin daily, Clarithromycin as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Patient: Jane Smith, Age: 30
+Prescribed: Sitagliptin daily, Losar as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Patient: John Doe, Age: 45
+Prescribed: Chlorpheniramine daily, Amoxicillin as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Chlorpheniramine and Metronidazole once daily after food.
+Clinic: Happy Clinic
+Date: 09-02-2026
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 1234567890 | Reg No: REG456
+Name: Kannan ID: PID001
+Age: 45 Gender: Female
+Contact: 9688616487
+Date: 10-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Ceftriaxone Twice daily 7 days
+Ciprofloxacin After food 14 days
+Signature:
+Dr. Sample, MBBS, MD
+Rabeprazole and Gentamicin once daily after food.
+Clinic: Happy Clinic
+Date: 10-02-2026
+Tinidazole and Esomeprazole once daily after food.
+Clinic: Happy Clinic
+Date: 09-02-2026
+Simvastatin and Brufen once daily after food.
+Clinic: Happy Clinic
+Date: 09-02-2026
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 1234567890 | Reg No: REG456
+Name: Kannan ID: PID002
+Age: 61 Gender: Male
+Contact: 5551234
+Date: 09-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Oseltamivir Twice daily Ongoing
+Formoterol Once daily Ongoing
+Signature:
+Dr. Sample, MBBS, MD
+Patient: John Doe, Age: 45
+Prescribed: Atorvastatin daily, Cetirizine as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 1234567890 | Reg No: REG123
+Name: Kannan ID: PID001
+Age: 61 Gender: Female
+Contact: 5551234
+Date: 09-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Ampicillin Once daily 14 days
+Ketoconazole Once daily 14 days
+Signature:
+Dr. Sample, MBBS, MD
+Patient: John Doe, Age: 30
+Prescribed: Formoterol daily, Oseltamivir as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Levocetirizine and Glimepiride once daily after food.
+Clinic: Happy Clinic
+Date: 10-02-2026
+Patient: Jane Smith, Age: 45
+Prescribed: Propranolol daily, Esomeprazole as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Metoclopramide and Acyclovir once daily after food.
+Clinic: Happy Clinic
+Date: 10-02-2026
+Cetirizine and Fluconazole once daily after food.
+Clinic: Happy Clinic
+Date: 10-02-2026
+Ampicillin and Chlorpheniramine once daily after food.
+Clinic: Happy Clinic
+Date: 10-02-2026
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 1234567890 | Reg No: REG123
+Name: Jane Smith ID: PID002
+Age: 45 Gender: Female
+Contact: 9688616487
+Date: 09-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Warfarin Twice daily 14 days
+Atorvastatin Before food 14 days
+Signature:
+Dr. Sample, MBBS, MD
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 9876543210 | Reg No: REG456
+Name: Kannan ID: PID001
+Age: 61 Gender: Male
+Contact: 9688616487
+Date: 09-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Losar Twice daily Ongoing
+Pantocid Twice daily 14 days
+Signature:
+Dr. Sample, MBBS, MD
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 1234567890 | Reg No: REG456
+Name: Jane Smith ID: PID002
+Age: 30 Gender: Female
+Contact: 5551234
+Date: 09-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Crocin Twice daily 7 days
+Salbutamol Once daily 14 days
+Signature:
+Dr. Sample, MBBS, MD
+Rifampicin and Dolo 650 once daily after food.
+Clinic: Happy Clinic
+Date: 09-02-2026
+Atorvastatin and Isoniazid once daily after food.
+Clinic: Happy Clinic
+Date: 09-02-2026
+Patient: John Doe, Age: 30
+Prescribed: Nitrofurantoin daily, Esomeprazole as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 1234567890 | Reg No: REG123
+Name: Kannan ID: PID001
+Age: 30 Gender: Male
+Contact: 5551234
+Date: 10-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Aspirin Before food 7 days
+Amoxicillin Before food 7 days
+Signature:
+Dr. Sample, MBBS, MD
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 1234567890 | Reg No: REG123
+Name: Kannan ID: PID002
+Age: 30 Gender: Female
+Contact: 5551234
+Date: 10-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Gentamicin Twice daily 7 days
+Sucralfate Once daily Ongoing
+Signature:
+Dr. Sample, MBBS, MD
+Patient: John Doe, Age: 61
+Prescribed: Cloxacillin daily, Insulin as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 1234567890 | Reg No: REG456
+Name: John Doe ID: PID002
+Age: 61 Gender: Male
+Contact: 9688616487
+Date: 10-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Pantoprazole Once daily 7 days
+Diphenhydramine Before food Ongoing
+Signature:
+Dr. Sample, MBBS, MD
+Patient: John Doe, Age: 30
+Prescribed: Hydrochlorothiazide daily, Itraconazole as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Patient: Kannan, Age: 45
+Prescribed: Crocin daily, Montelukast as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 1234567890 | Reg No: REG123
+Name: Kannan ID: PID001
+Age: 61 Gender: Female
+Contact: 9688616487
+Date: 09-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Simvastatin Twice daily Ongoing
+Rabeprazole Twice daily Ongoing
+Signature:
+Dr. Sample, MBBS, MD
+Warfarin and Dapagliflozin once daily after food.
+Clinic: Happy Clinic
+Date: 09-02-2026
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 9876543210 | Reg No: REG123
+Name: John Doe ID: PID002
+Age: 45 Gender: Female
+Contact: 5551234
+Date: 10-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Heparin After food Ongoing
+Enoxaparin Before food 7 days
+Signature:
+Dr. Sample, MBBS, MD
+Patient: John Doe, Age: 30
+Prescribed: Sucralfate daily, Rabeprazole as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Insulin and Aspirin once daily after food.
+Clinic: Happy Clinic
+Date: 09-02-2026
+Atorva and Clarithromycin once daily after food.
+Clinic: Happy Clinic
+Date: 09-02-2026
+Telmisartan and Montelukast once daily after food.
+Clinic: Happy Clinic
+Date: 10-02-2026
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 9876543210 | Reg No: REG456
+Name: Kannan ID: PID001
+Age: 30 Gender: Female
+Contact: 5551234
+Date: 10-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Insulin Once daily 14 days
+Ampicillin Twice daily Ongoing
+Signature:
+Dr. Sample, MBBS, MD
+Patient: Jane Smith, Age: 30
+Prescribed: Amlong daily, Sucralfate as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 1234567890 | Reg No: REG123
+Name: Jane Smith ID: PID002
+Age: 30 Gender: Female
+Contact: 9688616487
+Date: 09-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Tramadol After food 14 days
+Rabeprazole After food Ongoing
+Signature:
+Dr. Sample, MBBS, MD
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 9876543210 | Reg No: REG456
+Name: John Doe ID: PID001
+Age: 30 Gender: Male
+Contact: 5551234
+Date: 09-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Naproxen After food 14 days
+Vancomycin After food 14 days
+Signature:
+Dr. Sample, MBBS, MD
+Patient: Jane Smith, Age: 61
+Prescribed: Propranolol daily, Ibuprofen as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Metronidazole and Ethambutol once daily after food.
+Clinic: Happy Clinic
+Date: 10-02-2026
+Patient: Jane Smith, Age: 30
+Prescribed: Morphine daily, Insulin as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Patient: John Doe, Age: 30
+Prescribed: Piperacillin-Tazobactam daily, Pioglitazone as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Patient: Jane Smith, Age: 61
+Prescribed: Atorlip daily, Telmisartan as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Patient: Jane Smith, Age: 61
+Prescribed: Bisoprolol daily, Rifampicin as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 1234567890 | Reg No: REG456
+Name: Kannan ID: PID002
+Age: 61 Gender: Female
+Contact: 9688616487
+Date: 10-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Glycomet Twice daily 7 days
+Telmisartan Twice daily Ongoing
+Signature:
+Dr. Sample, MBBS, MD
+Patient: Kannan, Age: 45
+Prescribed: Azithromycin daily, Ampicillin as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Patient: Jane Smith, Age: 61
+Prescribed: Diphenhydramine daily, Ondansetron as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Fexofenadine and Crocin once daily after food.
+Clinic: Happy Clinic
+Date: 09-02-2026
+Patient: Jane Smith, Age: 61
+Prescribed: Ceftriaxone daily, Isoniazid as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Happy Clinic
+Dr. Sample, MBBS, MD
+123 Medical Street, City, State, ZIP
+Phone: +91 9876543210 | Reg No: REG456
+Name: Jane Smith ID: PID001
+Age: 45 Gender: Male
+Contact: 9688616487
+Date: 10-02-2026
+MEDICATIONS
+Medicine Frequency Duration
+Olmesartan Before food Ongoing
+Amlong Before food 14 days
+Signature:
+Dr. Sample, MBBS, MD
+Ceftriaxone and Hydrochlorothiazide once daily after food.
+Clinic: Happy Clinic
+Date: 10-02-2026
+Patient: John Doe, Age: 45
+Prescribed: Sitagliptin daily, Pantocid as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample
+Patient: Jane Smith, Age: 61
+Prescribed: Atorvastatin daily, Losartan as needed.
+Notes: Avoid alcohol.
+Doctor: Dr. Sample

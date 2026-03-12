@@ -1,0 +1,302 @@
+[
+    [
+        "Patient prescribed Warfarin and Aspirin once daily.",
+        {
+            "entities": [
+                [
+                    32,
+                    39,
+                    "MEDICINE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Patient prescribed Warfarin and Paracetamol once daily.",
+        {
+            "entities": [
+                [
+                    32,
+                    43,
+                    "MEDICINE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Patient prescribed Warfarin and Ibuprofen once daily.",
+        {
+            "entities": [
+                [
+                    32,
+                    41,
+                    "MEDICINE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Patient prescribed Warfarin and Clopidogrel once daily.",
+        {
+            "entities": [
+                [
+                    32,
+                    43,
+                    "MEDICINE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Patient prescribed Warfarin and Amoxicillin once daily.",
+        {
+            "entities": [
+                [
+                    32,
+                    43,
+                    "MEDICINE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Patient prescribed Metformin and Alcohol once daily.",
+        {
+            "entities": [
+                [
+                    19,
+                    28,
+                    "MEDICINE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Patient prescribed Pantoprazole and Clopidogrel once daily.",
+        {
+            "entities": [
+                [
+                    19,
+                    31,
+                    "MEDICINE"
+                ],
+                [
+                    36,
+                    47,
+                    "MEDICINE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Patient prescribed Atorvastatin and Clarithromycin once daily.",
+        {
+            "entities": [
+                [
+                    36,
+                    50,
+                    "MEDICINE"
+                ],
+                [
+                    19,
+                    31,
+                    "MEDICINE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Patient prescribed Levothyroxine and Iron supplements once daily.",
+        {
+            "entities": [
+                [
+                    37,
+                    53,
+                    "MEDICINE"
+                ],
+                [
+                    19,
+                    32,
+                    "MEDICINE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Patient prescribed Losartan and Spironolactone once daily.",
+        {
+            "entities": [
+                [
+                    32,
+                    46,
+                    "MEDICINE"
+                ],
+                [
+                    19,
+                    27,
+                    "MEDICINE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Patient prescribed Clopidogrel and Omeprazole once daily.",
+        {
+            "entities": [
+                [
+                    19,
+                    30,
+                    "MEDICINE"
+                ],
+                [
+                    35,
+                    45,
+                    "MEDICINE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Patient prescribed Azithromycin and Amiodarone once daily.",
+        {
+            "entities": [
+                [
+                    19,
+                    31,
+                    "MEDICINE"
+                ],
+                [
+                    36,
+                    46,
+                    "MEDICINE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Patient prescribed Ondansetron and Amiodarone once daily.",
+        {
+            "entities": [
+                [
+                    19,
+                    30,
+                    "MEDICINE"
+                ],
+                [
+                    35,
+                    45,
+                    "MEDICINE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Patient prescribed Domperidone and Ketoconazole once daily.",
+        {
+            "entities": [
+                [
+                    35,
+                    47,
+                    "MEDICINE"
+                ],
+                [
+                    19,
+                    30,
+                    "MEDICINE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Patient prescribed Pioglitazone and Gemfibrozil once daily.",
+        {
+            "entities": [
+                [
+                    19,
+                    31,
+                    "MEDICINE"
+                ],
+                [
+                    36,
+                    47,
+                    "MEDICINE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Patient prescribed Hydrochlorothiazide and Lithium once daily.",
+        {
+            "entities": [
+                [
+                    19,
+                    38,
+                    "MEDICINE"
+                ],
+                [
+                    43,
+                    50,
+                    "MEDICINE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Patient prescribed Paracetamol and Alcohol once daily.",
+        {
+            "entities": [
+                [
+                    19,
+                    30,
+                    "MEDICINE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Patient prescribed Glimepiride and Alcohol once daily.",
+        {
+            "entities": [
+                [
+                    19,
+                    30,
+                    "MEDICINE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Patient prescribed Amlodipine and Simvastatin once daily.",
+        {
+            "entities": [
+                [
+                    34,
+                    45,
+                    "MEDICINE"
+                ],
+                [
+                    19,
+                    29,
+                    "MEDICINE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Patient prescribed Telmisartan and Spironolactone once daily.",
+        {
+            "entities": [
+                [
+                    35,
+                    49,
+                    "MEDICINE"
+                ],
+                [
+                    19,
+                    30,
+                    "MEDICINE"
+                ]
+            ]
+        }
+    ]
+]

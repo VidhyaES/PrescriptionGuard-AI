@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+uploads/
+.env
+venv/
+*.pth
+*.pt
+*.h5
+.DS_Store
+medicine_model/
+images/
